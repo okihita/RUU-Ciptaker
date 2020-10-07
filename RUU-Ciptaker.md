@@ -150,9 +150,9 @@ Beberapa ketentuan dalam Undang-Undang Nomor 13 Tahun 2003 tentang Ketenagakerja
 > Pasal 13
 >
 > (1) Pelatihan kerja diselenggarakan oleh:
-* a. lembaga pelatihan kerja pemerintah;
-* b. lembaga pelatihan kerja swasta; atau
-* c. lembaga pelatihan kerja perusahaan.
+> * a. lembaga pelatihan kerja pemerintah;
+> * b. lembaga pelatihan kerja swasta; atau
+> * c. lembaga pelatihan kerja perusahaan.
 >
 > (2) Pelatihan kerja dapat diselenggarakan di tempat pelatihan atau tempat kerja.
 >
