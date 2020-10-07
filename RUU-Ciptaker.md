@@ -73,6 +73,62 @@ Dalam Undang-Undang ini yang dimaksud dengan:
 
 ---
 
+### BAB II — ASAS, TUJUAN, DAN RUANG LINGKUP
+
+#### Pasal 2
+(1) Undang-Undang ini diselenggarakan berdasarkan asas:
+* a. pemerataan hak;
+* b. kepastian hukum;
+* c. kemudahan berusaha;
+* d. kebersamaan; dan
+* e. kemandirian.
+
+(2) Selain berdasarkan asas sebagaimana dimaksud pada ayat (1), penyelenggaraan Cipta Kerja dilaksanakan berdasarkan asas lain sesuai dengan bidang hukum yang diatur dalam undang-undang yang bersangkutan.
+
+#### Pasal 3
+Undang-Undang ini dibentuk dengan tujuan untuk:
+
+* a. menciptakan dan meningkatkan lapangan kerja dengan memberikan kemudahan, perlindungan, dan pemberdayaan terhadap koperasi dan UMK-M serta industri dan perdagangan nasional sebagai upaya untuk dapat menyerap tenaga kerja Indonesia yang seluas-luasnya, dengan tetap memperhatikan keseimbangan dan kemajuan antar daerah dalam kesatuan ekonomi nasional;
+
+* b. menjamin setiap warga negara memperoleh pekerjaan, serta mendapat imbalan dan perlakuan yang adil dan layak dalam hubungan kerja;
+
+* c. penyesuaian berbagai aspek pengaturan yang berkaitan dengan keberpihakan, penguatan, dan perlindungan bagi koperasi dan UMK-M serta industri nasional; dan
+
+* d. penyesuaian berbagai aspek pengaturan yang berkaitan dengan peningkatan ekosistem investasi, kemudahan dan percepatan proyek strategis nasional yang berorientasi pada kepentingan nasional yang berlandaskan pada ilmu pengetahuan dan teknologi nasional dengan berpedoman pada haluan ideologi Pancasila.
+
+
+#### Pasal 4
+Dalam rangka mencapai tujuan sebagaimana dimaksud dalam Pasal 3, Undang-Undang ini mengatur mengenai kebijakan strategis Cipta Kerja yang meliputi:
+
+* a. peningkatan ekosistem investasi dan kegiatan berusaha;
+* b. ketenagakerjaan;
+* c. kemudahan, perlindungan, serta pemberdayaan koperasi dan UMK-M;
+* d. kemudahan berusaha;
+* e. dukungan riset dan inovasi;
+* f. pengadaan tanah;
+* g. kawasan ekonomi;
+* h. investasi Pemerintah Pusat dan percepatan proyek strategis nasional;
+* i. pelaksanaan administrasi pemerintahan; dan
+* j. pengenaan sanksi.
+
+#### Pasal 5
+
+(1) Ruang lingkup Undang-Undang ini meliputi:
+* a. peningkatan ekosistem investasi dan kegiatan berusaha;
+* b. ketenagakerjaan;
+* c. kemudahan, perlindungan, serta pemberdayaan koperasi dan UMK-M;
+* d. kemudahan berusaha;
+* e. dukungan riset dan inovasi;
+* f. pengadaan tanah;
+* g. kawasan ekonomi;
+* h. investasi Pemerintah Pusat dan percepatan proyek strategis nasional;
+* i. pelaksanaan administrasi pemerintahan; dan
+* j. pengenaan sanksi.
+
+(2) Ruang lingkup sebagaimana dimaksud pada ayat (1) meliputi bidang hukum yang diatur dalam undang-undang terkait.
+
+---
+
 <!-- UUD 1945 -->
 
 [uud45p4]: https://github.com/ariefrahmansyah/uud-1945/blob/master/uud-1945.md#pasal-4
