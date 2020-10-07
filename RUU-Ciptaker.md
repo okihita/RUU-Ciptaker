@@ -32,15 +32,48 @@ f. bahwa berdasarkan pertimbangan sebagai mana dimaksud pada huruf a, huruf b, h
 
 ---
 
-Dengan Persetujuan Bersama\
-DEWAN PERWAKILAN RAKYAT REPUBLIK INDONESIA\
-DAN\
+Dengan Persetujuan Bersama  
+DEWAN PERWAKILAN RAKYAT REPUBLIK INDONESIA  
+DAN  
 PRESIDEN REPUBLIK INDONESIA
 
-MEMUTUSKAN:\
+MEMUTUSKAN:  
 Menetapkan : **UNDANG-UNDANG TENTANG CIPTA KERJA**.
 
 ---
+
+### BAB I — KETENTUAN UMUM
+
+#### Pasal 1
+Dalam Undang-Undang ini yang dimaksud dengan:
+
+1. *Cipta Kerja* adalah upaya penciptaan kerja melalui usaha kemudahan, perlindungan, dan pemberdayaan koperasi dan usaha mikro, kecil, dan menengah, peningkatan ekosistem investasi dan kemudahan berusaha, dan investasi Pemerintah Pusat dan percepatan proyek strategis nasional.
+
+2. *Koperasi* adalah koperasi sebagaimana yang dimaksud dalam Undang-Undang tentang perkoperasian.
+
+3. *Usaha Mikro, Kecil, dan Menengah* yang selanjutnya disingkat *UMK-M* adalah usaha mikro, usaha kecil, dan usaha menengah sebagaimana yang dimaksud dalam Undang-Undang tentang Usaha Mikro, Kecil, dan Menengah.
+
+4. *Perizinan Berusaha* adalah legalitas yang diberikan kepada Pelaku Usaha untuk memulai dan menjalankan usaha dan/atau kegiatannya.
+
+5. *Pemerintah Pusat* adalah Presiden Republik Indonesia yang memegang kekuasaan pemerintahan negara Republik Indonesia yang dibantu oleh wakil Presiden dan menteri sebagaimana dimaksud dalam Undang-Undang Dasar Negara Republik Indonesia Tahun 1945.
+
+6. *Pemerintahan Daerah* adalah penyelenggaraan urusan pemerintahan oleh Pemerintah Daerah dan dewan perwakilan rakyat daerah menurut asas otonomi dan tugas pembantuan dengan prinsip otonomi seluas-luasnya dalam sistem dan prinsip Negara Kesatuan Republik Indonesia sebagaimana dimaksud dalam Undang-Undang Dasar Negara Republik Indonesia Tahun 1945.
+
+7. *Pemerintah Daerah* adalah kepala daerah sebagai unsur penyelenggara Pemerintahan Daerah yang memimpin pelaksanaan urusan pemerintahan yang menjadi kewenangan daerah otonom.
+
+8. *Pelaku Usaha* adalah orang perseorangan atau badan usaha yang melakukan usaha dan/atau kegiatan pada bidang tertentu.
+
+9. *Badan Usaha* adalah badan usaha berbentuk badan hukum atau tidak berbentuk badan hukum yang didirikan di wilayah Negara Kesatuan Republik Indonesia dan melakukan usaha dan/atau kegiatan pada bidang tertentu.
+
+10. *Rencana Detail Tata Ruang* yang selanjutnya disingkat *RDTR* adalah rencana secara terperinci tentang tata ruang wilayah kabupaten/kota yang dilengkapi dengan peraturan zonasi kabupaten/kota.
+
+11. *Persetujuan Bangunan Gedung* adalah perizinan yang diberikan kepada pemilik bangunan gedung untuk membangun baru, mengubah, memperluas, mengurangi, dan/atau merawat bangunan gedung sesuai dengan persyaratan administratif dan persyaratan teknis yang berlaku.
+
+12. *Hari* adalah hari kerja sesuai yang ditetapkan oleh Pemerintah Pusat.
+
+---
+
+<!-- UUD 1945 -->
 
 [uud45p4]: https://github.com/ariefrahmansyah/uud-1945/blob/master/uud-1945.md#pasal-4
 [uud45p5]: https://github.com/ariefrahmansyah/uud-1945/blob/master/uud-1945.md#pasal-5
@@ -53,5 +86,7 @@ Menetapkan : **UNDANG-UNDANG TENTANG CIPTA KERJA**.
 [uud45p28d]: https://github.com/ariefrahmansyah/uud-1945/blob/master/uud-1945.md#pasal-28d-
 [uud45p33]: https://github.com/ariefrahmansyah/uud-1945/blob/master/uud-1945.md#pasal-33
 
-[mpr1998XVI]: https://www.hukumonline.com/pusatdata/detail/lt508e1956c806b/node/21/tap-mpr-no-xvi_mpr_1998-tahun-1998-politik-ekonomi-dalam-rangka-demokrasi-ekonomi
-[mpr2001IX]: https://kabupatenlestari.org/pustaka/unduh/86
+<!-- TAP MPR -->
+
+[mpr1998XVI]: https://github.com/rms46/uuri/blob/master/MPR/1998/TAP-MPR-1998-016-POLITIK-EKONOMI-DALAM-RANGKA-DEMOKRASI-EKONOMI.pdf
+[mpr2001IX]: https://github.com/rms46/uuri/blob/master/MPR/2001/TAP-MPR-2001-009-PEMBARUAN-AGRARIA-DAN-PENGELOLAAN-SUMBER-DAYA-ALAM.pdf
