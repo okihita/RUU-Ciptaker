@@ -128,6 +128,59 @@ Dalam rangka mencapai tujuan sebagaimana dimaksud dalam Pasal 3, Undang-Undang i
 (2) Ruang lingkup sebagaimana dimaksud pada ayat (1) meliputi bidang hukum yang diatur dalam undang-undang terkait.
 
 ---
+### BAB IV — KETENAGAKERJAAN
+
+#### Bagian Kesatu - Umum
+
+##### Pasal 80
+Dalam rangka penguatan perlindungan kepada tenaga kerja dan meningkatkan peran dan kesejahteraan pekerja/buruh dalam mendukung ekosistem investasi, Undang-Undang ini mengubah, menghapus, atau menetapkan pengaturan baru beberapa ketentuan yang diatur dalam:
+
+* a. Undang-Undang Nomor 13 Tahun 2003 tentang Ketenagakerjaan (Lembaran Negara Republik Indonesia Tahun 2003 Nomor 39, Tambahan Lembaran Negara Republik Indonesia 4279);
+* b. Undang-Undang Nomor 40 Tahun 2004 tentang Sistem Jaminan Sosial Nasional (Lembaran Negara Republik Indonesia Tahun 2004 Nomor 150, Tambahan Lembaran Negara Republik Indonesia 4456);
+* c. Undang-Undang Nomor 24 Tahun 2011 tentang Badan Penyelenggara Jaminan Sosial (Lembaran Negara Republik Indonesia Tahun 2011 Nomor 116, Tambahan Lembaran Negara Republik Indonesia 5256); dan
+* d. Undang-Undang Nomor 18 Tahun 2017 tentang Pelindungan Pekerja Migran Indonesia (Lembaran Negara Republik Indonesia Tahun 2017 Nomor 242, Tambahan Lembaran Negara Republik Indonesia 6141).
+
+#### Bagian Kedua - Ketenagakerjaan
+
+##### Pasal 81
+Beberapa ketentuan dalam Undang-Undang Nomor 13 Tahun 2003 tentang Ketenagakerjaan (Lembaran Negara Republik Indonesia Tahun 2003 Nomor 39, Tambahan Lembaran Negara Republik Indonesia 4279) diubah:
+
+1. Ketentuan Pasal 13 diubah, sehingga berbunyi sebagai berikut:
+
+> Pasal 13
+>
+> (1) Pelatihan kerja diselenggarakan oleh:
+* a. lembaga pelatihan kerja pemerintah;
+* b. lembaga pelatihan kerja swasta; atau
+* c. lembaga pelatihan kerja perusahaan.
+>
+> (2) Pelatihan kerja dapat diselenggarakan di tempat pelatihan atau tempat kerja.
+>
+> (3) Lembaga pelatihan kerja pemerintah sebagaimana dimaksud pada ayat (1) huruf a dalam menyelenggarakan pelatihan kerja dapat bekerja sama dengan swasta.
+>
+> (4) Lembaga pelatihan kerja pemerintah sebagaimana dimaksud pada ayat (1) huruf a dan lembaga pelatihan kerja perusahaan sebagaimana dimaksud pada ayat (1) huruf c mendaftarkan kegiatannya kepada instansi yang bertanggung jawab di bidang ketenagakerjaan di kabupaten/kota.
+
+2. Ketentuan Pasal 14 diubah, sehingga berbunyi sebagai berikut:
+
+> Pasal 14
+>
+> (1) Lembaga pelatihan kerja swasta sebagaimana dimaksud dalam Pasal 13 ayat (1) huruf b wajib memenuhi Perizinan Berusaha yang diterbitkan oleh Pemerintah Daerah Kabupaten/Kota.
+>
+> (2) Bagi lembaga pelatihan kerja swasta yang terdapat penyertaan modal asing, Perizinan Berusaha sebagaimana dimaksud pada ayat (1) diterbitkan oleh Pemerintah Pusat.
+>
+> (3) Perizinan Berusaha sebagaimana dimaksud pada ayat (1) dan ayat (2) harus memenuhi norma, standar, prosedur, dan kriteria yang ditetapkan oleh Pemerintah Pusat.
+
+3. Ketentuan Pasal 37 diubah, sehingga berbunyi sebagai berikut:
+
+> Pasal 37
+
+
+
+
+
+
+
+---
 
 <!-- UUD 1945 -->
 
