@@ -1,12 +1,12 @@
-### RANCANGAN  
+### RANCANGAN
 UNDANG-UNDANG REPUBLIK INDONESIA\
 NOMOR… TAHUN...\
 TENTANG\
 CIPTA KERJA
 
-DENGAN RAHMAT TUHAN YANG MAHA ESA  
+DENGAN RAHMAT TUHAN YANG MAHA ESA
 
-PRESIDEN REPUBLIK INDONESIA,  
+PRESIDEN REPUBLIK INDONESIA,
 
 #### Menimbang :
 
@@ -32,12 +32,12 @@ f. bahwa berdasarkan pertimbangan sebagai mana dimaksud pada huruf a, huruf b, h
 
 ---
 
-Dengan Persetujuan Bersama  
-DEWAN PERWAKILAN RAKYAT REPUBLIK INDONESIA  
-DAN  
+Dengan Persetujuan Bersama
+DEWAN PERWAKILAN RAKYAT REPUBLIK INDONESIA
+DAN
 PRESIDEN REPUBLIK INDONESIA
 
-MEMUTUSKAN:  
+MEMUTUSKAN:
 Menetapkan : **UNDANG-UNDANG TENTANG CIPTA KERJA**.
 
 ---
@@ -486,7 +486,7 @@ sedikit meliputi:
 
 31. Di antara Pasal 92 dan Pasal 93 disisipkan 1 (satu) pasal yakni Pasal 92A sehingga berbunyi sebagai berikut:
 
->Pasal 92A
+> Pasal 92A
 >
 > Pengusaha melakukan peninjauan upah secara berkala dengan memperhatikan kemampuan perusahaan dan
 produktivitas.
@@ -644,145 +644,106 @@ produktivitas.
 >
 > (2) Pengusaha dapat melakukan tindakan skorsing kepada pekerja/buruh yang sedang dalam proses pemutusan hubungan kerja dengan tetap membayar upah beserta hak lainnya yang biasa diterima pekerja/buruh.
 >
-> (3) Pelaksanaan kewajiban sebagaimana dimaksud pada
-ayat (1) dilakukan sampai dengan selesainya proses
-penyelesaian perselisihan hubungan industrial sesuai
-tingkatannya.
+> (3) Pelaksanaan kewajiban sebagaimana dimaksud pada ayat (1) dilakukan sampai dengan selesainya proses penyelesaian perselisihan hubungan industrial sesuai tingkatannya.
+
 47. Ketentuan Pasal 158 dihapus.
+
 48. Ketentuan Pasal 159 dihapus.
+
 49. Ketentuan Pasal 160 diubah, sehingga berbunyi sebagai
 berikut:
-Pasal 160
-(1) Dalam hal pekerja/buruh ditahan pihak yang berwajib
-karena diduga melakukan tindak pidana maka
-pengusaha tidak wajib membayar upah tetapi wajib
-memberikan bantuan kepada keluarga pekerja/buruh
-yang menjadi tanggungannya dengan ketentuan sebagai
-berikut:
-a. untuk 1 (satu) orang tanggungan, 25% (dua puluh
-lima perseratus) dari upah;
-b. untuk 2 (dua) orang tanggungan, 35% (tiga puluh
-446
-lima perseratus) dari upah;
-c. untuk 3 (tiga) orang tanggungan, 45% (empat puluh
-lima perseratus) dari upah;
-d. untuk 4 (empat) orang tanggungan atau lebih, 50%
-(lima puluh perseratus) dari upah.
-(2) Bantuan sebagaimana dimaksud pada ayat (1)
-diberikan untuk paling lama 6 (enam) bulan terhitung
-sejak hari pertama pekerja/buruh ditahan oleh pihak
-yang berwajib.
-(3) Pengusaha dapat melakukan pemutusan hubungan
-kerja terhadap pekerja/buruh yang setelah 6 (enam)
-bulan tidak dapat melakukan pekerjaan sebagaimana
-mestinya karena dalam proses perkara pidana
-sebagaimana dimaksud pada ayat (1).
-(4) Dalam hal pengadilan memutuskan perkara pidana
-sebelum masa 6 (enam) bulan sebagaimana dimaksud
-pada ayat (3) berakhir dan pekerja/buruh dinyatakan
-tidak bersalah, pengusaha wajib mempekerjakan
-pekerja/buruh kembali.
-(5) Dalam hal pengadilan memutuskan perkara pidana
-sebelum masa 6 (enam) bulan berakhir dan
-pekerja/buruh dinyatakan bersalah, pengusaha dapat
-melakukan pemutusan hubungan kerja kepada
-pekerja/buruh yang bersangkutan.
+
+> Pasal 160
+>
+> (1) Dalam hal pekerja/buruh ditahan pihak yang berwajib karena diduga melakukan tindak pidana maka pengusaha tidak wajib membayar upah tetapi wajib memberikan bantuan kepada keluarga pekerja/buruh yang menjadi tanggungannya dengan ketentuan sebagai berikut:
+> * a. untuk 1 (satu) orang tanggungan, 25% (dua puluh lima perseratus) dari upah;
+> * b. untuk 2 (dua) orang tanggungan, 35% (tiga puluh lima perseratus) dari upah;
+> * c. untuk 3 (tiga) orang tanggungan, 45% (empat puluh lima perseratus) dari upah;
+> * d. untuk 4 (empat) orang tanggungan atau lebih, 50% (lima puluh perseratus) dari upah.
+>
+> (2) Bantuan sebagaimana dimaksud pada ayat (1) diberikan untuk paling lama 6 (enam) bulan terhitung sejak hari pertama pekerja/buruh ditahan oleh pihak yang berwajib.
+>
+> (3) Pengusaha dapat melakukan pemutusan hubungan kerja terhadap pekerja/buruh yang setelah 6 (enam) bulan tidak dapat melakukan pekerjaan sebagaimana mestinya karena dalam proses perkara pidana sebagaimana dimaksud pada ayat (1).
+>
+> (4) Dalam hal pengadilan memutuskan perkara pidana sebelum masa 6 (enam) bulan sebagaimana dimaksud pada ayat (3) berakhir dan pekerja/buruh dinyatakan tidak bersalah, pengusaha wajib mempekerjakan pekerja/buruh kembali.
+>
+> (5) Dalam hal pengadilan memutuskan perkara pidana sebelum masa 6 (enam) bulan berakhir dan pekerja/buruh dinyatakan bersalah, pengusaha dapat melakukan pemutusan hubungan kerja kepada pekerja/buruh yang bersangkutan.
+
 50. Ketentuan Pasal 161 dihapus.
+
 51. Ketentuan Pasal 162 dihapus.
+
 52. Ketentuan Pasal 163 dihapus.
+
 53. Ketentuan Pasal 164 dihapus.
+
 54. Ketentuan Pasal 165 dihapus.
+
 55. Ketentuan Pasal 166 dihapus.
+
 56. Ketentuan Pasal 167 dihapus.
+
 57. Ketentuan Pasal 168 dihapus.
+
 58. Ketentuan Pasal 169 dihapus.
+
 59. Ketentuan Pasal 170 dihapus.
-447
+
 60. Ketentuan Pasal 171 dihapus.
+
 61. Ketentuan Pasal 172 dihapus.
+
 62. Ketentuan Pasal 184 dihapus.
-63. Ketentuan Pasal 185 diubah, sehingga berbunyi sebagai
-berikut:
-Pasal 185
-(1) Barang siapa melanggar ketentuan sebagaimana
-dimaksud dalam Pasal 42 ayat (2), Pasal 68, Pasal 69
-ayat (2), Pasal 80, Pasal 82, Pasal 88A ayat (3), Pasal 88E
-ayat (2), Pasal 143, Pasal 156 ayat (1), dan Pasal 160
-ayat (4), dikenakan sanksi pidana penjara paling singkat
-1 (satu) tahun dan paling lama 4 (empat) tahun
-dan/atau denda paling sedikit Rp 100.000.000,00
-(seratus juta rupiah) dan paling banyak Rp
-400.000.000,00 (empat ratus juta rupiah).
-(2) Tindak pidana sebagaimana dimaksud dalam ayat (1)
-merupakan tindak pidana kejahatan.
-64. Ketentuan Pasal 186 diubah sehingga berbunyi sebagai
-berikut:
-Pasal 186
-(1) Barang siapa melanggar ketentuan sebagaimana
-dimaksud dalam Pasal 35 ayat (2) atau ayat (3), Pasal 93
-ayat (2), Pasal 137, atau Pasal 138 ayat (1), dikenakan
-sanksi pidana penjara paling singkat 1 (satu) bulan dan
-paling lama 4 (empat) tahun dan/atau denda paling
-sedikit Rp 10.000.000,00 (sepuluh juta rupiah) dan
-paling banyak Rp 400.000.000,00 (empat ratus juta
-rupiah).
-(2) Tindak pidana sebagaimana dimaksud pada ayat (1)
-merupakan tindak pidana pelanggaran.
-65. Ketentuan Pasal 187 diubah, sehingga berbunyi sebagai
-berikut:
-Pasal 187
-(1) Barang siapa melanggar ketentuan sebagaimana
-dimaksud dalam Pasal 45 ayat (1), Pasal 67 ayat (1),
-Pasal 71 ayat (2), Pasal 76, Pasal 78 ayat (2), Pasal 79
-ayat (1), ayat (2), atau ayat (3), Pasal 85 ayat (3), atau
-Pasal 144, dikenakan sanksi pidana kurungan paling
-448
-singkat 1 (satu) bulan dan paling lama 12 (dua belas)
-bulan dan/atau denda paling sedikit Rp 10.000.000,00
-(sepuluh juta rupiah) dan paling banyak Rp
-100.000.000,00 (seratus juta rupiah).
-(2) Tindak pidana sebagaimana dimaksud pada ayat (1)
-merupakan tindak pidana pelanggaran.
-66. Ketentuan Pasal 188 diubah, sehingga berbunyi sebagai
-berikut:
-Pasal 188
-(1) Barang siapa melanggar ketentuan sebagaimana
-dimaksud dalam Pasal 38 ayat (2), Pasal 63 ayat (1),
-Pasal 78 ayat (1), Pasal 108 ayat (1), Pasal 111 ayat (3),
-Pasal 114 atau Pasal 148, dikenakan sanksi pidana
-denda paling sedikit Rp 5.000.000,00 (lima juta rupiah)
-dan paling banyak Rp 50.000.000,00 (lima puluh juta
-rupiah).
-(2) Tindak pidana sebagaimana dimaksud pada ayat (1)
-merupakan tindak pidana pelanggaran.
-67. Ketentuan Pasal 190 diubah, sehingga Pasal 190 berbunyi
-sebagai berikut:
-Pasal 190
-(1) Pemerintah mengenakan sanksi administratif atas
-pelanggaran ketentuan-ketentuan sebagaimana diatur
-dalam Pasal 5, Pasal 6, Pasal 14 ayat (1), Pasal 15, Pasal
-25, Pasal 37 ayat (2), Pasal 38 ayat (2), Pasal 42 ayat (1),
-Pasal 47 ayat (1), Pasal 61A, Pasal 66 ayat (4), Pasal 87,
-Pasal 92, Pasal 106, Pasal 126 ayat (3), dan Pasal 160
-ayat (1) dan ayat (2), Undang-undang ini serta peraturan
-pelaksanaannya.
-(2) Ketentuan lebih lanjut mengenai sanksi administratif
-sebagaimana dimaksud pada ayat (1) diatur dengan
-Peraturan Pemerintah.
-68. Di antara Pasal 191 dan Pasal 192 disisipkan 1 (satu) pasal,
-yakni Pasal 191A sehingga berbunyi sebagai berikut:
-Pasal 191A
-Pada saat berlakunya Undang-Undang ini:
-a. untuk pertama kali upah minimum yang berlaku yaitu
-upah minimum yang telah ditetapkan berdasarkan
-peraturan pelaksanaan Undang-Undang Nomor 13
-Tahun 2003 tentang Ketenagakerjaan yang mengatur
-mengenai pengupahan.
-449
-b. bagi perusahaan yang telah memberikan upah lebih
-tinggi dari upah minimum yang ditetapkan sebelum
-Undang-Undang ini, pengusaha dilarang mengurangi
-atau menurunkan upah.
+
+63. Ketentuan Pasal 185 diubah, sehingga berbunyi sebagai berikut:
+
+> Pasal 185
+>
+> (1) Barang siapa melanggar ketentuan sebagaimana dimaksud dalam Pasal 42 ayat (2), Pasal 68, Pasal 69 ayat (2), Pasal 80, Pasal 82, Pasal 88A ayat (3), Pasal 88E ayat (2), Pasal 143, Pasal 156 ayat (1), dan Pasal 160 ayat (4), dikenakan sanksi pidana penjara paling singkat 1 (satu) tahun dan paling lama 4 (empat) tahun dan/atau denda paling sedikit Rp 100.000.000,00 (seratus juta rupiah) dan paling banyak Rp 400.000.000,00 (empat ratus juta rupiah).
+>
+> (2) Tindak pidana sebagaimana dimaksud dalam ayat (1) merupakan tindak pidana kejahatan.
+
+64. Ketentuan Pasal 186 diubah sehingga berbunyi sebagai berikut:
+
+> Pasal 186
+>
+> (1) Barang siapa melanggar ketentuan sebagaimana dimaksud dalam Pasal 35 ayat (2) atau ayat (3), Pasal 93 ayat (2), Pasal 137, atau Pasal 138 ayat (1), dikenakan sanksi pidana penjara paling singkat 1 (satu) bulan dan paling lama 4 (empat) tahun dan/atau denda paling sedikit Rp 10.000.000,00 (sepuluh juta rupiah) dan paling banyak Rp 400.000.000,00 (empat ratus juta rupiah).
+>
+> (2) Tindak pidana sebagaimana dimaksud pada ayat (1) merupakan tindak pidana pelanggaran.
+
+65. Ketentuan Pasal 187 diubah, sehingga berbunyi sebagai berikut:
+
+> Pasal 187
+>
+> (1) Barang siapa melanggar ketentuan sebagaimana dimaksud dalam Pasal 45 ayat (1), Pasal 67 ayat (1), Pasal 71 ayat (2), Pasal 76, Pasal 78 ayat (2), Pasal 79 ayat (1), ayat (2), atau ayat (3), Pasal 85 ayat (3), atau Pasal 144, dikenakan sanksi pidana kurungan paling singkat 1 (satu) bulan dan paling lama 12 (dua belas) bulan dan/atau denda paling sedikit Rp 10.000.000,00 (sepuluh juta rupiah) dan paling banyak Rp 100.000.000,00 (seratus juta rupiah).
+>
+> (2) Tindak pidana sebagaimana dimaksud pada ayat (1) merupakan tindak pidana pelanggaran.
+
+66. Ketentuan Pasal 188 diubah, sehingga berbunyi sebagai berikut:
+
+> Pasal 188
+>
+> (1) Barang siapa melanggar ketentuan sebagaimana dimaksud dalam Pasal 38 ayat (2), Pasal 63 ayat (1), Pasal 78 ayat (1), Pasal 108 ayat (1), Pasal 111 ayat (3), Pasal 114 atau Pasal 148, dikenakan sanksi pidana denda paling sedikit Rp 5.000.000,00 (lima juta rupiah) dan paling banyak Rp 50.000.000,00 (lima puluh juta rupiah).
+>
+> (2) Tindak pidana sebagaimana dimaksud pada ayat (1) merupakan tindak pidana pelanggaran.
+
+67. Ketentuan Pasal 190 diubah, sehingga Pasal 190 berbunyi sebagai berikut:
+
+> Pasal 190
+>
+> (1) Pemerintah mengenakan sanksi administratif atas pelanggaran ketentuan-ketentuan sebagaimana diatur dalam Pasal 5, Pasal 6, Pasal 14 ayat (1), Pasal 15, Pasal 25, Pasal 37 ayat (2), Pasal 38 ayat (2), Pasal 42 ayat (1), Pasal 47 ayat (1), Pasal 61A, Pasal 66 ayat (4), Pasal 87, Pasal 92, Pasal 106, Pasal 126 ayat (3), dan Pasal 160 ayat (1) dan ayat (2), Undang-undang ini serta peraturan pelaksanaannya.
+>
+> (2) Ketentuan lebih lanjut mengenai sanksi administratif sebagaimana dimaksud pada ayat (1) diatur dengan Peraturan Pemerintah.
+
+68. Di antara Pasal 191 dan Pasal 192 disisipkan 1 (satu) pasal, yakni Pasal 191A sehingga berbunyi sebagai berikut:
+
+> Pasal 191A
+>
+> Pada saat berlakunya Undang-Undang ini:
+> * a. untuk pertama kali upah minimum yang berlaku yaitu upah minimum yang telah ditetapkan berdasarkan peraturan pelaksanaan Undang-Undang Nomor 13 Tahun 2003 tentang Ketenagakerjaan yang mengatur mengenai pengupahan.
+> * b. bagi perusahaan yang telah memberikan upah lebih tinggi dari upah minimum yang ditetapkan sebelum Undang-Undang ini, pengusaha dilarang mengurangi atau menurunkan upah.
+
+
 
 ---
 
