@@ -130,7 +130,7 @@ Dalam rangka mencapai tujuan sebagaimana dimaksud dalam Pasal 3, Undang-Undang i
 ---
 # BAB IV — KETENAGAKERJAAN
 
-## Bagian Kesatu - Umum
+## Bagian Kesatu — Umum
 
 #### Pasal 80
 Dalam rangka penguatan perlindungan kepada tenaga kerja dan meningkatkan peran dan kesejahteraan pekerja/buruh dalam mendukung ekosistem investasi, Undang-Undang ini mengubah, menghapus, atau menetapkan pengaturan baru beberapa ketentuan yang diatur dalam:
@@ -140,7 +140,7 @@ Dalam rangka penguatan perlindungan kepada tenaga kerja dan meningkatkan peran d
 * c. Undang-Undang Nomor 24 Tahun 2011 tentang Badan Penyelenggara Jaminan Sosial (Lembaran Negara Republik Indonesia Tahun 2011 Nomor 116, Tambahan Lembaran Negara Republik Indonesia 5256); dan
 * d. Undang-Undang Nomor 18 Tahun 2017 tentang Pelindungan Pekerja Migran Indonesia (Lembaran Negara Republik Indonesia Tahun 2017 Nomor 242, Tambahan Lembaran Negara Republik Indonesia 6141).
 
-## Bagian Kedua - Ketenagakerjaan
+## Bagian Kedua — Ketenagakerjaan
 
 #### Pasal 81
 Beberapa ketentuan dalam Undang-Undang Nomor 13 Tahun 2003 tentang Ketenagakerjaan (Lembaran Negara Republik Indonesia Tahun 2003 Nomor 39, Tambahan Lembaran Negara Republik Indonesia 4279) diubah:
@@ -370,8 +370,7 @@ Beberapa ketentuan dalam Undang-Undang Nomor 13 Tahun 2003 tentang Ketenagakerja
 > * a. waktu istirahat; dan
 > * b. cuti.
 >
-> (2) Waktu istirahat sebagaimana dimaksud pada ayat (1) huruf a wajib diberikan kepada pekerja/buruh paling
-sedikit meliputi:
+> (2) Waktu istirahat sebagaimana dimaksud pada ayat (1) huruf a wajib diberikan kepada pekerja/buruh paling sedikit meliputi:
 > * a. istirahat antara jam kerja, paling sedikit setengah jam setelah bekerja selama 4 (empat) jam terus menerus dan waktu istirahat tersebut tidak termasuk jam kerja; dan
 > * b. istirahat mingguan 1 (satu) hari untuk 6 (enam) hari kerja dalam 1 (satu) minggu.
 >
@@ -488,8 +487,7 @@ sedikit meliputi:
 
 > Pasal 92A
 >
-> Pengusaha melakukan peninjauan upah secara berkala dengan memperhatikan kemampuan perusahaan dan
-produktivitas.
+> Pengusaha melakukan peninjauan upah secara berkala dengan memperhatikan kemampuan perusahaan dan produktivitas.
 
 32. Ketentuan Pasal 94 diubah, sehingga berbunyi sebagai berikut:
 
@@ -743,7 +741,200 @@ berikut:
 > * a. untuk pertama kali upah minimum yang berlaku yaitu upah minimum yang telah ditetapkan berdasarkan peraturan pelaksanaan Undang-Undang Nomor 13 Tahun 2003 tentang Ketenagakerjaan yang mengatur mengenai pengupahan.
 > * b. bagi perusahaan yang telah memberikan upah lebih tinggi dari upah minimum yang ditetapkan sebelum Undang-Undang ini, pengusaha dilarang mengurangi atau menurunkan upah.
 
+## Bagian Ketiga — Jenis Program Jaminan Sosial
 
+#### Pasal 82
+
+Beberapa ketentuan dalam Undang-Undang Nomor 40 Tahun
+2004 tentang Sistem Jaminan Sosial Nasional (Lembaran Negara
+Republik Indonesia Tahun 2004 Nomor 150, Tambahan Lembaran
+Negara Republik Indonesia 4456) diubah:
+
+1. Ketentuan Pasal 18 diubah, sehingga berbunyi sebagai
+berikut:
+
+> Pasal 18
+>
+> Jenis program jaminan sosial meliputi:
+> * a. jaminan kesehatan;
+> * b. jaminan kecelakaan kerja;
+> * c. jaminan hari tua;
+> * d. jaminan pensiun;
+> * e. jaminan kematian; dan
+> * f. jaminan kehilangan pekerjaan.
+
+2. Di antara Pasal 46 dan Pasal 47 disisipkan 1 (satu) Bagian  yakni Bagian Ketujuh Jaminan Kehilangan Pekerjaan  sehingga berbunyi sebagai berikut:
+
+> Bagian Ketujuh — Jaminan Kehilangan Pekerjaan
+>
+> Pasal 46A
+> (1) Pekerja/buruh yang mengalami pemutusan berhak kerja hubungan mendapatkan jaminan kehilangan pekerjaan.
+>
+> (2) Jaminan kehilangan pekerjaan diselenggarakan oleh badan penyelenggara jaminan sosial ketenagakerjaan dan Pemerintah.
+>
+> (3) Ketentuan lebih lanjut mengenai tata cara penyelenggaraan jaminan kehilangan pekerjaan diatur dengan Peraturan Pemerintah.
+>
+> Pasal 46B
+>
+> (1) Jaminan kehilangan pekerjaan diselenggarakan secara  nasional berdasarkan prinsip asuransi sosial.
+>
+> (2) Jaminan kehilangan pekerjaan diselenggarakan untuk  mempertahankan derajat kehidupan yang layak pada  saat pekerja/buruh kehilangan pekerjaan.
+>
+> Pasal 46C
+>
+> Peserta Jaminan Kehilangan Pekerjaan adalah setiap orang  yang telah membayar iuran.
+>
+> Pasal 46D
+>
+> (1) Manfaat jaminan kehilangan pekerjaan berupa uang  tunai, akses informasi pasar kerja, dan pelatihan kerja.
+>
+> (2) Manfaat sebagaimana dimaksud pada ayat (1) diterima  oleh peserta setelah mempunyai masa kepesertaan  tertentu.
+>
+> (3) Ketentuan lebih lanjut mengenai manfaat sebagaimana  dimaksud pada ayat (1) dan masa kepesertaan tertentu  sebagaimana dimaksud pada ayat (2) diatur dengan  Peraturan Pemerintah.
+>
+> Pasal 46E
+>
+> (1) Sumber pendanaan jaminan kehilangan pekerjaan  berasal dari:
+> * a. modal awal pemerintah;
+> * b. rekomposisi iuran program jaminan sosial; dan/atau
+> * c. dana operasional BPJS Ketenagakerjaan.
+>
+> (2) Ketentuan lebih lanjut mengenai pendanaan jaminan  kehilangan pekerjaan sebagaimana dimaksud pada ayat (1) diatur dengan Peraturan Pemerintah.
+
+## Bagian Keempat Badan Penyelenggara — Jaminan Sosial
+
+#### Pasal 83
+
+Beberapa ketentuan dalam Undang-Undang Nomor 24 Tahun 2011 tentang Badan Penyelenggara Jaminan Sosial (Lembaran Negara Republik Indonesia Tahun 2011 Nomor 116, Tambahan Lembaran Negara Republik Indonesia 5256) diubah:
+
+1. Ketentuan Pasal 6 diubah, sehingga berbunyi sebagai berikut:
+
+> Pasal 6
+>
+> (1) BPJS Kesehatan sebagaimana dimaksud dalam  Pasal 5 ayat (2) huruf a menyelenggarakan program jaminan kesehatan.
+>
+> (2) BPJS Ketenagakerjaan sebagaimana dimaksud dalam Pasal 5 ayat (2) huruf b menyelenggarakan program:
+> * a. jaminan kecelakaan kerja;
+> * b. jaminan hari tua;
+> * c. jaminan pensiun;
+> * d. jaminan kematian; dan
+> * e. jaminan kehilangan pekerjaan.
+
+2. Ketentuan Pasal 9 diubah, sehingga berbunyi sebagai berikut:
+
+> Pasal 9
+>
+> (1) BPJS Kesehatan sebagaimana dimaksud dalam  Pasal 5 ayat (2) huruf a berfungsi menyelenggarakan program jaminan kesehatan.
+>
+> (2) BPJS Ketenagakerjaan sebagaimana dimaksud dalam Pasal 5 ayat (2) huruf b berfungsi menyelenggarakan program jaminan kecelakaan kerja, program jaminan kematian, program jaminan pensiun, program jaminan hari tua, dan program jaminan kehilangan pekerjaan.
+
+3. Ketentuan Pasal 42 diubah, sehingga berbunyi sebagai berikut:
+
+> Pasal 42
+>
+> (1) Modal awal sebagaimana dimaksud dalam Pasal 41 ayat (1) huruf a untuk BPJS Kesehatan dan BPJS Ketenagakerjaan ditetapkan masing-masing paling banyak Rp2.000.000.000.000,00 (dua triliun rupiah) yang bersumber dari Anggaran Pendapatan dan Belanja Negara.
+>
+> (2) Modal awal sebagaimana dimaksud dalam Pasal 41 ayat (1) huruf a untuk program jaminan kehilangan pekerjaan ditetapkan paling sedikit Rp6.000.000.000.000,00 (enam triliun rupiah) yang bersumber dari Anggaran Pendapatan dan Belanja Negara.
+
+## Bagian Kelima — Pelindungan Pekerja Migran Indonesia
+
+#### Pasal 84
+
+Beberapa ketentuan dalam Undang-Undang Nomor 18 Tahun 2017 tentang Pelindungan Pekerja Migran Indonesia (Lembaran Negara Republik Indonesia Tahun 2017 Nomor 242, Tambahan Lembaran Negara Republik Indonesia 6141) diubah:
+
+1. Ketentuan Pasal 1 angka 16 diubah, sehingga berbunyi sebagai berikut:
+
+> Pasal 1
+>
+> 1. Calon Pekerja Migran Indonesia adalah setiap tenaga kerja Indonesia yang memenuhi syarat sebagai pencari kerja yang akan bekerja di luar negeri dan terdaftar di instansi pemerintah kabupaten/kota yang bertanggung jawab di bidang ketenagakerjaan.
+>
+> 2. Pekerja Migran Indonesia adalah setiap warga negara Indonesia yang akan, sedang, atau telah melakukan pekerjaan dengan menerima upah di luar wilayah Republik Indonesia.
+>
+> 3. Keluarga Pekerja Migran Indonesia adalah suami, istri, anak, atau orang tua termasuk hubungan karena putusan dan/atau penetapan pengadilan, baik yang berada di Indonesia maupun yang tinggal bersama Pekerja Migran Indonesia di luar negeri.
+>
+> 4. Pekerja Migran Indonesia Perseorangan adalah Pekerja Migran Indonesia yang akan bekerja ke luar negeri tanpa melalui pelaksana penempatan.
+>
+> 5. Pelindungan Pekerja Migran Indonesia adalah segala upaya untuk melindungi kepentingan Calon Pekerja Migran Indonesia dan/atau Pekerja Migran Indonesia dan keluarganya dalam mewujudkan terjaminnya pemenuhan haknya dalam keseluruhan kegiatan sebelum bekerja, selama bekerja, dan setelah bekerja dalam aspek hukum, ekonomi, dan sosial.
+>
+> 6. Pelindungan Sebelum Bekerja adalah keseluruhan aktivitas untuk memberikan pelindungan sejak pendaftaran sampai pemberangkatan.
+>
+> 7. Pelindungan Selama Bekerja adalah keseluruhan aktivitas untuk memberikan pelindungan selama Pekerja Migran Indonesia dan anggota keluarganya berada di luar negeri.
+>
+> 8. Pelindungan Setelah Bekerja adalah keseluruhan aktivitas untuk memberikan pelindungan sejak Pekerja Migran Indonesia dan anggota keluarganya tiba di debarkasi di Indonesia hingga kembali ke daerah asal, termasuk pelayanan lanjutan menjadi pekerja produktif.
+>
+> 9. Perusahaan Penempatan Pekerja Migran Indonesia adalah badan usaha berbadan hukum perseroan terbatas yang telah memperoleh izin tertulis dari Menteri untuk menyelenggarakan pelayanan penempatan Pekerja Migran Indonesia.
+>
+> 10. Mitra Usaha adalah instansi dan/atau badan usaha berbentuk badan hukum di negara tujuan penempatan yang bertanggung jawab menempatkan Pekerja Migran Indonesia pada pemberi kerja.
+>
+> 11. Pemberi Kerja adalah instansi pemerintah, badan hukum pemerintah, badan hukum swasta, dan/atau perseorangan di negara tujuan penempatan yang mempekerjakan Pekerja Migran Indonesia.
+>
+> 12. Perjanjian Kerja Sama Penempatan adalah perjanjian tertulis antara Perusahaan Penempatan Pekerja Migran Indonesia dan Mitra Usaha atau Pemberi Kerja yang memuat hak dan kewajiban setiap pihak dalam rangka penempatan dan Pelindungan Pekerja Migran Indonesia di negara tujuan penempatan.
+>
+> 13. Perjanjian Penempatan Pekerja Migran Indonesia yang selanjutnya disebut Perjanjian Penempatan adalah perjanjian tertulis antara pelaksana penempatan Pekerja Migran Indonesia dan Calon Pekerja Migran Indonesia yang memuat hak dan kewajiban setiap pihak, dalam rangka penempatan Pekerja Migran Indonesia di negara tujuan penempatan sesuai dengan ketentuan peraturan perundang-undangan.
+>
+> 14. Perjanjian Kerja adalah perjanjian tertulis antara Pekerja Migran Indonesia dan Pemberi Kerja yang memuat syarat kerja, hak, dan kewajiban setiap pihak, serta jaminan keamanan dan keselamatan selama bekerja sesuai dengan ketentuan peraturan perundang-undangan.
+>
+> 15. Visa Kerja adalah izin tertulis yang diberikan oleh pejabat yang berwenang di suatu negara tujuan penempatan yang memuat persetujuan untuk masuk dan melakukan pekerjaan di negara yang bersangkutan.
+>
+> 16. Surat Izin Perusahaan Penempatan Pekerja Migran Indonesia yang selanjutnya disebut SIP3MI adalah izin tertulis yang diberikan oleh Pemerintah Pusat kepada badan usaha berbadan hukum Indonesia yang akan menjadi Perusahaan Penempatan Pekerja Migran Indonesia.
+>
+> 17. Surat Izin Perekrutan Pekerja Migran Indonesia yang selanjutnya disebut SIP2MI adalah izin yang diberikan oleh kepala Badan kepada Perusahaan Penempatan Pekerja Migran Indonesia yang digunakan untuk menempatkan Calon Pekerja Migran Indonesia.
+>
+> 18. Jaminan Sosial adalah salah satu bentuk pelindungan sosial untuk menjamin seluruh rakyat agar dapat memenuhi kebutuhan dasar hidupnya yang layak.
+>
+> 19. Orang adalah orang perseorangan dan/atau korporasi.
+>
+> 20. Badan Penyelenggara Jaminan Sosial adalah badan hukum yang menyelenggarakan program Jaminan Sosial Pekerja Migran Indonesia.
+>
+> 21. Pemerintah Pusat adalah Presiden Republik Indonesia yang memegang kekuasaan pemerintahan negara Republik Indonesia yang dibantu oleh Wakil Presiden dan menteri sebagaimana dimaksud dalam UndangUndang Dasar Negara Republik Indonesia Tahun 1945.
+>
+> 22. Pemerintah Daerah adalah kepala daerah sebagai unsur penyelenggara pemerintahan daerah yang memimpin pelaksanaan urusan pemerintahan yang menjadi kewenangan daerah otonom.
+>
+> 23. Pemerintah Desa adalah kepala desa atau yang disebut dengan nama lain dibantu perangkat desa sebagai unsur penyelenggara pemerintahan desa.
+>
+> 24. Perwakilan Republik Indonesia di Luar Negeri yang selanjutnya disebut Perwakilan Republik Indonesia adalah perwakilan diplomatik dan perwakilan konsuler Republik Indonesia yang secara resmi mewakili dan memperjuangkan kepentingan bangsa, negara, dan pemerintah Republik Indonesia secara keseluruhan di negara tujuan penempatan atau pada organisasi internasional.
+>
+> 25. Menteri adalah menteri yang menyelenggarakan urusan pemerintahan di bidang ketenagakerjaan.
+>
+> 26. Badan adalah lembaga pemerintah nonkementerian yang bertugas sebagai pelaksana kebijakan dalam pelayanan dan Pelindungan Pekerja Migran Indonesia secara terpadu.
+
+2. Ketentuan Pasal 51 diubah, sehingga berbunyi sebagai berikut:
+
+> Pasal 51
+>
+> (1) Perusahaan Penempatan Pekerja Migran Indonesia sebagaimana dimaksud dalam Pasal 49 huruf b wajib memiliki izin yang memenuhi Perizinan Berusaha dan diterbitkan oleh Pemerintah Pusat.
+>
+> (2) Izin sebagaimana dimaksud pada ayat (1) tidak dapat dialihkan dan dipindahtangankan kepada pihak lain.
+>
+> (3) Perizinan Berusaha sebagaimana dimaksud pada ayat (1) harus memenuhi norma, standar, prosedur, dan kriteria yang ditetapkan oleh Pemerintah Pusat.
+
+3. Ketentuan Pasal 53 diubah, sehingga berbunyi sebagai berikut:
+
+> Pasal 53
+>
+> (1) Perusahaan Penempatan Pekerja Migran Indonesia dapat membentuk kantor cabang di luar wilayah domisili kantor pusatnya.
+>
+> (2) Kegiatan yang dilakukan oleh kantor cabang Perusahaan Penempatan Pekerja Migran Indonesia menjadi tanggung jawab kantor pusat Perusahaan Penempatan Pekerja Migran Indonesia.
+>
+> (3) Kantor cabang sebagaimana dimaksud pada ayat (1) wajib memenuhi Perizinan Berusaha yang diterbitkan oleh Pemerintah Daerah Kabupaten/Kota.
+>
+> (4) Perizinan Berusaha sebagaimana dimaksud pada ayat (3) harus memenuhi norma, standar, prosedur, dan kriteria yang ditetapkan oleh Pemerintah Pusat.
+
+4. Ketentuan Pasal 57 diubah, sehingga berbunyi sebagai berikut:
+
+> Pasal 57
+>
+> (1) Perusahaan Penempatan Pekerja Migran Indonesia harus menyerahkan pembaruan data paling lambat 30 (tiga puluh) hari kerja.
+>
+> (2) Dalam hal Perusahaan Penempatan Pekerja Migran Indonesia tidak menyerahkan pembaruan data sebagaimana dimaksud pada ayat (1), Perusahaan Penempatan Pekerja Migran Indonesia diizinkan untuk memperbarui izin paling lambat 30 (tiga puluh) hari kerja dengan membayar denda keterlambatan.
+>
+> (3) Ketentuan mengenai denda keterlambatan sebagaimana dimaksud pada ayat (2) dilaksanakan sesuai dengan ketentuan peraturan perundang-undangan.
+
+5. Di antara Pasal 89 dan Pasal 90 disisipkan 1 (satu) pasal yakni Pasal 89A sehingga berbunyi sebagai berikut:
+
+> Pasal 89A
+>
+> Pada saat berlakunya Undang-Undang tentang Cipta Kerja maka pengertian atau makna SIP3MI dalam Undang-Undang Nomor 18 Tahun 2017 tentang Pelindungan Pekerja Migran Indonesia menyesuaikan dengan ketentuan mengenai Perizinan Berusaha.
 
 ---
 
