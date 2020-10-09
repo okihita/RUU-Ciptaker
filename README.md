@@ -1,27 +1,133 @@
 <!-- Because I believe knowledge should be free. Viva la Ravenclawism! -->
 
-Repositori ini menyimpan Rancangan Undang-Undang Cipta Kerja (RUU Ciptaker) dalam format Markdown. Sumber dokumen diambil dari [Repositori Tirto.id](https://tirto.id/isi-uu-omnibus-law-cipta-kerja-pdf-link-download-usai-disahkan-dpr-f5BZ) per tanggal 7 Oktober 2020. Dokumen tersebut adalah dokumen hasil Rapat Paripurna DPR-RI tanggal 5 Oktober. Rekaman Rapat Paripurna DPR-RI ke-7 dapat dilihat di [Kanal YouTube DPR-RI](https://www.youtube.com/watch?v=0m6E-iJntJ0&ab_channel=DPRRI).
+Repositori ini menyimpan Rancangan Undang-Undang Cipta Kerja (RUU Ciptaker) dalam format Markdown. Sumber dokumen diambil dari [Repositori Tirto.id](https://github.com/okihita/RUU-Ciptaker/blob/main/RUU-Ciptaker.mdhttps://tirto.id/isi-uu-omnibus-law-cipta-kerja-pdf-link-download-usai-disahkan-dpr-f5BZ) per tanggal 7 Oktober 2020. Dokumen tersebut adalah dokumen hasil Rapat Paripurna DPR-RI tanggal 5 Oktober. Rekaman Rapat Paripurna DPR-RI ke-7 dapat dilihat di [Kanal YouTube DPR-RI](https://github.com/okihita/RUU-Ciptaker/blob/main/RUU-Ciptaker.mdhttps://www.youtube.com/watch?v=0m6E-iJntJ0&ab_channel=DPRRI).
 
-Tujuan utama dokumen ini adalah kemudahan akses dan pembacaan. Dokumen ini, baik sebagian atau seluruhnya, bebas untuk disebarluaskan dan digunakan untuk kebutuhan apa pun. Seluruh saran, koreksi, laporan ketidaksesuaian bisa disampaikan oleh siapa pun lewat Pull Request atau [Issue](https://github.com/okihita/RUU-Ciptaker/issues).
+Tujuan utama dokumen ini adalah kemudahan akses dan pembacaan. Dokumen ini, baik sebagian atau seluruhnya, bebas untuk disebarluaskan dan digunakan untuk kebutuhan apa pun. Seluruh saran, koreksi, laporan ketidaksesuaian bisa disampaikan oleh siapa pun lewat Pull Request atau [Issue](https://github.com/okihita/RUU-Ciptaker/blob/main/RUU-Ciptaker.mdhttps://github.com/okihita/RUU-Ciptaker/issues).
 
-**Penyangkalan/Disclaimer**: Tidak ada jaminan dokumen ini akurat 100% dan tanpa salah ketik. Sebelum disahkan menjadi Undang-Undang, isi dari Rancangan Undang-Undang Ciptaker masih mungkin berubah, bahkan setelah tanggal 7 Oktober 2020. Konsultasikan ke ahli hukum resmi untuk penggunaan yang sah.
-
----
-
-### Petunjuk Pembacaan
-
-Dokumen ini ditulis dengan tingkat heading yang berbeda untuk tiap tingkat hierarki segmen. **BAB** ditulis dengan Heading 1 (#), **Bagian** dengan Heading 2 (##), **Paragraf** dengan Heading 3 (###), dan **Pasal** dengan Heading 4 (####). Berikut tampilan visual dari masing-masing segmen berdasar hierarki:
-
-# BAB
-## Bagian
-### Paragraf
-#### Pasal
-
----
-Tiap Heading dari dokumen ini adalah sebuah hyperlink. Sebagai contoh, https://github.com/okihita/RUU-Ciptaker/blob/main/RUU-Ciptaker.md#pasal-3 akan merujuk kepada **Pasal 3 RUU Ciptaker**.
+**Penyangkalan/Disclaimer**: Tidak ada jaminan dokumen ini akurat 100% dan tanpa salah ketik. Sebelum ditandatangani oleh Presiden, isi dari Rancangan Undang-Undang Ciptaker masih mungkin berubah, bahkan setelah tanggal 7 Oktober 2020. Sesuai aturan, perbaikan naskah undang-undang maksimal 30 hari setelah disahkan. Konsultasikan ke ahli hukum resmi untuk penggunaan yang sah.
 
 ---
 
 ### Daftar Isi RUU Cipta Kerja
 
-[WIP]
+  - [RANCANGAN](https://github.com/okihita/RUU-Ciptaker/blob/main/RUU-Ciptaker.md#rancangan)
+  - [Menimbang :](https://github.com/okihita/RUU-Ciptaker/blob/main/RUU-Ciptaker.md#menimbang-)
+  - [Mengingat :](https://github.com/okihita/RUU-Ciptaker/blob/main/RUU-Ciptaker.md#mengingat-)
+
+- [BAB I — KETENTUAN UMUM](https://github.com/okihita/RUU-Ciptaker/blob/main/RUU-Ciptaker.md#bab-i--ketentuan-umum)
+    - [Pasal 1](https://github.com/okihita/RUU-Ciptaker/blob/main/RUU-Ciptaker.md#pasal-1)
+- [BAB II — ASAS, TUJUAN, DAN RUANG LINGKUP](https://github.com/okihita/RUU-Ciptaker/blob/main/RUU-Ciptaker.md#bab-ii--asas-tujuan-dan-ruang-lingkup)
+    - [Pasal 2](https://github.com/okihita/RUU-Ciptaker/blob/main/RUU-Ciptaker.md#pasal-2)
+    - [Pasal 3](https://github.com/okihita/RUU-Ciptaker/blob/main/RUU-Ciptaker.md#pasal-3)
+    - [Pasal 4](https://github.com/okihita/RUU-Ciptaker/blob/main/RUU-Ciptaker.md#pasal-4)      
+    - [Pasal 5](https://github.com/okihita/RUU-Ciptaker/blob/main/RUU-Ciptaker.md#pasal-5)
+- [BAB III — PENINGKATAN EKOSISTEM INVESTASI DAN KEGIATAN BERUSAHA](https://github.com/okihita/RUU-Ciptaker/blob/main/RUU-Ciptaker.md#bab-iii--peningkatan-ekosistem-investasi-dan-kegiatan-berusaha)
+  - [Bagian Kesatu — Umum](https://github.com/okihita/RUU-Ciptaker/blob/main/RUU-Ciptaker.md#bagian-kesatu--umum)
+      - [Pasal 6](https://github.com/okihita/RUU-Ciptaker/blob/main/RUU-Ciptaker.md#pasal-6)
+  - [Bagian Kedua — Penerapan Perizinan Berusaha Berbasis Risiko](https://github.com/okihita/RUU-Ciptaker/blob/main/RUU-Ciptaker.md#bagian-kedua--penerapan-perizinan-berusaha-berbasis-risiko)
+    - [Paragraf 1 — Umum](https://github.com/okihita/RUU-Ciptaker/blob/main/RUU-Ciptaker.md#paragraf-1--umum)
+      - [Pasal 7](https://github.com/okihita/RUU-Ciptaker/blob/main/RUU-Ciptaker.md#pasal-7)
+    - [Paragraf 2 — Perizinan Berusaha Kegiatan Usaha Berisiko Rendah](https://github.com/okihita/RUU-Ciptaker/blob/main/RUU-Ciptaker.md#paragraf-2--perizinan-berusaha-kegiatan-usaha-berisiko-rendah)
+      - [Pasal 8](https://github.com/okihita/RUU-Ciptaker/blob/main/RUU-Ciptaker.md#pasal-8)
+    - [Paragraf 3 — Perizinan Berusaha Kegiatan Usaha Berisiko Menengah](https://github.com/okihita/RUU-Ciptaker/blob/main/RUU-Ciptaker.md#paragraf-3--perizinan-berusaha-kegiatan-usaha-berisiko-menengah)
+      - [Pasal 9](https://github.com/okihita/RUU-Ciptaker/blob/main/RUU-Ciptaker.md#pasal-9)
+    - [Paragraf 4 — Perizinan Berusaha Kegiatan Usaha Berisiko Tinggi](https://github.com/okihita/RUU-Ciptaker/blob/main/RUU-Ciptaker.md#paragraf-4--perizinan-berusaha-kegiatan-usaha-berisiko-tinggi)
+      - [Pasal 10](https://github.com/okihita/RUU-Ciptaker/blob/main/RUU-Ciptaker.md#pasal-10)
+    - [Paragraf 5 — Pengawasan](https://github.com/okihita/RUU-Ciptaker/blob/main/RUU-Ciptaker.md#paragraf-5--pengawasan)
+      - [Pasal 11](https://github.com/okihita/RUU-Ciptaker/blob/main/RUU-Ciptaker.md#pasal-11)
+    - [Paragraf 6 — Peraturan Pelaksanaan](https://github.com/okihita/RUU-Ciptaker/blob/main/RUU-Ciptaker.md#paragraf-6--peraturan-pelaksanaan)
+      - [Pasal 12](https://github.com/okihita/RUU-Ciptaker/blob/main/RUU-Ciptaker.md#pasal-12)
+  - [Bagian Ketiga — Penyederhanaan Persyaratan Dasar Perizinan Berusaha, Pengadaan Tanah, dan Pemanfaatan Lahan](https://github.com/okihita/RUU-Ciptaker/blob/main/RUU-Ciptaker.md#bagian-ketiga--penyederhanaan-persyaratan-dasar-perizinan-berusaha-pengadaan-tanah-dan-pemanfaatan-lahan)
+    - [Paragraf 1 — Umum](https://github.com/okihita/RUU-Ciptaker/blob/main/RUU-Ciptaker.md#paragraf-1--umum-1)
+      - [Pasal 13](https://github.com/okihita/RUU-Ciptaker/blob/main/RUU-Ciptaker.md#pasal-13)
+    - [Paragraf 2 — Kesesuaian Kegiatan Pemanfaatan Ruang](https://github.com/okihita/RUU-Ciptaker/blob/main/RUU-Ciptaker.md#paragraf-2--kesesuaian-kegiatan-pemanfaatan-ruang)
+      - [Pasal 14](https://github.com/okihita/RUU-Ciptaker/blob/main/RUU-Ciptaker.md#pasal-14)
+      - [Pasal 15](https://github.com/okihita/RUU-Ciptaker/blob/main/RUU-Ciptaker.md#pasal-15)
+      - [Pasal 16](https://github.com/okihita/RUU-Ciptaker/blob/main/RUU-Ciptaker.md#pasal-16)
+      - [Pasal 17](https://github.com/okihita/RUU-Ciptaker/blob/main/RUU-Ciptaker.md#pasal-17)
+      - [Pasal 18](https://github.com/okihita/RUU-Ciptaker/blob/main/RUU-Ciptaker.md#pasal-18)
+      - [Pasal 19](https://github.com/okihita/RUU-Ciptaker/blob/main/RUU-Ciptaker.md#pasal-19)
+      - [Pasal 20](https://github.com/okihita/RUU-Ciptaker/blob/main/RUU-Ciptaker.md#pasal-20)
+    - [Paragraf 3 — Persetujuan Lingkungan](https://github.com/okihita/RUU-Ciptaker/blob/main/RUU-Ciptaker.md#paragraf-3--persetujuan-lingkungan)
+      - [Pasal 21](https://github.com/okihita/RUU-Ciptaker/blob/main/RUU-Ciptaker.md#pasal-21)
+      - [Pasal 22](https://github.com/okihita/RUU-Ciptaker/blob/main/RUU-Ciptaker.md#pasal-22)
+    - [Paragraf 4 — Persetujuan Bangunan Gedung dan Sertifikat Laik Fungsi](https://github.com/okihita/RUU-Ciptaker/blob/main/RUU-Ciptaker.md#paragraf-4--persetujuan-bangunan-gedung-dan-sertifikat-laik-fungsi)
+      - [Pasal 23](https://github.com/okihita/RUU-Ciptaker/blob/main/RUU-Ciptaker.md#pasal-23)
+      - [Pasal 24](https://github.com/okihita/RUU-Ciptaker/blob/main/RUU-Ciptaker.md#pasal-24)
+      - [Pasal 25](https://github.com/okihita/RUU-Ciptaker/blob/main/RUU-Ciptaker.md#pasal-25)
+  * [Bagian Keempat - Penyederhanaan Perizinan Berusaha Sektor Serta Kemudahan Dan Persyaratan Investasi](https://github.com/okihita/RUU-Ciptaker/blob/main/RUU-Ciptaker.md#bagian-keempat--penyederhanaan-perizinan-berusaha-sektor-serta-kemudahan-dan-persyaratan-investasi)
+    - [Paragraf 1 — Umum](https://github.com/okihita/RUU-Ciptaker/blob/main/RUU-Ciptaker.md#paragraf-1--umum-2)
+      - [Pasal 26](https://github.com/okihita/RUU-Ciptaker/blob/main/RUU-Ciptaker.md#pasal-26)
+    - [Paragraf 2 — Kelautan dan Perikanan](https://github.com/okihita/RUU-Ciptaker/blob/main/RUU-Ciptaker.md#paragraf-2--kelautan-dan-perikanan)
+      - [Pasal 27](https://github.com/okihita/RUU-Ciptaker/blob/main/RUU-Ciptaker.md#pasal-27)
+    - [Paragraf 3 — Pertanian](https://github.com/okihita/RUU-Ciptaker/blob/main/RUU-Ciptaker.md#paragraf-3--pertanian)
+      - [Pasal 28](https://github.com/okihita/RUU-Ciptaker/blob/main/RUU-Ciptaker.md#pasal-28)
+      - [Pasal 29](https://github.com/okihita/RUU-Ciptaker/blob/main/RUU-Ciptaker.md#pasal-29)
+      - [Pasal 30](https://github.com/okihita/RUU-Ciptaker/blob/main/RUU-Ciptaker.md#pasal-30)
+      - [Pasal 31](https://github.com/okihita/RUU-Ciptaker/blob/main/RUU-Ciptaker.md#pasal-31)
+      - [Pasal 32](https://github.com/okihita/RUU-Ciptaker/blob/main/RUU-Ciptaker.md#pasal-32)
+      - [Pasal 33](https://github.com/okihita/RUU-Ciptaker/blob/main/RUU-Ciptaker.md#pasal-33)
+      - [Pasal 34](https://github.com/okihita/RUU-Ciptaker/blob/main/RUU-Ciptaker.md#pasal-34)
+    - [Paragraf 4 — Kehutanan](https://github.com/okihita/RUU-Ciptaker/blob/main/RUU-Ciptaker.md#paragraf-4--kehutanan)
+      - [Pasal 35](https://github.com/okihita/RUU-Ciptaker/blob/main/RUU-Ciptaker.md#pasal-35)
+      - [Pasal 36](https://github.com/okihita/RUU-Ciptaker/blob/main/RUU-Ciptaker.md#pasal-36)
+      - [Pasal 37](https://github.com/okihita/RUU-Ciptaker/blob/main/RUU-Ciptaker.md#pasal-37)
+    - [Paragraf 5 — Energi Dan Sumber Daya Mineral](https://github.com/okihita/RUU-Ciptaker/blob/main/RUU-Ciptaker.md#paragraf-5--energi-dan-sumber-daya-mineral)
+      - [Pasal 38](https://github.com/okihita/RUU-Ciptaker/blob/main/RUU-Ciptaker.md#pasal-38)
+      - [Pasal 39](https://github.com/okihita/RUU-Ciptaker/blob/main/RUU-Ciptaker.md#pasal-39)
+      - [Pasal 40](https://github.com/okihita/RUU-Ciptaker/blob/main/RUU-Ciptaker.md#pasal-40)
+      - [Pasal 41](https://github.com/okihita/RUU-Ciptaker/blob/main/RUU-Ciptaker.md#pasal-41)
+      - [Pasal 42](https://github.com/okihita/RUU-Ciptaker/blob/main/RUU-Ciptaker.md#pasal-42)
+    - [Paragraf 6 — Ketenaganukliran](https://github.com/okihita/RUU-Ciptaker/blob/main/RUU-Ciptaker.md#paragraf-6--ketenaganukliran)
+      - [Pasal 43](https://github.com/okihita/RUU-Ciptaker/blob/main/RUU-Ciptaker.md#pasal-43)
+    - [Paragraf 7 — Perindustrian](https://github.com/okihita/RUU-Ciptaker/blob/main/RUU-Ciptaker.md#paragraf-7--perindustrian)
+      - [Pasal 44](https://github.com/okihita/RUU-Ciptaker/blob/main/RUU-Ciptaker.md#pasal-44)
+    - [Paragraf 8 — Perdagangan, Metrologi Legal, Jaminan Produk Halal, dan Standardisasi dan Penilaian Kesesuaian](https://github.com/okihita/RUU-Ciptaker/blob/main/RUU-Ciptaker.md#paragraf-8--perdagangan-metrologi-legal-jaminan-produk-halal-dan-standardisasi-dan-penilaian-kesesuaian)
+      - [Pasal 45](https://github.com/okihita/RUU-Ciptaker/blob/main/RUU-Ciptaker.md#pasal-45)
+      - [Pasal 46](https://github.com/okihita/RUU-Ciptaker/blob/main/RUU-Ciptaker.md#pasal-46)
+      - [Pasal 47](https://github.com/okihita/RUU-Ciptaker/blob/main/RUU-Ciptaker.md#pasal-47)
+      - [Pasal 48](https://github.com/okihita/RUU-Ciptaker/blob/main/RUU-Ciptaker.md#pasal-48)
+    - [Paragraf 9 — Pekerjaan Umum dan Perumahan Rakyat](https://github.com/okihita/RUU-Ciptaker/blob/main/RUU-Ciptaker.md#paragraf-9--pekerjaan-umum-dan-perumahan-rakyat)
+      - [Pasal 49](https://github.com/okihita/RUU-Ciptaker/blob/main/RUU-Ciptaker.md#pasal-49)
+      - [Pasal 50](https://github.com/okihita/RUU-Ciptaker/blob/main/RUU-Ciptaker.md#pasal-50)
+      - [Pasal 51](https://github.com/okihita/RUU-Ciptaker/blob/main/RUU-Ciptaker.md#pasal-51)
+      - [Pasal 52](https://github.com/okihita/RUU-Ciptaker/blob/main/RUU-Ciptaker.md#pasal-52)
+      - [Pasal 53](https://github.com/okihita/RUU-Ciptaker/blob/main/RUU-Ciptaker.md#pasal-53)
+    - [Paragraf 10 — Transportasi](https://github.com/okihita/RUU-Ciptaker/blob/main/RUU-Ciptaker.md#paragraf-10--transportasi)
+      - [Pasal 54](https://github.com/okihita/RUU-Ciptaker/blob/main/RUU-Ciptaker.md#pasal-54)
+      - [Pasal 55](https://github.com/okihita/RUU-Ciptaker/blob/main/RUU-Ciptaker.md#pasal-55)
+      - [Pasal 56](https://github.com/okihita/RUU-Ciptaker/blob/main/RUU-Ciptaker.md#pasal-56)
+      - [Pasal 57](https://github.com/okihita/RUU-Ciptaker/blob/main/RUU-Ciptaker.md#pasal-57)
+      - [Pasal 58](https://github.com/okihita/RUU-Ciptaker/blob/main/RUU-Ciptaker.md#pasal-58)
+    - [Paragraf 11 — Kesehatan, Obat, dan Makanan](https://github.com/okihita/RUU-Ciptaker/blob/main/RUU-Ciptaker.md#paragraf-11--kesehatan-obat-dan-makanan)
+      - [Pasal 59](https://github.com/okihita/RUU-Ciptaker/blob/main/RUU-Ciptaker.md#pasal-59)
+      - [Pasal 60](https://github.com/okihita/RUU-Ciptaker/blob/main/RUU-Ciptaker.md#pasal-60)
+      - [Pasal 61](https://github.com/okihita/RUU-Ciptaker/blob/main/RUU-Ciptaker.md#pasal-61)
+      - [Pasal 62](https://github.com/okihita/RUU-Ciptaker/blob/main/RUU-Ciptaker.md#pasal-62)
+      - [Pasal 63](https://github.com/okihita/RUU-Ciptaker/blob/main/RUU-Ciptaker.md#pasal-63)
+      - [Pasal 64](https://github.com/okihita/RUU-Ciptaker/blob/main/RUU-Ciptaker.md#pasal-64)
+    - [Paragraf 12 — Pendidikan dan Kebudayaan](https://github.com/okihita/RUU-Ciptaker/blob/main/RUU-Ciptaker.md#paragraf-12--pendidikan-dan-kebudayaan)
+      - [Pasal 65](https://github.com/okihita/RUU-Ciptaker/blob/main/RUU-Ciptaker.md#pasal-65)
+      - [Pasal 66](https://github.com/okihita/RUU-Ciptaker/blob/main/RUU-Ciptaker.md#pasal-66)
+    - [Paragraf 13 — Kepariwisataan](https://github.com/okihita/RUU-Ciptaker/blob/main/RUU-Ciptaker.md#paragraf-13--kepariwisataan)
+      - [Pasal 67](https://github.com/okihita/RUU-Ciptaker/blob/main/RUU-Ciptaker.md#pasal-67)
+    - [Paragraf 14 — Keagamaan](https://github.com/okihita/RUU-Ciptaker/blob/main/RUU-Ciptaker.md#paragraf-14--keagamaan)
+      - [Pasal 68](https://github.com/okihita/RUU-Ciptaker/blob/main/RUU-Ciptaker.md#pasal-68)
+    - [Paragraf 15 — Pos, Telekomunikasi, dan Penyiaran](https://github.com/okihita/RUU-Ciptaker/blob/main/RUU-Ciptaker.md#paragraf-15--pos-telekomunikasi-dan-penyiaran)
+      - [Pasal 69](https://github.com/okihita/RUU-Ciptaker/blob/main/RUU-Ciptaker.md#pasal-69)
+      - [Pasal 70](https://github.com/okihita/RUU-Ciptaker/blob/main/RUU-Ciptaker.md#pasal-70)
+      - [Pasal 71](https://github.com/okihita/RUU-Ciptaker/blob/main/RUU-Ciptaker.md#pasal-71)
+      - [Pasal 72](https://github.com/okihita/RUU-Ciptaker/blob/main/RUU-Ciptaker.md#pasal-72)
+    - [Paragraf 16 — Pertahanan dan Keamanan](https://github.com/okihita/RUU-Ciptaker/blob/main/RUU-Ciptaker.md#paragraf-16--pertahanan-dan-keamanan)
+      - [Pasal 73](https://github.com/okihita/RUU-Ciptaker/blob/main/RUU-Ciptaker.md#pasal-73)
+      - [Pasal 74](https://github.com/okihita/RUU-Ciptaker/blob/main/RUU-Ciptaker.md#pasal-74)
+      - [Pasal 75](https://github.com/okihita/RUU-Ciptaker/blob/main/RUU-Ciptaker.md#pasal-75)
+  * [Bagian Kelima — Penyederhanaan Persyaratan Investasi Pada Sektor Tertentu](https://github.com/okihita/RUU-Ciptaker/blob/main/RUU-Ciptaker.md#bagian-kelima--penyederhanaan-persyaratan-investasi-pada-sektor-tertentu)
+    - [Paragraf 1 — Umum](https://github.com/okihita/RUU-Ciptaker/blob/main/RUU-Ciptaker.md#paragraf-1--umum-3)
+      - [Pasal 76](https://github.com/okihita/RUU-Ciptaker/blob/main/RUU-Ciptaker.md#pasal-76)
+    - [Paragraf 2 — Penanaman Modal](https://github.com/okihita/RUU-Ciptaker/blob/main/RUU-Ciptaker.md#paragraf-2--penanaman-modal)
+      - [Pasal 77](https://github.com/okihita/RUU-Ciptaker/blob/main/RUU-Ciptaker.md#pasal-77)
+    - [Paragraf 3 — Perbankan](https://github.com/okihita/RUU-Ciptaker/blob/main/RUU-Ciptaker.md#paragraf-3--perbankan)
+      - [Pasal 78](https://github.com/okihita/RUU-Ciptaker/blob/main/RUU-Ciptaker.md#pasal-78)
+    - [Paragraf 4 — Perbankan Syariah](https://github.com/okihita/RUU-Ciptaker/blob/main/RUU-Ciptaker.md#paragraf-4--perbankan-syariah)
+      - [Pasal 79](https://github.com/okihita/RUU-Ciptaker/blob/main/RUU-Ciptaker.md#pasal-79)
