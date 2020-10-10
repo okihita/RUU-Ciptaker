@@ -1,18 +1,21 @@
 <!-- Because I believe knowledge should be free. Viva la Ravenclawism! -->
 
-Repositori ini menyimpan Rancangan Undang-Undang Cipta Kerja (RUU Ciptaker) dalam format Markdown. Sumber dokumen diambil dari [Repositori Tirto.id](https://github.com/okihita/RUU-Ciptaker/blob/main/RUU-Ciptaker.mdhttps://tirto.id/isi-uu-omnibus-law-cipta-kerja-pdf-link-download-usai-disahkan-dpr-f5BZ) per tanggal 7 Oktober 2020. Dokumen tersebut adalah dokumen hasil Rapat Paripurna DPR-RI tanggal 5 Oktober. Rekaman Rapat Paripurna DPR-RI ke-7 dapat dilihat di [Kanal YouTube DPR-RI](https://github.com/okihita/RUU-Ciptaker/blob/main/RUU-Ciptaker.mdhttps://www.youtube.com/watch?v=0m6E-iJntJ0&ab_channel=DPRRI).
+Repositori ini menyimpan Undang-Undang Cipta Kerja (UU Ciptaker) dalam format Markdown. Sumber dokumen diambil dari [Repositori Tirto.id](https://tirto.id/isi-uu-omnibus-law-cipta-kerja-pdf-link-download-usai-disahkan-dpr-f5BZ) per tanggal 7 Oktober 2020, yang merupakan hasil Rapat Paripurna DPR-RI tanggal 5 Oktober.
 
-Tujuan utama dokumen ini adalah kemudahan akses dan pembacaan. Dokumen ini, baik sebagian atau seluruhnya, bebas untuk disebarluaskan dan digunakan untuk kebutuhan apa pun. Seluruh saran, koreksi, laporan ketidaksesuaian bisa disampaikan oleh siapa pun lewat Pull Request atau [Issue](https://github.com/okihita/RUU-Ciptaker/blob/main/RUU-Ciptaker.mdhttps://github.com/okihita/RUU-Ciptaker/issues).
+Rekaman Rapat: [Rapat Paripurna DPR-RI ke-7](https://www.youtube.com/watch?v=0m6E-iJntJ0&ab_channel=DPRRI).
 
-**Penyangkalan/Disclaimer**: Tidak ada jaminan dokumen ini akurat 100% dan tanpa salah ketik. Sebelum ditandatangani oleh Presiden, isi dari Rancangan Undang-Undang Ciptaker masih mungkin berubah, bahkan setelah tanggal 7 Oktober 2020. Sesuai aturan, perbaikan naskah undang-undang maksimal 30 hari setelah disahkan. Konsultasikan ke ahli hukum resmi untuk penggunaan yang sah.
+Tujuan utama dokumen ini adalah kemudahan akses dan pembacaan. Dokumen ini, baik sebagian atau seluruhnya, bebas untuk disebarluaskan dan digunakan untuk kebutuhan apa pun. Saran dan koreksi bisa disampaikan oleh siapa pun lewat Pull Request atau [Issue](https://github.com/okihita/RUU-Ciptaker/issues).
 
----
+**Penyangkalan/Disclaimer**: Tidak ada jaminan dokumen ini akurat 100%. Sebelum ditandatangani oleh Presiden, isi dari Rancangan Undang-Undang Ciptaker masih mungkin berubah. Sesuai aturan, perbaikan naskah undang-undang maksimal 30 hari setelah disahkan.
 
-### Daftar Isi RUU Cipta Kerja
+⚠️ Konsultasikan ke praktisi hukum resmi untuk penggunaan yang sah.
 
-  - [RANCANGAN](https://github.com/okihita/RUU-Ciptaker/blob/main/RUU-Ciptaker.md#rancangan)
-  - [Menimbang :](https://github.com/okihita/RUU-Ciptaker/blob/main/RUU-Ciptaker.md#menimbang-)
-  - [Mengingat :](https://github.com/okihita/RUU-Ciptaker/blob/main/RUU-Ciptaker.md#mengingat-)
+Penjelasan DPR RI: [Kiriman Instagram #1](https://www.instagram.com/p/CGAK7SQFmWL/), [Kiriman Instagram #2](https://www.instagram.com/p/CGBonh6FsH8/).
+
+## Daftar Isi RUU Cipta Kerja
+
+  - [Menimbang:](https://github.com/okihita/RUU-Ciptaker/blob/main/RUU-Ciptaker.md#menimbang-)
+  - [Mengingat:](https://github.com/okihita/RUU-Ciptaker/blob/main/RUU-Ciptaker.md#mengingat-)
 
 - [BAB I — KETENTUAN UMUM](https://github.com/okihita/RUU-Ciptaker/blob/main/RUU-Ciptaker.md#bab-i--ketentuan-umum)
     - [Pasal 1](https://github.com/okihita/RUU-Ciptaker/blob/main/RUU-Ciptaker.md#pasal-1)
@@ -131,3 +134,7 @@ Tujuan utama dokumen ini adalah kemudahan akses dan pembacaan. Dokumen ini, baik
       - [Pasal 78](https://github.com/okihita/RUU-Ciptaker/blob/main/RUU-Ciptaker.md#pasal-78)
     - [Paragraf 4 — Perbankan Syariah](https://github.com/okihita/RUU-Ciptaker/blob/main/RUU-Ciptaker.md#paragraf-4--perbankan-syariah)
       - [Pasal 79](https://github.com/okihita/RUU-Ciptaker/blob/main/RUU-Ciptaker.md#pasal-79)
+
+# Idea
+
+Democracy requires transparency. If someone can hook me up with DPR, I can start revolutionizing the entire way Indonesia's laws are written and documented. I can digitalize 300+ pages a day with visuals and navigation much better than simple Markdown. Public can see the exact-same version of document, real-time, when a bill is introduced, being discussed, iterated, until it's enacted as a law—or revoked.
