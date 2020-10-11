@@ -1,3 +1,5 @@
+« [Lihat Daftar Isi](https://github.com/okihita/RUU-Ciptaker#daftar-isi-ruu-cipta-kerja)
+
 #### RANCANGAN
 
 UNDANG-UNDANG REPUBLIK INDONESIA  
@@ -33,7 +35,7 @@ DEWAN PERWAKILAN RAKYAT REPUBLIK INDONESIA
 DAN  
 PRESIDEN REPUBLIK INDONESIA   
 
-MEMUTUSKAN:
+MEMUTUSKAN:  
 Menetapkan : **UNDANG-UNDANG TENTANG CIPTA KERJA**.
 
 # BAB I — KETENTUAN UMUM
@@ -11656,7 +11658,7 @@ Beberapa ketentuan dalam Undang-Undang Nomor 40 Tahun 2004 tentang Sistem Jamina
 > Bagian Ketujuh — Jaminan Kehilangan Pekerjaan
 >
 > Pasal 46A
-> 
+>
 > (1) Pekerja/buruh yang mengalami pemutusan berhak kerja hubungan mendapatkan jaminan kehilangan pekerjaan.
 >
 > (2) Jaminan kehilangan pekerjaan diselenggarakan oleh badan penyelenggara jaminan sosial ketenagakerjaan dan Pemerintah.
@@ -11824,6 +11826,3456 @@ Beberapa ketentuan dalam Undang-Undang Nomor 18 Tahun 2017 tentang Pelindungan P
 > Pasal 89A
 >
 > Pada saat berlakunya Undang-Undang tentang Cipta Kerja maka pengertian atau makna SIP3MI dalam Undang-Undang Nomor 18 Tahun 2017 tentang Pelindungan Pekerja Migran Indonesia menyesuaikan dengan ketentuan mengenai Perizinan Berusaha.
+
+# BAB V — KEMUDAHAN, PELINDUNGAN, DAN PEMBERDAYAAN KOPERASI, USAHA MIKRO, KECIL, DAN MENENGAH
+
+## Bagian Kesatu — Umum
+
+#### Pasal 85
+
+Untuk memberikan kemudahan, perlindungan, dan pemberdayaan Koperasi dan UMK-M, Undang-Undang ini mengubah, menghapus, atau menetapkan pengaturan baru beberapa ketentuan yang diatur dalam:
+* a. Undang–Undang Nomor 25 Tahun 1992 tentang Perkoperasian (Lembaran Negara Republik Indonesia Tahun 1992 Nomor 116, Tambahan Lembaran Negara Republik Indonesia Nomor 3502).
+* b. Undang-Undang Nomor 20 Tahun 2008 tentang Usaha Mikro Kecil dan Menengah (Lembaran Negara Republik Indonesia Tahun 2008 Nomor 93, Tambahan Lembaran Negara Republik Indonesia Nomor 4866); dan
+* c. Undang-Undang Nomor 38 Tahun 2004 tentang Jalan (Lembaran Negara Republik Indonesia Tahun 2004 Nomor 132, Tambahan Lembaran Negara Republik Indonesia Nomor 4444).
+
+## Bagian Kedua — Koperasi
+
+#### Pasal 86
+
+Beberapa ketentuan dalam Undang–Undang Nomor 25 Tahun 1992 tentang Perkoperasian (Lembaran Negara Republik Indonesia Tahun 1992 Nomor 116, Tambahan Lembaran Negara Republik Indonesia Nomor 3502) diubah:
+
+1. Ketentuan Pasal 6 diubah sehingga berbunyi sebagai berikut:
+
+> Pasal 6
+>
+> (1) Koperasi Primer dibentuk paling sedikit oleh 9 (sembilan) orang.
+>
+> (2) Koperasi Sekunder dibentuk oleh paling sedikit 3 (tiga) Koperasi.
+
+2. Penjelasan Pasal 17 diubah sebagaimana tercantum dalam penjelasan.
+
+3. Ketentuan Pasal 21 diubah sehingga berbunyi sebagai berikut:
+
+> Pasal 21
+>
+> (1) Perangkat organisasi Koperasi terdiri atas:
+> * a. Rapat Anggota;
+> * b. Pengurus;
+> * c. Pengawas.
+>
+> (2) Selain memiliki perangkat organisasi Koperasi sebagaimana dimaksud pada ayat (1), Koperasi yang menjalankan kegiatan usaha berdasarkan prinsip syariah wajib memiliki dewan pengawas syariah.
+
+4. Ketentuan Pasal 22 diubah sehingga berbunyi sebagai berikut:
+
+> Pasal 22
+>
+> (1) Rapat Anggota merupakan pemegang kekuasaan tertinggi dalam Koperasi.
+>
+> (2) Rapat Anggota sebagaimana dimaksud pada ayat (1) dihadiri oleh anggota yang pelaksanaanya diatur dalam Anggaran Dasar/Anggaran Rumah Tangga.
+>
+> (3) Rapat Anggota sebagaimana dimaksud pada ayat (2) dapat dilakukan secara daring dan/atau luring.
+>
+> (4) Ketentuan lebih lanjut mengenai Rapat Anggota sebagaimana dimaksud pada ayat (1), ayat (2), dan ayat (3) diatur dalam Anggaran Dasar/Anggaran Rumah Tangga.
+
+5. Ketentuan Pasal 43 diubah sehingga berbunyi sebagai berikut:
+
+> Pasal 43
+>
+> (1) Usaha Koperasi adalah usaha yang berkaitan langsung dengan kepentingan anggota untuk meningkatkan usaha dan kesejahteraan anggota.
+>
+> (2) Usaha Koperasi sebagaimana dimaksud pada ayat (1) dapat dilaksanakan secara tunggal usaha atau serba usaha.
+>
+> (3) Kelebihan kemampuan pelayanan Koperasi dapat digunakan untuk memenuhi kebutuhan masyarakat yang bukan anggota Koperasi dalam rangka menarik masyarakat menjadi anggota Koperasi.
+>
+> (4) Koperasi menjalankan kegiatan usaha dan berperan utama di segala bidang kehidupan ekonomi rakyat.
+>
+> (5) Ketentuan lebih lanjut mengenai kegiatan usaha Koperasi diatur dengan Peraturan Pemerintah.
+
+6. Di antara Pasal 44 dan Pasal 45 disisipan 1 (satu) pasal yakni Pasal 44A sehingga berbunyi sebagai berikut:
+
+> Pasal 44A
+>
+> (1) Koperasi dapat menjalankan kegiatan usaha berdasarkan prinsip syariah.
+>
+> (2) Koperasi sebagaimana dimaksud pada ayat (1) harus mempunyai dewan pengawas syariah.
+>
+> (3) Dewan pengawas syariah sebagaimana dimaksud pada ayat (2) terdiri atas 1 (satu) orang atau lebih yang memahami syariah dan diangkat oleh Rapat Anggota
+>
+> (4) Dewan pengawas syariah sebagaimana dimaksud pada ayat (2) bertugas memberikan nasihat dan saran kepada Pengurus serta mengawasi kegiatan Koperasi agar sesuai dengan prinsip syariah.
+>
+> (5) Dewan pengawas syariah sebagaimana dimaksud pada ayat (2) selanjutnya mendapatkan pembinaan atau pengembangan kapasitas oleh Pemerintah Pusat dan/atau Dewan Syariah Nasional Majelis Ulama Indonesia.
+>
+> (6) Ketentuan lebih lanjut mengenai Koperasi yang menjalankan kegiatan usaha berdasarkan prinsip syariah diatur dengan Peraturan Pemerintah.
+
+## Bagian Ketiga — Kriteria Usaha Mikro, Kecil, dan Menengah
+
+#### Pasal 87
+
+Beberapa ketentuan dalam Undang-Undang Nomor 20 Tahun 2008 tentang Usaha Mikro Kecil dan Menengah (Lembaran Negara Republik Indonesia Tahun 2008 Nomor 93, Tambahan Lembaran Negara Republik Indonesia Nomor 4866) diubah:
+
+1. Ketentuan Pasal 6 diubah sehingga berbunyi sebagai berikut:
+
+> Pasal 6
+>
+> (1) Kriteria Usaha Mikro, Kecil, dan Menengah dapat memuat modal usaha, omzet, indikator kekayaan bersih, hasil penjualan tahunan, atau nilai investasi, insentif dan disinsentif, penerapan teknologi ramah lingkungan, kandungan lokal, atau jumlah tenaga kerja sesuai dengan kriteria setiap sektor usaha.
+>
+> (2) Ketentuan lebih lanjut mengenai Kriteria Usaha Mikro, Kecil, dan Menengah diatur dengan Peraturan Pemerintah.
+
+2. Ketentuan Pasal 12 diubah sehingga berbunyi sebagai berikut:
+
+> Pasal 12
+>
+> (1) Aspek perizinan usaha sebagaimana dimaksud dalam Pasal 7 ayat (1) huruf e ditujukan untuk:
+> * a. menyederhanakan tata cara dan jenis Perizinan Berusaha dengan sistem pelayanan terpadu satu pintu; dan
+> * b. membebaskan biaya Perizinan Berusaha bagi Usaha Mikro dan memberikan keringanan biaya Perizinan Berusaha bagi Usaha Kecil.
+>
+> (2) Ketentuan lebih lanjut mengenai persyaratan dan tata cara Perizinan Berusaha diatur dengan Peraturan Pemerintah.
+
+3. Ketentuan Pasal 21 diubah sehingga berbunyi sebagai berikut:
+
+> Pasal 21
+>
+> (1) Pemerintah Pusat dan Pemerintah Daerah menyediakan pembiayaan bagi Usaha Mikro dan Kecil;
+>
+> (2) Badan Usaha Milik Negara menyediakan pembiayaan dari penyisihan bagian laba tahunan yang dialokasikan kepada Usaha Mikro dan Kecil dalam bentuk pemberian pinjaman, penjaminan, hibah, dan pembiayaan lainnya.
+>
+> (3) Usaha Besar nasional dan asing menyediakan pembiayaan yang dialokasikan kepada Usaha Mikro dan Kecil dalam bentuk pemberian pinjaman, penjaminan, hibah, dan pembiayaan lainnya.
+>
+> (4) Pemerintah Pusat, Pemerintah Daerah, dan Dunia Usaha memberikan hibah, mengusahakan bantuan luar negeri, dan mengusahakan sumber pembiayaan lain yang sah serta tidak mengikat untuk Usaha Mikro dan Kecil.
+>
+> (5) Pemerintah Pusat dan Pemerintah Daerah sesuai dengan kewenangannya memberikan insentif dalam bentuk kemudahan persyaratan perizinan, keringanan tarif sarana dan prasarana, dan bentuk insentif lainnya yang sesuai dengan ketentuan peraturan perundangundangan kepada Dunia Usaha yang menyediakan pembiayaan bagi Usaha Mikro dan Kecil.
+
+4. Penjelasan Pasal 35 diubah sebagaimana tercantum dalam penjelasan.
+
+## Bagian Keempat — Basis Data Tunggal
+
+#### Pasal 88
+
+(1) Pemerintah Pusat dan Pemerintah Daerah berkewajiban menyelenggarakan sistem informasi dan pendataan UMK-M yang terintegrasi.
+
+(2) Hasil pendataan sebagaimana dimaksud pada ayat (1) sebagai basis data tunggal UMK-M.
+
+(3) Basis data tunggal sebagaimana dimaksud pada ayat (2) wajib digunakan sebagai pertimbangan untuk menentukan kebijakan mengenai UMK-M.
+
+(4) Basis data tunggal sebagaimana dimaksud pada ayat (2) disajikan secara tepat waktu, akurat, dan tepat guna serta dapat diakses oleh masyarakat.
+
+(5) Pemerintah Pusat melakukan pembaharuan sistem informasi dan basis data tunggal paling sedikit 1 (satu) kali dalam 1 (satu) tahun.
+
+(6) Basis data tunggal sebagaimana dimaksud pada ayat (2) dibentuk dalam jangka waktu paling lama 2 (dua) tahun sejak berlakunya Undang-Undang ini.
+
+(7) Ketentuan lebih lanjut mengenai basis data tunggal UMK-M diatur dengan Peraturan Pemerintah.
+
+## Bagian Kelima — Pengelolaan Terpadu Usaha Mikro dan Kecil
+
+#### Pasal 89
+
+(1) Pemerintah Pusat mendorong implementasi pengelolaan terpadu Usaha Mikro dan Kecil dalam penataan klaster melalui sinergi Pemerintah Pusat, Pemerintah Daerah, dan pemangku kepentingan terkait.
+
+(2) Pengelolaan terpadu Usaha Mikro dan Kecil sebagaimana dimaksud pada ayat (1) merupakan kumpulan kelompok Usaha Mikro dan Kecil yang terkait dalam:
+* a. suatu rantai produk umum;
+* b. ketergantungan atas keterampilan tenaga kerja yang serupa; atau
+* c. menggunakaan teknologi yang serupa dan saling melengkapi secara terintegrasi.
+
+(3) Saling melengkapi secara terintegrasi sebagaimana dimaksud pada ayat (2) huruf c dilaksanakan di lokasi klaster dengan tahap pendirian/legalisasi, pembiayaan, penyediaan bahan baku, proses produksi, kurasi, dan pemasaran produk Usaha Mikro dan Kecil melalui perdagangan elektronik/non elektronik.
+
+(4) Penentuan lokasi Klaster Usaha Mikro dan Kecil disusun dalam program Pemerintah Pusat dan Pemerintah Daerah dengan memperhatikan pemetaan potensi, keunggulan daerah, dan strategi penentuan lokasi usaha.
+
+(5) Pemerintah Pusat dan Pemerintah Daerah melaksanakan pendampingan sebagai upaya pengembangan Usaha Mikro dan Kecil untuk memberi dukungan manejemen, sumber daya manusia, anggaran, serta sarana dan prasarana.
+
+(6) Pemerintah Pusat dan Pemerintah Daerah dalam menyediakan dukungan sumber daya manusia, anggaran, serta sarana dan prasarana sebagaimana dimaksud pada ayat (5) wajib memberikan fasilitas yang meliputi:
+* a. lahan lokasi klaster;
+* b. aspek produksi;
+* c. infrastruktur;
+* d. rantai nilai;
+* e. pendirian badan hukum;
+* f. sertifikasi dan standardisasi;
+* g. promosi;
+* h. pemasaran;
+* i. digitalisasi; dan
+* j. penelitian dan pengembangan.
+
+(7) Pemerintah Pusat mengkoordinasikan pengelolaan terpadu Usaha Mikro dan Kecil dalam penataan klaster.
+
+(8) Pemerintah Pusat melakukan evaluasi pengelolaan terpadu Usaha Mikro dan Kecil dalam penataan klaster.
+
+(9) Ketentuan lebih lanjut mengenai pengelolaan terpadu Usaha Mikro dan Kecil diatur dengan Peraturan Pemerintah.
+
+## Bagian Keenam — Kemitraan
+
+#### Pasal 90
+
+(1) Pemerintah Pusat dan Pemerintah Daerah sesuai dengan kewenangannya wajib memfasilitasi kemitraan Usaha Menengah dan Usaha Besar dengan Usaha Mikro dan Kecil serta Koperasi dalam rantai pasok yang bertujuan untuk meningkatkan kompetensi dan level usaha.
+
+(2) Pemerintah Pusat dan Pemerintah Daerah memberikan insentif dan kemudahan berusaha dalam rangka kemitraan sesuai dengan ketentuan peraturan perundang-undangan.
+
+(3) Pemerintah Pusat dan Pemerintah Daerah sesuai dengan kewenangannya melakukan pengawasan dan evaluasi terhadap pelaksanaan kemitraan antara Koperasi, Usaha Mikro, Usaha Kecil, Usaha Menengah, dan Usaha Besar.
+
+(4) Ketentuan lebih lanjut mengenai kemitraan diatur dengan Peraturan Pemerintah.
+
+## Bagian Ketujuh — Kemudahan Perizinan Berusaha
+
+#### Pasal 91
+
+(1) Dalam rangka kemudahan Perizinan Berusaha, Pemerintah Pusat dan Pemerintah Daerah sesuai dengan kewenangannya wajib melakukan pembinaan dan pendaftaran bagi Usaha Mikro dan Kecil berdasarkan norma, standar, prosedur, dan kriteria yang ditetapkan oleh Pemerintah Pusat.
+
+(2) Pendaftaran sebagaimana dimaksud pada ayat (1) dapat dilakukan secara daring atau luring dengan melampirkan:
+* a. Kartu Tanda Penduduk (KTP); dan
+* b. Surat keterangan berusaha dari pemerintah setingkat rukun tetangga.
+
+(3) Terhadap pendaftaran secara daring sebagaimana dimaksud pada ayat (2) diberikan nomor induk berusaha melalui Perizinan Berusaha secara elektronik.
+
+(4) Nomor induk berusaha sebagaimana dimaksud pada ayat (3) merupakan perizinan tunggal yang berlaku untuk semua kegiatan usaha.
+
+(5) Perizinan tunggal sebagaimana dimaksud pada ayat (4) meliputi Perizinan Berusaha, Standar Nasional Indonesia, dan sertifikasi jaminan produk halal.
+
+(6) Pemerintah Pusat dan Pemerintah Daerah sesuai dengan kewenangannya berdasarkan norma, standar, prosedur, dan kriteria yang ditetapkan oleh Pemerintah Pusat, wajib melakukan pembinaan terhadap Perizinan Berusaha, pemenuhan standar, Standar Nasional Indonesia, dan sertifikasi jaminan produk halal.
+
+(7) Dalam hal kegiatan usaha sebagaimana dimaksud pada ayat (4) memiliki risiko menengah atau tinggi terhadap kesehatan, keamanan dan keselamatan serta lingkungan selain melakukan registrasi untuk mendapatkan nomor induk berusaha, Usaha Mikro dan Kecil wajib memiliki sertifikat sertifikasi standar dan/atau izin.
+
+(8) Pemerintah Pusat dan Pemerintah Daerah sesuai dengan kewenangannya berdasarkan norma, standar, prosedur, dan kriteria yang ditetapkan oleh Pemerintah Pusat, memfasilitasi sertifikasi standar dan/atau izin sebagaimana dimaksud pada ayat (5).
+
+(9) Ketentuan lebih lanjut mengenai perizinan tunggal sebagaimana dimaksud pada ayat (5) dan fasilitasi sertifikasi standar dan/atau izin sebagaimana dimaksud pada ayat (8) diatur dengan Peraturan Pemerintah.
+
+## Bagian Kedelapan — Kemudahan Fasilitasi Pembiayaan dan Insentif Fiskal
+
+#### Pasal 92
+
+(1) Terhadap Usaha Mikro, diberikan kemudahan/penyederhanaan administrasi perpajakan dalam rangka pengajuan fasilitas pembiayaan dari Pemerintah Pusat, sesuai dengan ketentuan peraturan perundang-undangan di bidang perpajakan.
+
+(2) Terhadap Usaha Mikro dan Kecil yang mengajukan Perizinan Berusaha dapat diberikan insentif berupa tidak dikenakan biaya atau diberikan keringanan biaya.
+
+(3) Terhadap Usaha Mikro dan Kecil yang berorientasi ekspor, dapat diberikan insentif kepabeanan sesuai dengan ketentuan peraturan perundang-undangan di bidang kepabeanan.
+
+(4) Terhadap Usaha Mikro tertentu dapat diberikan insentif Pajak Penghasilan sesuai dengan ketentuan peraturan perundangundangan di bidang Pajak Penghasilan.
+
+#### Pasal 93
+
+Kegiatan Usaha Mikro dan Kecil dapat dijadikan jaminan kredit program.
+
+#### Pasal 94
+
+(1) Pemerintah Pusat dan Pemerintah Daerah sesuai dengan kewenangannya mempermudah dan menyederhanakan proses untuk Usaha Mikro dan Kecil dalam hal pendaftaran dan pembiayaan hak kekayaan intelektual, kemudahan impor bahan baku dan bahan penolong industri apabila tidak dapat dipenuhi dari dalam negeri, dan/atau fasilitasi ekspor.
+
+(2) Ketentuan lebih lanjut mengenai kemudahan dan penyederhanaan proses pendaftaran dan pembiayaan hak kekayaan intelektual, kemudahan impor bahan baku dan bahan penolong industri industri apabila tidak dapat dipenuhi dari dalam negeri, dan/atau fasilitasi ekspor sebagaimana dimaksud pada ayat (1) diatur dengan Peraturan Pemerintah.
+
+## Bagian Kesembilan — Dana Alokasi Khusus, Bantuan dan Pendampingan Hukum, Pengadaan Barang dan Jasa, dan Sistem/Aplikasi Pembukuan/Pencatatan keuangan dan Inkubasi
+
+#### Pasal 95
+
+(1) Pemerintah Pusat mengalokasi Dana Alokasi Khusus untuk mendukung pendanaan bagi Pemerintah Daerah dalam rangka kegiatan pemberdayaan dan pengembangan Usaha Mikro, Usaha Kecil, dan Usaha Menengah.
+
+(2) Pengalokasian Dana Alokasi Khusus sebagaimana dimaksud pada ayat (1) dilaksanakan sesuai dengan ketentuan peraturan perundang-undangan.
+
+#### Pasal 96
+
+Pemerintah Pusat dan Pemerintah Daerah sesuai dengan kewenangannya wajib menyediakan layanan bantuan dan pendampingan hukum bagi Usaha Mikro dan Kecil.
+
+#### Pasal 97
+
+Pemerintah Pusat dan Pemerintah Daerah wajib mengalokasikan paling sedikit 40% (empat puluh persen) produk/jasa Usaha Mikro dan Kecil serta Koperasi dari hasil produksi dalam negeri dalam pengadaan barang/jasa Pemerintah Pusat dan Pemerintah Daerah sesuai dengan ketentuan peraturan perundangundangan.
+
+#### Pasal 98
+
+Pemerintah Pusat dan Pemerintah Daerah sesuai dengan kewenangannya wajib memberikan pelatihan dan pendampingan pemanfaataan sistem/aplikasi pembukuan/pencatatan keuangan yang memberi kemudahan bagi Usaha Mikro dan Kecil.
+
+#### Pasal 99
+
+Penyelenggaraan inkubasi dilakukan oleh Pemerintah Pusat, Pemerintah Daerah, perguruan tinggi, Dunia Usaha, dan/atau masyarakat.
+
+#### Pasal 100
+
+Inkubasi sebagaimana dimaksud dalam Pasal 97 bertujuan untuk:
+* a. menciptakan usaha baru;
+* b. menguatkan dan mengembangkan kualitas Usaha Mikro, Kecil, dan Menengah yang mempunyai nilai ekonomi dan berdaya saing tinggi; dan
+* c. mengoptimalkan pemanfaatan sumber daya manusia terdidik dalam menggerakkan perekonomian dengan memanfaatkan ilmu pengetahuan dan teknologi.
+
+#### Pasal 101
+
+Sasaran pengembangan inkubasi sebagaimana dimaksud dalam Pasal 97 meliputi:
+* a. penciptaan dan penumbuhan usaha baru serta penguatan kapasitas pelaku usaha pemula yang berdaya saing tinggi;
+* b. penciptaan dan penumbuhan usaha baru yang mempunyai nilai ekonomi dan berdaya saing tinggi; dan
+* c. peningkatan nilai tambah pengelolaan potensi ekonomi melalui pemanfaatan ilmu pengetahuan dan teknologi.
+
+#### Pasal 102
+
+Pemerintah Pusat, Pemerintah Daerah, dan Dunia Usaha melakukan pedampingan untuk meningkatkan kapasitas Usaha Mikro, Kecil, dan Menengah sehingga mampu mengakses:
+* a. pembiayaan alternatif untuk Usaha Mikro, Kecil, dan Menengah Pemula;
+* b. pembiayaan dari dana kemitraan;
+* c. bantuan hibah pemerintah;
+* d. dana bergulir; dan
+* e. tanggung jawab sosial perusahaan.
+
+## Bagian Kesepuluh — Partisipasi UMK dan Koperasi pada Infrastruktur Publik
+
+#### Pasal 103
+
+Di antara Pasal 53 dan Pasal 54 dalam Undang-Undang Nomor 38 Tahun 2004 tentang Jalan (Lembaran Negara Republik Indonesia Tahun 2004 Nomor 132, Tambahan Lembaran Negara Republik Indonesia Nomor 4444) disisipkan 1 (satu) pasal yakni, Pasal 53A sehingga berbunyi sebagai berikut:
+
+> Pasal 53A
+>
+> (1) Jalan Tol antarkota harus dilengkapi dengan Tempat Istirahat, Pelayanan untuk kepentingan pengguna Jalan Tol, serta menyediakan tempat promosi dan pengembangan Usaha Mikro, Usaha Kecil, dan Usaha Menengah.
+>
+> (2) Pengusahaan tempat promosi dan pengembangan Usaha Mikro, Usaha Kecil, dan Usaha Menengah, Tempat Istirahat dan Pelayanan sebagaimana dimaksud pada ayat (1) dilakukan dengan mengalokasikan lahan pada Jalan Tol paling sedikit 30% (tiga puluh persen) dari total luas lahan area komersial untuk Usaha Mikro, Usaha Kecil, dan Usaha Menengah, baik untuk Jalan Tol yang telah beroprasi maupun untuk Jalan Tol yang masih dalam tahap perencanaan dan konstruksi.
+>
+> (3) Penyediaan tempat promosi dan pengembangan Usaha Mikro, Usaha Kecil, dan Usaha Menengah sebagaimana dimaksud pada ayat (2) dilakukan dengan partisipasi Usaha Mikro dan Kecil melalui pola kemitraan.
+>
+> (4) Penanaman dan pemeliharaan tanaman di Tempat Istirahat dan Pelayanan sebagaimana dimaksud pada ayat (1) dapat dilakukan oleh Usaha Mikro, Usaha Kecil, dan Usaha Menengah.
+
+#### Pasal 104
+
+(1) Dalam rangka pemberdayaan Usaha Mikro dan Kecil, Pemerintah Pusat, Pemerintah Daerah, badan usaha milik negara, badan usaha milik daerah dan/atau badan usaha swasta wajib mengalokasikan penyediaan tempat promosi, tempat usaha, dan/atau pengembangan Usaha Mikro dan Kecil pada infrastruktur publik yang mencakup:
+* a. terminal;
+* b. bandar udara;
+* c. pelabuhan;
+* d. stasiun kereta api;
+* e. tempat istirahat dan pelayanan jalan tol; dan
+* e. infrastruktur publik lainnya yang ditetapkan oleh Pemerintah Pusat dan/atau Pemerintah Daerah sesuai dengan kewenangannya.
+
+(2) Alokasi penyediaan tempat promosi dan pengembangan Usaha Mikro dan Kecil pada infrastruktur publik sebagaimana dimaksud pada ayat (1) paling sedikit 30%
+(tiga puluh persen) dari luas tempat perbelanjaan dan/atau promosi yang strategis pada infrastruktur publik yang bersangkutan.
+
+(3) Ketentuan mengenai penyediaan tempat promosi dan pengembangan Usaha Mikro dan Kecil pada infrastruktur publik pada ayat (1) dan besaran alokasi sebagaimana dimaksud pada ayat (2) diatur dengan Peraturan Pemerintah.
+
+# BAB VI — KEMUDAHAN BERUSAHA
+
+## Bagian Kesatu — Umum
+
+#### Pasal 105
+
+Untuk mempermudah pelaku usaha dalam melakukan investasi Undang-Undang ini mengubah, menghapus, atau menetapkan pengaturan baru beberapa ketentuan yang diatur dalam:
+* a. Undang-Undang Nomor 6 Tahun 2011 tentang Keimigrasian (Lembaran Negara Republik Indonesia Tahun 2011 Nomor 52, Tambahan Lembaran Negara Republik Indonesia Nomor 5216);
+* b. Undang-Undang Nomor 13 Tahun 2016 tentang Paten (Lembaran Negara Republik Indonesia Tahun 2016 Nomor 176, Tambahan Lembaran Negara Republik Indonesia Nomor 5922);
+* c. Undang-Undang Nomor 20 Tahun 2016 tentang Merek dan Indikasi Geografis (Lembaran Negara Republik Indonesia Tahun 2016 Nomor 252, Tambahan Lembaran Negara Republik Indonesia Nomor 5953);
+* d. Undang-Undang Nomor 40 Tahun 2007 tentang Perseroan Terbatas (Lembaran Negara Republik Indonesia Tahun 2007 Nomor 106, Tambahan Lembaran Negara Republik Indonesia Nomor 4756);
+* e. Staatsblad Tahun 1926 Nomor 226 juncto Staatsblad Tahun 1940 Nomor 450 tentang Undang-Undang Gangguan (Hinderordonnantie);
+* f. Undang-Undang Nomor 28 Tahun 2009 tentang Pajak Daerah dan Retribusi Daerah (Lembaran Negara Republik Indonesia Tahun 2009 Nomor 130, Tambahan Lembaran Negara Republik Indonesia Nomor 5049);
+* g. Undang-Undang Nomor 7 Tahun 2016 tentang Perlindungan dan Pemberdayaan Nelayan, Pembudi Daya Ikan, dan Petambak Garam (Lembaran Negara Republik Indonesia Tahun 2016 Nomor 68, Tambahan Lembaran Negara Republik Indonesia Nomor 5870);
+* h. Undang-Undang Nomor 3 Tahun 1982 tentang Wajib Daftar Perusahaan (Lembaran Negara Republik Indonesia Tahun 1982 Nomor 7, Tambahan Lembaran Negara Republik Indonesia Nomor 3214); dan
+* i. Undang-Undang Nomor 5 Tahun 1999 tentang Larangan Praktek Monopoli dan Persaingan Usaha Tidak Sehat (Lembaran Negara Republik Indonesia Tahun 1999 Nomor 33, Tambahan Lembaran Negara Republik Indonesia Nomor 3817);
+* j. Undang-Undang Nomor 7 Tahun 1983 tentang Pajak Penghasilan (Lembaran Negara Republik Indonesia Tahun 1983 Nomor 50, Tambahan Lembaran Negara Republik Indonesia Nomor 3263) sebagaimana telah beberapa kali diubah, terakhir dengan Undang-Undang Nomor 36 Tahun 2008 tentang Perubahan Keempat atas Undang-Undang Nomor 7 Tahun 1983 tentang Pajak Penghasilan (Lembaran Negara Republik Indonesia Tahun 2008 Nomor 133, Tambahan Lembaran Negara Republik lndonesia Nomor 4893);
+* k. Undang-Undang Nomor 8 Tahun 1983 tentang Pajak Pertambahan Nilai Barang dan Jasa dan Pajak Penjualan atas Barang Mewah (Lembaran Negara Republik Indonesia Tahun 1983 Nomor 51, Tambahan Lembaran Negara Republik Indonesia Nomor 3264) sebagaimana telah beberapa kali diubah, terakhir dengan Undang-Undang Nomor 42 Tahun 2009 tentang Perubahan Ketiga atas Undang-Undang Nomor 8 Tahun 1983 tentang Pajak Pertambahan Nilai Barang dan Jasa dan Pajak Penjualan atas Barang Mewah (Lembaran Negara Republik Indonesia Tahun 2009 Nomor 150, Tambahan Lembaran Negara Republik Indonesia Nomor 5069);
+* l. Undang-Undang Nomor 6 Tahun 1983 tentang Ketentuan Umum dan Tata Cara Perpajakan (Lembaran Negara Republik Indonesia Tahun 1983 Nomor 49, Tambahan Lembaran Negara Republik Indonesia Nomor 3262) sebagaimana telah beberapa kali diubah, terakhir dengan Undang-Undang Nomor 16 Tahun 2009 tentang Penetapan Peraturan Pemerintah Pengganti Undang-Undang Nomor 5 Tahun 2008 tentang Perubahan Keempat atas Undang-Undang Nomor 6 Tahun 1983 tentang Ketentuan Umum dan Tata Cara Perpajakan Menjadi Undang-Undang (Lembaran Negara Republik Indonesia Tahun 2009 Nomor 62, Tambahan Lembaran Negara Republik Indonesia Nomor 4999);
+* m. Undang-Undang Nomor 6 Tahun 2014 tentang Desa (Lembaran Negara Republik Indonesia Tahun 2014 Nomor 7, Tambahan Lembaran Negara Republik Indonesia Nomor 5495).
+
+## Bagian Kedua — Keimigrasian
+
+#### Pasal 106
+
+Beberapa ketentuan dalam Undang-Undang Nomor 6 Tahun 2011 tentang Keimigrasian (Lembaran Negara Republik Indonesia Tahun 2011 Nomor 52, Tambahan Lembaran Negara Republik Indonesia Nomor 5216) diubah:
+
+1. Ketentuan Pasal 1 angka 18 dan angka 21 diubah, sehingga Pasal 1 berbunyi sebagai berikut:
+
+> Pasal 1
+>
+> Dalam Undang-Undang ini yang dimaksud dengan:
+>
+> 1. Keimigrasian adalah hal ihwal lalu lintas orang yang masuk atau keluar Wilayah Indonesia serta pengawasannya dalam rangka menjaga tegaknya kedaulatan negara.
+>
+> 2. Wilayah Negara Republik Indonesia yang selanjutnya disebut Wilayah Indonesia adalah seluruh wilayah Indonesia serta zona tertentu yang ditetapkan berdasarkan undang-undang.
+>
+> 3. Fungsi Keimigrasian adalah bagian dari urusan pemerintahan negara dalam memberikan pelayanan Keimigrasian, penegakan hukum, keamanan negara, dan fasilitator pembangunan kesejahteraan masyarakat.
+>
+> 4. Menteri adalah menteri yang menyelenggarakan urusan pemerintahan di bidang hukum dan hak asasi manusia.
+>
+> 5. Direktur Jenderal adalah Direktur Jenderal Imigrasi.
+>
+> 6. Direktorat Jenderal Imigrasi adalah unsur pelaksana tugas dan fungsi Kementerian Hukum dan Hak Asasi Manusia di bidang Keimigrasian.
+>
+> 7. Pejabat Imigrasi adalah pegawai yang telah melalui pendidikan khusus Keimigrasian dan memiliki keahlian teknis Keimigrasian serta memiliki wewenang untuk melaksanakan tugas dan tanggung jawab berdasarkan Undang-Undang ini.
+>
+> 8. Penyidik Pegawai Negeri Sipil Keimigrasian yang selanjutnya disebut dengan PPNS Keimigrasian adalah Pejabat Imigrasi yang diberi wewenang oleh undangundang untuk melakukan penyidikan tindak pidana Keimigrasian.
+>
+> 9. Orang Asing adalah orang yang bukan warga negara Indonesia.
+>
+> 10. Sistem Informasi Manajemen Keimigrasian adalah sistem teknologi informasi dan komunikasi yang digunakan untuk mengumpulkan, mengolah dan menyajikan informasi guna mendukung operasional, manajemen, dan pengambilan keputusan dalam melaksanakan Fungsi Keimigrasian.
+>
+> 11. Kantor Imigrasi adalah unit pelaksana teknis yang menjalankan Fungsi Keimigrasian di daerah kabupaten, kota, atau kecamatan.
+>
+> 12. Tempat Pemeriksaan Imigrasi adalah tempat pemeriksaan di pelabuhan laut, bandar udara, pos lintas batas, atau tempat lain sebagai tempat masuk dan keluar Wilayah Indonesia.
+>
+> 13. Dokumen Perjalanan adalah dokumen resmi yang dikeluarkan oleh pejabat yang berwenang dari suatu negara, Perserikatan Bangsa-Bangsa, atau organisasi internasional lainnya untuk melakukan perjalanan antarnegara yang memuat identitas pemegangnya.
+>
+> 14. Dokumen Keimigrasian adalah Dokumen Perjalanan Republik Indonesia, dan Izin Tinggal yang dikeluarkan oleh Pejabat Imigrasi atau pejabat dinas luar negeri.
+>
+> 15. Dokumen Perjalanan Republik Indonesia adalah Paspor Republik Indonesia dan Surat Perjalanan Laksana Paspor Republik Indonesia.
+>
+> 16. Paspor Republik Indonesia yang selanjutnya disebut Paspor adalah dokumen yang dikeluarkan oleh Pemerintah Republik Indonesia kepada warga negara Indonesia untuk melakukan perjalanan antarnegara yang berlaku selama jangka waktu tertentu.
+>
+> 17. Surat Perjalanan Laksana Paspor Republik Indonesia yang selanjutnya disebut Surat Perjalanan Laksana Paspor adalah dokumen pengganti paspor yang diberikan dalam keadaan tertentu yang berlaku selama jangka waktu tertentu.
+>
+> 18. Visa Republik Indonesia yang selanjutnya disebut Visa adalah keterangan tertulis baik secara manual maupun elektronik yang diberikan oleh pejabat yang berwenang untuk melakukan perjalanan ke Wilayah Indonesia dan menjadi dasar untuk pemberian Izin Tinggal.
+>
+> 19. Tanda Masuk adalah tanda tertentu berupa cap yang dibubuhkan pada Dokumen Perjalanan warga negara Indonesia dan Orang Asing, baik manual maupun elektronik, yang diberikan oleh Pejabat Imigrasi sebagai tanda bahwa yang bersangkutan masuk Wilayah Indonesia.
+>
+> 20. Tanda Keluar adalah tanda tertentu berupa cap yang dibubuhkan pada Dokumen Perjalanan warga negara Indonesia dan Orang Asing, baik manual maupun elektronik, yang diberikan oleh Pejabat Imigrasi sebagai tanda bahwa yang bersangkutan keluar Wilayah Indonesia.
+>
+> 21. Izin Tinggal adalah izin yang diberikan kepada Orang Asing oleh Pejabat Imigrasi atau pejabat dinas luar negeri baik secara manual maupun elektronik untuk berada di Wilayah Indonesia.
+>
+> 22. Pernyataan Integrasi adalah pernyataan Orang Asing kepada Pemerintah Republik Indonesia sebagai salah satu syarat memperoleh Izin Tinggal Tetap.
+>
+> 23. Izin Tinggal Tetap adalah izin yang diberikan kepada Orang Asing tertentu untuk bertempat tinggal dan menetap di Wilayah Indonesia sebagai penduduk Indonesia.
+>
+> 24. Izin Masuk Kembali adalah izin tertulis yang diberikan oleh Pejabat Imigrasi kepada Orang Asing pemegang Izin Tinggal terbatas dan Izin Tinggal Tetap untuk masuk kembali ke Wilayah Indonesia.
+>
+> 25. Korporasi adalah kumpulan orang dan/atau kekayaan yang terorganisasi, baik merupakan badan hukum maupun bukan badan hukum.
+>
+> 26. Penjamin adalah orang atau Korporasi yang bertanggung jawab atas keberadaan dan kegiatan Orang Asing selama berada di Wilayah Indonesia.
+>
+> 27. Alat Angkut adalah kapal laut, pesawat udara, atau sarana transportasi lain yang lazim digunakan, baik untuk mengangkut orang maupun barang.
+>
+> 28. Pencegahan adalah larangan sementara terhadap orang untuk keluar dari Wilayah Indonesia berdasarkan alasan Keimigrasian atau alasan lain yang ditentukan oleh undang-undang.
+>
+> 29. Penangkalan adalah larangan terhadap Orang Asing untuk masuk Wilayah Indonesia berdasarkan alasan Keimigrasian.
+>
+> 30. Intelijen Keimigrasian adalah kegiatan penyelidikan Keimigrasian dan pengamanan Keimigrasian dalam rangka proses penyajian informasi melalui analisis guna menetapkan perkiraan keadaan Keimigrasian yang dihadapi atau yang akan dihadapi.
+>
+> 31. Tindakan Administratif Keimigrasian adalah sanksi administratif yang ditetapkan Pejabat Imigrasi terhadap Orang Asing di luar proses peradilan.
+>
+> 32. Penyelundupan Manusia adalah perbuatan yang bertujuan mencari keuntungan, baik secara langsung maupun tidak langsung, untuk diri sendiri atau untuk orang lain yang membawa seseorang atau kelompok orang, baik secara terorganisasi maupun tidak terorganisasi, atau memerintahkan orang lain untuk membawa seseorang atau kelompok orang, baik secara terorganisasi maupun tidak terorganisasi, yang tidak memiliki hak secara sah untuk memasuki Wilayah Indonesia atau keluar Wilayah Indonesia dan/atau masuk wilayah negara lain yang orang tersebut tidak memiliki hak untuk memasuki wilayah tersebut secara sah, baik dengan menggunakan dokumen sah maupun dokumen palsu, atau tanpa menggunakan Dokumen Perjalanan, baik melalui pemeriksaan imigrasi maupun tidak.
+>
+> 33. Rumah Detensi Imigrasi adalah unit pelaksana teknis yang menjalankan Fungsi Keimigrasian sebagai tempat penampungan sementara bagi Orang Asing yang dikenai Tindakan Administratif Keimigrasian.
+>
+> 34. Ruang Detensi Imigrasi adalah tempat penampungan sementara bagi Orang Asing yang dikenai Tindakan Administratif Keimigrasian yang berada di Direktorat Jenderal Imigrasi dan Kantor Imigrasi.
+>
+> 35. Deteni adalah Orang Asing penghuni Rumah Detensi Imigrasi atau Ruang Detensi Imigrasi yang telah mendapatkan keputusan pendetensian dari Pejabat Imigrasi.
+>
+> 36. Deportasi adalah tindakan paksa mengeluarkan Orang Asing dari Wilayah Indonesia.
+>
+> 37. Penanggung Jawab Alat Angkut adalah pemilik, pengurus, agen, nakhoda, kapten kapal, kapten pilot, atau pengemudi alat angkut yang bersangkutan.
+>
+> 38. Penumpang adalah setiap orang yang berada di atas alat angkut, kecuali awak alat angkut.
+>
+> 39. Perwakilan Republik Indonesia adalah Kedutaan Besar Republik Indonesia, Konsulat Jenderal Republik Indonesia, dan Konsulat Republik Indonesia.
+
+2. Ketentuan Pasal 38 diubah, sehingga berbunyi sebagai berikut:
+
+> Pasal 38
+>
+> Visa kunjungan diberikan kepada Orang Asing yang akan melakukan perjalanan ke Wilayah Indonesia dalam rangka kunjungan tugas pemerintahan, pendidikan, sosial budaya, pariwisata, pra-investasi, bisnis, keluarga, jurnalistik, atau singgah untuk meneruskan perjalanan ke negara lain.
+
+3. Ketentuan Pasal 39 diubah, sehingga berbunyi sebagai berikut:
+
+> Pasal 39
+>
+> Visa tinggal terbatas diberikan kepada Orang Asing:
+> * a. sebagai rohaniawan, tenaga ahli, pekerja, peneliti, pelajar, investor, rumah kedua, dan keluarganya, serta Orang Asing yang kawin secara sah dengan warga negara Indonesia, yang akan melakukan perjalanan ke Wilayah Indonesia untuk bertempat tinggal dalam jangka waktu yang terbatas;
+> * b. dalam rangka bergabung untuk bekerja di atas kapal, alat apung, atau instalasi yang beroperasi di wilayah perairan nusantara, laut teritorial, landas kontinen, dan/atau Zona Ekonomi Eksklusif Indonesia; atau
+> * c. ketentuan lebih lanjut mengenai Visa tinggal terbatas sebagaimana dimaksud pada huruf a dan huruf b diatur dalam Peraturan Pemerintah.
+
+4. Ketentuan Pasal 40 diubah, sehingga berbunyi sebagai berikut:
+
+> Pasal 40
+>
+> (1) Pemberian Visa kunjungan dan Visa tinggal terbatas merupakan kewenangan Menteri.
+>
+> (2) Visa sebagaimana dimaksud pada ayat (1) diberikan dan ditandatangani oleh Pejabat Imigrasi.
+>
+> (3) Dalam hal visa diberikan di Perwakilan Republik Indonesia, pemberian visa dilaksanakan oleh Pejabat Imigrasi di Perwakilan Republik Indonesia dan/atau pejabat dinas luar negeri.
+>
+> (4) Pejabat dinas luar negeri sebagaimana dimaksud pada ayat (3) berwenang memberikan Visa setelah memperoleh Keputusan Menteri.
+
+5. Ketentuan Pasal 46 diubah, sehingga berbunyi sebagai berikut:
+
+> Pasal 46
+>
+> (1) Orang Asing pemegang Visa diplomatik atau Visa dinas dengan maksud bertempat tinggal di Wilayah Indonesia setelah mendapat Tanda Masuk wajib mengajukan permohonan kepada Menteri Luar Negeri atau pejabat yang ditunjuk untuk memperoleh Izin Tinggal diplomatik atau Izin Tinggal dinas.
+>
+> (2) Orang Asing pemegang Visa tinggal terbatas setelah mendapat Tanda Masuk wajib mengajukan permohonan kepada kepala Kantor Imigrasi untuk memperoleh Izin Tinggal terbatas.
+>
+> (3) Jika Orang Asing sebagaimana dimaksud pada ayat (1) dan ayat (2) tidak melaksanakan kewajiban tersebut, Orang Asing yang bersangkutan dianggap berada di Wilayah Indonesia secara tidak sah.
+>
+> (4) Dalam hal orang asing sebagaimana dimaksud pada ayat (2) mendapatkan Izin Tinggal terbatas di Tempat Pemeriksaan Imigrasi, tidak perlu mengajukan permohonan kepada kepala Kantor Imigrasi untuk memperoleh Izin Tinggal terbatas.
+
+6. Ketentuan Pasal 54 diubah, sehingga berbunyi sebagai berikut:
+
+> Pasal 54
+>
+> (1) Izin Tinggal Tetap dapat diberikan kepada:
+> * a. Orang Asing pemegang Izin Tinggal terbatas sebagai rohaniwan, pekerja, investor, dan rumah kedua;
+> * b. keluarga karena perkawinan campuran;
+> * c. suami, istri, dan/atau anak dari Orang Asing pemegang Izin Tinggal Tetap; dan
+> * d. Orang Asing eks warga negara Indonesia dan eks subjek anak berkewarganegaraan ganda Republik Indonesia.
+>
+> (2) Izin Tinggal Tetap sebagaimana dimaksud pada ayat (1) tidak diberikan kepada Orang Asing yang tidak memiliki paspor kebangsaan.
+>
+> (3) Orang Asing pemegang Izin Tinggal Tetap merupakan penduduk Indonesia.
+>
+> (4) Ketentuan lebih lanjut mengenai Izin Tinggal Tetap sebagaimana dimaksud pada ayat (1) diatur dalam Peraturan Pemerintah.
+
+7. Ketentuan Pasal 63 diubah, sehingga berbunyi sebagai berikut:
+
+> Pasal 63
+>
+> (1) Orang Asing tertentu yang berada di Wilayah Indonesia wajib memiliki Penjamin yang menjamin keberadaannya.
+>
+> (2) Penjamin bertanggung jawab atas keberadaan dan kegiatan Orang Asing yang dijamin selama tinggal di Wilayah Indonesia serta berkewajiban melaporkan setiap perubahan status sipil, status Keimigrasian, dan perubahan alamat.
+>
+> (3) Penjamin wajib membayar biaya yang timbul untuk memulangkan atau mengeluarkan Orang Asing yang dijaminnya dari Wilayah Indonesia apabila Orang Asing yang bersangkutan:
+> * a. telah habis masa berlaku Izin Tinggalnya; dan/atau
+> * b. dikenai Tindakan Administratif Keimigrasian berupa Deportasi.
+>
+> (4) Ketentuan mengenai penjaminan tidak berlaku bagi:
+> * a. Orang Asing yang kawin secara sah dengan warga negara Indonesia;
+> * b. Pelaku Usaha dengan kewarganegaraan asing yang menanamkan modal sebagai investasinya di Indonesia sebagaimana dimaksud dalam ketentuan peraturan perundang-undangan mengenai penanaman modal; dan
+> * c. Warga dari suatu negara yang secara resiprokal memberikan pembebasan penjaminan.
+>
+> (5) Ketentuan sebagaimana dimaksud dalam Pasal 62 ayat (2) huruf g tidak berlaku dalam hal pemegang Izin Tinggal Tetap tersebut putus hubungan perkawinannya dengan warga negara Indonesia memperoleh penjaminan yang menjamin keberadaannya sebagaimana dimaksud pada ayat (1).
+>
+> (6) Orang Asing sebagaimana dimaksud pada ayat (4) huruf b, menyetorkan jaminan keimigrasian sebagai pengganti penjamin selama berada di Wilayah Indonesia.
+>
+> (7) Ketentuan lebih lanjut mengenai tata cara jaminan keimigrasian bagi Orang Asing diatur dengan Peraturan Pemerintah.
+
+8. Ketentuan Pasal 71 diubah, sehingga berbunyi sebagai berikut:
+
+> Pasal 71
+>
+> (1) Setiap Orang Asing yang berada di Wilayah Indonesia wajib:
+> * a. memberikan segala keterangan yang diperlukan mengenai identitas diri dan/atau keluarganya serta melaporkan setiap perubahan status sipil, kewarganegaraan, pekerjaan, Penjamin, atau perubahan alamatnya kepada Kantor Imigrasi setempat; atau
+> * b. menyerahkan Dokumen Perjalanan atau Izin Tinggal yang dimilikinya apabila diminta oleh Pejabat Imigrasi yang bertugas dalam rangka pengawasan Keimigrasian.
+>
+> (2) Ketentuan lebih lanjut mengenai pemenuhan kewajiban keimigrasian sebagaimana dimaksud pada ayat (1) diatur dengan Peraturan Pemerintah.
+
+## Bagian Ketiga — Paten
+
+#### Pasal 107
+
+Beberapa ketentuan dalam Undang-Undang Nomor 13 Tahun 2016 tentang Paten (Lembaran Negara Republik Indonesia Tahun 2016 Nomor 176, Tambahan Lembaran Negara Republik Indonesia Nomor 5922) diubah:
+
+1. Ketentuan Pasal 3 diubah, sehingga berbunyi sebagai berikut:
+
+> Pasal 3
+>
+> (1) Paten sebagaimana dimaksud dalam Pasal 2 huruf a diberikan untuk Invensi yang baru, mengandung langkah inventif, dan dapat diterapkan dalam industri.
+>
+> (2) Paten sederhana sebagaimana dimaksud dalam Pasal 2 huruf b diberikan untuk setiap Invensi baru, pengembangan dari produk atau proses yang telah ada dan/atau memiliki kegunaan praktis serta dapat diterapkan dalam industri.
+>
+> (3) Pengembangan dari produk atau proses yang telah ada sebagaimana dimaksud pada ayat (2) meliputi:
+> * a. Produk sederhana;
+> * b. Proses sederhana; atau
+> * c. Metode sederhana.
+
+2. Ketentuan Pasal 20 diubah, sehingga berbunyi sebagai berikut:
+
+> Pasal 20
+>
+> (1) Paten wajib dilaksanakan di Indonesia.
+>
+> (2) Pelaksanaan Paten sebagaimana dimaksud pada ayat (1), yaitu:
+> * a. Pelaksanaan Paten-produk yang meliputi membuat, mengimpor, atau melisensikan produk yang diberi Paten;
+> * b. Pelaksanaan Paten-proses yang meliputi membuat, melisensikan, atau mengimpor produk yang dihasilkan dari proses yang diberi Paten; atau
+> * c. Pelaksanaan Paten-metode, sistem, dan penggunaan yang meliputi membuat, mengimpor, atau melisensikan produk yang dihasilkan dari metode, sistem, dan penggunaan yang diberi Paten.
+
+3. Ketentuan Pasal 82 diubah, sehingga berbunyi sebagai berikut:
+
+> Pasal 82
+>
+> (1) Lisensi-wajib merupakan Lisensi untuk melaksanakan Paten yang diberikan berdasarkan Keputusan Menteri atas dasar permohonan dengan alasan:
+> * a. Paten tidak dilaksanakan di Indonesia sebagaimana dimaksud dalam pasal 20 dalam jangka waktu 36 (tiga puluh enam) bulan setelah diberikan paten;
+> * b. Paten telah dilaksanakan oleh Pemegang Paten atau penerima Lisensi dalam bentuk dan dengan cara yang merugikan kepentingan masyarakat; atau
+> * c. Paten hasil pengembangan dari Paten yang telah diberikan sebelumnya tidak bisa dilaksanakan tanpa menggunakan Paten pihak lain yang masih dalam pelindungan.
+>
+> (2) Permohonan Lisensi-wajib sebagaimana dimaksud pada ayat (1) dikenai biaya.
+
+4. Ketentuan Pasal 122 diubah, sehingga berbunyi sebagai berikut:
+
+> Pasal 122
+>
+> (1) Paten sederhana diberikan hanya untuk satu Invensi.
+>
+> (2) Permohonan Pemeriksaan Substantif atas Paten sederhana dilakukan bersamaan dengan pengajuan Permohonan Paten sederhana dengan dikenai biaya.
+>
+> (3) Apabila permohonan pemeriksaan substantif atas Paten sederhana tidak dilakukan dalam batas waktu sebagaimana dimaksud pada ayat (2) atau biaya pemeriksaan substantif atas Paten sederhana tidak dibayar, Permohonan Paten sederhana dianggap ditarik kembali.
+
+5. Ketentuan Pasal 123 diubah, sehingga berbunyi sebagai berikut:
+
+> Pasal 123
+>
+> (1) Pengumuman Permohonan Paten sederhana dilakukan paling lambat 14 (empat belas) Hari terhitung sejak Tanggal Penerimaan Permohonan Paten sederhana.
+>
+> (2) Pengumuman sebagaimana dimaksud pada ayat (1) dilaksanakan selama 14 (empat belas) hari kerja terhitung sejak tanggal diumumkannya Permohonan Paten sederhana.
+>
+> (3) Pemeriksaan substantif atas Permohonan paten sederhana dilakukan setelah jangka waktu pengumuman sebagaimana dimaksud pada ayat (2) berakhir.
+>
+> (4) Dikecualikan terhadap ketentuan dalam Pasal 49 ayat (3) dan (4), bahwa keberatan terhadap permohonan paten sederhana langsung digunakan sebagai tambahan bahan pertimbangan dalam tahap pemeriksaan substantif.
+
+6. Ketentuan Pasal 124 diubah, sehingga berbunyi sebagai berikut:
+
+> Pasal 124
+>
+> (1) Menteri wajib memberikan keputusan untuk menyetujui atau menolak Permohonan Paten sederhana paling lama 6 (enam) bulan terhitung sejak tanggal penerimaan Permohonan Paten sederhana.
+>
+> (2) Paten sederhana yang diberikan oleh Menteri dicatat dan diumumkan melalui media elektronik dan/atau media non-elektronik.
+>
+> (3) Menteri memberikan sertifikat Paten sederhana kepada Pemegang Paten sederhana sebagai bukti hak.
+
+## Bagian Keempat — Merek
+
+#### Pasal 108
+
+Beberapa ketentuan dalam Undang-Undang Nomor 20 Tahun 2016 tentang Merek dan Indikasi Geografis (Lembaran Negara Republik Indonesia Tahun 2016 Nomor 252, Tambahan Lembaran Negara Republik Indonesia Nomor 5953) diubah, sehingga berbunyi sebagai berikut:
+
+1. Ketentuan Pasal 20 diubah, sehingga berbunyi sebagai berikut:
+
+> Pasal 20
+>
+> Merek tidak dapat didaftar jika:
+> * a. bertentangan dengan ideologi negara, peraturan perundangan-undang, moralitas agama, kesusilaan, atau ketertiban umum;
+> * b. sama dengan, berkaitan dengan, atau hanya menyebut barang dan/atau jasa yang dimohonkan pendaftarannya;
+> * c. memuat unsur yang dapat menyesatkan masyarakat tentang asal, kualitas, jenis, ukuran, macam, tujuan penggunaan barang dan/atau jasa yang dimohonkan pendaftarannya atau merupakan nama varietas tanaman yang dilindungi untuk barang dan/atau jasa yang sejenis;
+> * d. memuat keterangan yang tidak sesuai dengan kualitas, manfaat atau khasiat dari barang dan/atau jasa yang diproduksi;
+> * e. tidak memiliki daya pembeda;
+> * f. merupakan nama umum dan/atau lambang milik umum; dan/atau
+> * g. mengandung bentuk yang bersifat fungsional.
+
+2. Ketentuan Pasal 23 diubah, sehingga berbunyi sebagai berikut:
+
+> Pasal 23
+>
+> (1) Pemeriksaan substantif merupakan pemeriksaan yang dilakukan oleh Pemeriksa terhadap Permohonan pendaftaran Merek.
+>
+> (2) Segala keberatan dan atau sanggahan sebagaimana dimaksud dalarn Pasal 16 dan Pasal 17 menjadi pertimbangan dalam pemeriksaan substantif sebagaimana dimaksud pada ayat (1).
+>
+> (3) Dalam hal tidak terdapat keberatan terhitung sejak tanggal berakhirnya pengumuman, dilakukan pemeriksaan substantif terhadap Permohonan.
+>
+> (4) Pemeriksaan substantif sebagaimana dimaksud pada ayat (3) diselesaikan dalam jangka waktu paling lama 30 (tiga puluh) Hari.
+>
+> (5) Dalam hal terdapat keberatan dalam jangka waktu paling lama 30 (tiga puluh) Hari terhitung sejak tanggal berakhirnya batas waktu penyampaian sanggahan sebagaimana dimaksud dalam Pasal 17, dilakukan pemeriksaan substantif terhadap Permohonan.
+>
+> (6) Pemeriksaan substantif sebagaimana dimaksud pada ayat (5) diselesaikan dalam jangka waktu paling lama 90 (sembilan puluh) Hari.
+>
+> (7) Dalam hal diperlukan untuk melakukan pemeriksaan substantif, dapat ditetapkan tenaga ahli pemeriksa Merek di luar Pemeriksa.
+>
+> (8) Hasil pemeriksaan substantif yang dilakukan oleh tenaga ahli perneriksa Merek di luar Pemeriksa sebagaimana dimaksud pada ayat (7), dapat dianggap sama dengan hasil pemeriksaan substantif yang dilakukan oleh Pemeriksa, dengan Persetujuan Menteri.
+
+3. Ketentuan Pasal 25 diubah, sehingga berbunyi sebagai berikut:
+
+> Pasal 25
+>
+> (1) Sertifikat Merek diterbitkan oleh Menteri sejak Merek tersebut terdaftar;
+>
+> (2) Sertifikat Merek sebagaimana dimaksud pada ayat (1) memuat:
+> * a. nama dan alamat lengkap pemilik Merek yang didaftar;
+> * b. nama dan alamat lengkap Kuasa, dalam hal Permohonan melalui Kuasa;
+> * c. Tanggal Penerimaan;
+> * d. nama negara dan Tanggal Penerimaan pemohonan yang pertama kali dalam hal Permohonan diajukan dengan menggunakan Hak Prioritas;
+> * e. label Merek yang didaftarkan, termasuk keterangan mengenai macam warna jika Merek tersebut menggunakan unsur warna, dan jika Merek menggunakan bahasa asing, huruf selain huruf Latin, dan/atau angka yang tidak lazim digunakan dalam bahasa Indonesia disertai terjemahannya dalam bahasa Indonesia, huruf Latin dan angka yang lazim digunakan dalam bahasa Indonesia serta cara pengucapannya dalam ejaan Latin;
+> * f. nomor dan tanggal pendaftaran;
+> * g. kelas dan jenis barang dan/atau jasa yang Mereknya didaftar; dan
+> * h. jangka waktu berlakunya pendaftaran Merek.
+
+## Bagian Kelima — Perseroan Terbatas
+
+#### Pasal 109
+
+Beberapa ketentuan dalam Undang-Undang Nomor 40 Tahun 2007 tentang Perseroan Terbatas (Lembaran Negara Republik Indonesia Tahun 2007 Nomor 40, Tambahan Lembaran Negara Republik Indonesia Nomor 4756) diubah:
+
+1. Ketentuan Pasal 1 angka 1 diubah sehingga berbunyi sebagai berikut:
+
+> Pasal 1
+>
+> Dalam undang-undang ini yang dimaksud dengan:
+>
+> 1. Perseroan Terbatas, yang selanjutnya disebut perseroan, adalah badan hukum yang merupakan persekutuan modal, didirikan berdasarkan perjanjian, melakukan kegiatan usaha dengan modal dasar yang seluruhnya terbagi dalam saham dan memenuhi persyaratan berdasarkan ketentuan peraturan-perundang-undangan.
+>
+> 2. Organ Perseroan adalah Rapat Umum Pemegang Saham, Direksi, dan Dewan Komisaris.
+>
+> 3. Tanggung Jawab Sosial dan Lingkungan adalah komitmen Perseroan untuk berperan serta dalam pembangunan ekonomi berkelanjutan guna meningkatkan kualitas kehidupan dan lingkungan yang bermanfaat, baik bagi Perseroan sendiri, komunitas setempat, maupun masyarakat pada umumnya. 4. Rapat Umum Pemegang Saham, yang selanjutnya disebut RUPS, adalah Organ Perseroan yang mempunyai wewenang yang tidak diberikan kepada Direksi atau Dewan Komisaris dalam batas yang ditentukan dalam undang-undang ini dan/atau anggaran dasar.
+>
+> 4. Direksi adalah Organ Perseroan yang berwenang dan bertanggung jawab penuh atas pengurusan Perseroan untuk kepentingan Perseroan, sesuai dengan maksud dan tujuan Perseroan serta mewakili Perseroan, baik di dalam maupun di luar pengadilan sesuai dengan ketentuan anggaran dasar.
+>
+> 5. Dewan Komisaris adalah Organ Perseroan yang bertugas melakukan pengawasan secara umum dan/atau khusus sesuai dengan anggaran dasar serta memberi nasihat kepada Direksi.
+>
+> 6. Perseroan Terbuka adalah Perseroan Publik atau Perseroan yang melakukan penawaran umum saham, sesuai dengan ketentuan peraturan perundang-undangan di bidang pasar modal.
+>
+> 7. Perseroan Publik adalah Perseroan yang memenuhi kriteria jumlah pemegang saham dan modal disetor sesuai dengan ketentuan peraturan perundang-undangan di bidang pasar modal.
+>
+> 8. Penggabungan adalah perbuatan hukum yang dilakukan oleh satu Perseroan atau lebih untuk menggabungkan diri dengan Perseroan lain yang telah ada yang mengakibatkan aktiva dan pasiva dari Perseroan yang menggabungkan diri beralih karena hukum kepada Perseroan yang menerima penggabungan dan selanjutnya status badan hukum Perseroan yang menggabungkan diri berakhir karena hukum.
+>
+> 9. Peleburan adalah perbuatan hukum yang dilakukan oleh dua Perseroan atau lebih untuk meleburkan diri dengan cara mendirikan satu Perseroan baru yang karena hukum memperoleh aktiva dan pasiva dari Perseroan yang meleburkan diri dan status badan hukum Perseroan yang meleburkan diri berakhir karena hukum.
+>
+> 10. Pengambilalihan adalah perbuatan hukum yang dilakukan oleh badan hukum atau orang perseorangan untuk mengambil alih saham Perseroan yang mengakibatkan beralihnya pengendalian atas Perseroan tersebut.
+>
+> 11. Pemisahan adalah perbuatan hukum yang dilakukan oleh Perseroan untuk memisahkan usaha yang mengakibatkan seluruh aktiva dan pasiva Perseroan beralih karena hukum kepada 2 (dua) Perseroan atau lebih atau sebagian aktiva dan pasiva Perseroan beralih karena hukum kepada 1 (satu) Perseroan atau lebih.
+>
+> 12. Surat Tercatat adalah surat yang dialamatkan kepada penerima dan dapat dibuktikan dengan tanda terima dari penerima yang ditandatangani dengan menyebutkan tanggal penerimaan.
+>
+> 13. Surat Kabar adalah surat kabar harian berbahasa Indonesia yang beredar secara nasional.
+>
+> 14. Hari adalah hari kalender.
+>
+> 15. Menteri adalah Menteri yang tugas dan tanggung jawabnya di bidang hukum dan hak asasi manusia
+
+2. Ketentuan Pasal 7 diubah sehingga berbunyi sebagai berikut:
+
+> Pasal 7
+>
+> (1) Perseroan didirikan oleh 2 (dua) orang atau lebih dengan akta notaris yang dibuat dalam Bahasa Indonesia.
+>
+> (2) Setiap pendiri Perseroan wajib mengambil bagian saham pada saat Perseroan didirikan.
+>
+> (3) Ketentuan sebagaimana dimaksud pada ayat (2) tidak berlaku dalam rangka Peleburan.
+>
+> (4) Perseroan memperoleh status badan hukum setelah didaftarkan kepada Menteri dan mendapatkan bukti pendaftaran.
+>
+> (5) Setelah Perseroan memperoleh status badan hukum dan pemegang saham menjadi kurang dari 2 (dua) orang, dalam jangka waktu paling lama 6 (enam) bulan terhitung sejak keadaan tersebut, pemegang saham yang bersangkutan wajib:
+> * a. mengalihkan sebagian sahamnya kepada orang lain; atau
+> * b. Perseroan mengeluarkan saham baru kepada orang lain.
+>
+> (6) Dalam hal jangka waktu sebagaimana dimaksud pada ayat
+>
+> (5) telah dilampaui, pemegang saham tetap kurang dari 2 (dua) orang:
+> * a. pemegang saham bertanggung jawab secara pribadi atas segala perikatan dan kerugian Perseroan; dan
+> * b. atas permohonan pihak yang berkepentingan, pengadilan negeri dapat membubarkan Perseroan tersebut.
+>
+> (7) Ketentuan yang mewajibkan Perseroan didirikan oleh 2 (dua) orang atau lebih sebagaimana dimaksud pada ayat (1), dan ketentuan pada ayat (5), serta ayat (6) tidak berlaku bagi:
+> * a. Persero yang seluruh sahamnya dimiliki oleh negara;
+> * b. Badan Usaha Milik Daerah;
+> * c. Badan Usaha Milik Desa;
+> * d. Perseroan yang mengelola bursa efek, lembaga kliring dan penjaminan, lembaga penyimpanan dan penyelesaian, dan lembaga lain sesuai dengan Undang-Undang tentang Pasar Modal; atau
+> * e. Perseroan yang memenuhi kriteria untuk usaha mikro dan kecil.
+>
+> (8) Usaha mikro dan kecil sebagaimana dimaksud pada ayat (7) huruf c d merupakan usaha mikro dan kecil sebagaimana diatur dalam ketentuan peraturan perundang-undangan di bidang usaha mikro, kecil, dan menengah.
+
+3. Ketentuan Pasal 32 diubah sehingga berbunyi sebagai berikut:
+
+> Pasal 32
+>
+> (1) Perseroan wajib memiliki modal dasar perseroan.
+>
+> (2) Besaran modal dasar perseroan sebagaimana dimaksud pada ayat (1) ditentukan berdasarkan keputusan pendiri perseroan.
+>
+> (3) Ketentuan lebih lanjut mengenai modal dasar perseroan diatur dengan Peraturan Pemerintah.
+
+4. Ketentuan Pasal 153 diubah sehingga berbunyi sebagai berikut:
+
+> Pasal 153
+>
+> Ketentuan mengenai biaya Perseorangan sebagai badan hukum sesuai dengan ketentuan peraturan perundangundangan dibidang penerimaan negara bukan pajak.
+
+5. Di antara Pasal 153 dan Pasal 154 disisipkan 10 (sepuluh) pasal, yakni Pasal 153A, 152B, 153C, 153D, 153E, 153F, 153G, 153H, 153I, dan 153J, sehingga berbunyi sebagai berikut:
+
+> Pasal 153A
+>
+> (1) Perseroan yang memenuhi kriteria usaha mikro dan kecil dapat didirikan oleh 1 (satu) orang.
+>
+> (2) Pendirian Perseroan untuk usaha mikro dan kecil sebagaimana dimaksud pada ayat (1) dilakukan berdasarkan surat pernyataan pendirian yang dibuat dalam Bahasa Indonesia.
+>
+> (3) Ketentuan lebih lanjut mengenai pendirian Perseroan untuk usaha mikro dan kecil diatur dengan Peraturan Pemerintah.
+>
+> Pasal 153B
+>
+> (1) Pernyataan pendirian sebagaimana dimaksud dalam Pasal 153 A ayat (2) memuat maksud, tujuan, modal dasar, dan keterangan lain berkaitan dengan pendirian Perseroan.
+>
+> (2) Pernyataan pendirian sebagaimana dimaksud pada ayat (1) didaftarkan secara elektronik kepada Menteri dengan mengisi format isian.
+>
+> (3) Ketentuan lebih lanjut mengenai materi pernyataan pendirian sebagaimana dimaksud pada ayat (1) dan format isian sebagaimana dimaksud pada ayat (2) diatur dalam Peraturan Pemerintah.
+>
+> Pasal 153C
+>
+> (1) Perubahan pernyataan pendirian Perseroan untuk usaha mikro dan kecil sebagaimana dimaksud dalam Pasal 153A ditetapkan oleh pemegang saham dan diberitahukan secara elektronik kepada Menteri.
+>
+> (2) Ketentuan lebih lanjut mengenai materi dan format isian perubahan pernyataan pendirian sebagaimana dimaksud pada ayat (1) diatur dalam Peraturan Pemerintah.
+>
+> Pasal 153D
+>
+> (1) Direktur atau direksi Perseroan untuk usaha mikro dan kecil sebagaimana dimaksud dalam Pasal 153A menjalankan pengurusan Perseroan untuk usaha mikro dan kecil bagi kepentingan Perseroan, sesuai dengan maksud dan tujuan Perseroan.
+>
+> (2) Direktur berwenang menjalankan pengurusan sebagaimana dimaksud pada ayat (1) sesuai dengan kebijakan yang dianggap tepat, dalam batas yang ditentukan dalam Undang-Undang ini, dan/atau pernyataan pendirian Perseroan.
+>
+> Pasal 153E
+>
+> (1) Pemegang Saham Perseroan untuk usaha mikro dan kecil sebagaimana dimaksud dalam Pasal 153A merupakan orang perseorangan.
+>
+> (2) Pendiri Perseroan hanya dapat mendirikan Perseroan Terbatas untuk Usaha Mikro dan Kecil sejumlah 1 (satu) Perseroan untuk usaha mikro dan kecil dalam 1 (satu) tahun.
+>
+> Pasal 153F
+>
+> (1) Direktur atau direksi Perseroan untuk usaha mikro dan kecil sebagaimana dimaksud dalam Pasal 153A harus membuat laporan keuangan dalam rangka mewujudkan Tata Kelola Perseroan yang baik.
+>
+> (2) Ketentuan lebih lanjut mengenai kewajiban membuat laporan keuangan diatur dengan Peraturan Pemerintah.
+>
+> Pasal 153G
+>
+> (1) Pembubaran Perseroan untuk usaha mikro dan kecil sebagaimana dimaksud dalam Pasal 153A dilakukan oleh pemegang saham yang dituangkan dalam pernyataan pembubaran dan diberitahukan secara elektronik kepada Menteri.
+>
+> (2) Pembubaran Perseroan untuk usaha mikro dan kecil sebagaimana dimaksud pada ayat (1) terjadi:
+> * a. berdasarkan keputusan Pemegang Saham;
+> * b. karena jangka waktu berdirinya yang ditetapkan dalam anggaran dasar telah berakhir;
+> * c. berdasarkan penetapan pengadilan.
+> * d. dengan dicabutnya kepailitan berdasarkan putusan pengadilan niaga yang telah mempunyai kekuatan hukum tetap, harta pailit Perseroan tidak cukup untuk membayar biaya kepailitan;
+> * e. karena harta pailit Perseroan yang telah dinyatakan pailit berada dalam keadaan insolvensi sebagaimana diatur dalam Undang-Undang tentang Kepailitan dan Penundaan Kewajiban Pembayaran Utang; atau
+> * f. karena dicabutnya Perizinan Berusaha Perseroan sehingga mewajibkan Perseroan melakukan likuidasi sesuai dengan ketentuan peraturan perundangundangan.
+>
+> Pasal 153H
+>
+> (1) Dalam hal Perseroan untuk usaha mikro dan kecil sudah tidak memenuhi kriteria usaha mikro dan kecil sebagaimana dimaksud dalam Pasal 153A, Perseroan harus mengubah statusnya menjadi Perseroan sebagaimana dimaksud dalam ketentuan peraturan perundang-undangan yang berlaku.
+>
+> (2) Ketentuan lebih lanjut mengenai pengubahan status Perseroan untuk usaha mikro dan kecil menjadi Perseroan diatur dengan Peraturan Pemerintah.
+>
+> Pasal 153I
+>
+> (1) Perseroan untuk usaha mikro dan kecil diberikan keringanan biaya terkait pendirian badan hukum.
+>
+> (2) Ketentuan lebih lanjut mengenai keringanan biaya Perseroan untuk usaha mikro dan kecil sebagaimana dimaksud pada ayat (1) diatur sesuai dengan ketentuan peraturan perundang-undangan dibidang penerimaan negara bukan pajak.
+>
+> Pasal 153J
+>
+> (1) Pemegang saham Perseroan untuk usaha mikro dan kecil tidak bertanggung jawab secara pribadi atas perikatan yang dibuat atas nama Perseroan dan tidak bertanggung jawab atas kerugian Perseroan melebihi saham yang dimiliki.
+>
+> (2) Ketentuan sebagaimana dimaksud pada ayat (1) tidak berlaku apabila:
+> * a. persyaratan Perseroan sebagai badan hukum belum atau tidak terpenuhi;
+> * b. pemegang saham yang bersangkutan baik langsung maupun tidak langsung dengan itikad buruk memanfaatkan Perseroan untuk kepentingan pribadi;
+> * c. pemegang saham yang bersangkutan terlibat dalam perbuatan melawan hukum yang dilakukan oleh Perseroan; atau
+> * d. pemegang saham yang bersangkutan baik langsung maupun tidak langsung secara melawan hukum menggunakan kekayaan Perseroan, yang mengakibatkan kekayaan Perseroan menjadi tidak cukup untuk melunasi utang Perseroan.
+
+## Bagian Keenam — Undang-Undang Gangguan
+
+#### Pasal 110
+
+Staatsblad Tahun 1926 Nomor 226 juncto Staatsblad Tahun 1940 Nomor 450 tentang Undang-Undang Gangguan dicabut dan dinyatakan tidak berlaku.
+
+## Bagian Ketujuh — Perpajakan
+
+#### Pasal 111
+
+Beberapa ketentuan dalam Undang-Undang Nomor 7 Tahun 1983 tentang Pajak Penghasilan (Lembaran Negara Republik Indonesia Tahun 1983 Nomor 50, Tambahan Lembaran Negara Republik Indonesia Nomor 3263) sebagaimana telah beberapa kali diubah, terakhir dengan Undang-Undang Nomor 36 Tahun 2008 tentang Perubahan Keempat atas Undang-Undang Nomor 7 Tahun 1983 tentang Pajak Penghasilan (Lembaran Negara Republik Indonesia Tahun 2008 Nomor 133, Tambahan Lembaran Negara Republik lndonesia Nomor 4893) diubah sebagai berikut:
+
+1. Ketentuan Pasal 2 diubah sehingga berbunyi sebagai berikut:
+
+> Pasal 2
+>
+> (1) Yang menjadi subjek pajak adalah:
+> * a.
+>   1. orang pribadi;
+>   2. warisan yang belum terbagi sebagai satu kesatuan menggantikan yang berhak;
+> * b. badan; dan
+> * c. bentuk usaha tetap.
+>
+> (1a) Bentuk usaha tetap merupakan subjek pajak yang perlakuan perpajakannya dipersamakan dengan subjek pajak badan.
+>
+> (2) Subjek pajak dibedakan menjadi subjek pajak dalam negeri dan subjek pajak luar negeri.
+>
+> (3) Subjek pajak dalam negeri adalah:
+> * a. orang pribadi, baik yang merupakan Warga Negara Indonesia maupun warga negara asing, yang:
+>  1. bertempat tinggal di Indonesia;
+>  2. berada di Indonesia lebih dari 183 (seratus delapan puluh tiga) hari dalam jangka waktu 12 (dua belas) bulan; atau
+>  3. dalam suatu Tahun Pajak berada di Indonesia dan mempunyai niat untuk bertempat tinggal di Indonesia;
+> * b. badan yang didirikan atau bertempat kedudukan di Indonesia, kecuali unit tertentu dari badan pemerintah yang memenuhi kriteria:
+>  1. pembentukannya berdasarkan ketentuan peraturan perundang-undangan;
+>  2. pembiayaannya bersumber dari Anggaran Pendapatan dan Belanja Negara atau Anggaran Pendapatan dan Belanja Daerah;
+>  3. penerimaannya dimasukkan dalam anggaran Pemerintah Pusat atau Pemerintah Daerah; dan
+>  4. pembukuannya diperiksa oleh aparat pengawasan fungsional negara; dan
+> * c. warisan yang belum terbagi sebagai satu kesatuan menggantikan yang berhak.
+>
+> (4) Subjek pajak luar negeri adalah:
+> * a. orang pribadi yang tidak bertempat tinggal di Indonesia;
+> * b. warga negara asing yang berada di Indonesia tidak lebih dari 183 (seratus delapan puluh tiga) hari dalam jangka waktu 12 (dua belas) bulan;
+> * c. Warga Negara Indonesia yang berada di luar Indonesia lebih dari 183 (seratus delapan puluh tiga) hari dalam jangka waktu 12 (dua belas) bulan serta memenuhi persyaratan:
+>  1. tempat tinggal;
+>  2. pusat kegiatan utama;
+>  3. tempat menjalankan kebiasan;
+>  4. status subjek pajak; dan/atau
+>  5. persyaratan tertentu lainnya, yang ketentuan lebih lanjut mengenai persyaratan tersebut diatur dengan Peraturan Menteri Keuangan;
+> * d. badan yang tidak didirikan dan tidak bertempat kedudukan di Indonesia, yang menjalankan usaha atau melakukan kegiatan melalui bentuk usaha tetap di Indonesia atau yang dapat menerima atau memperoleh penghasilan dari Indonesia tidak dari menjalankan usaha atau melakukan kegiatan melalui bentuk usaha tetap di Indonesia.
+>
+> (5) Bentuk usaha tetap adalah bentuk usaha yang dipergunakan oleh orang pribadi sebagaimana dimaksud pada ayat (4) huruf a, huruf b, dan huruf c, dan badan sebagaimana dimaksud pada ayat (4) huruf d untuk menjalankan usaha atau melakukan kegiatan di Indonesia, yang dapat berupa:
+> * a. tempat kedudukan manajemen;
+> * b. cabang perusahaan;
+> * c. kantor perwakilan;
+> * d. gedung kantor;
+> * e. pabrik;
+> * f. bengkel;
+> * g. gudang;
+> * h. ruang untuk promosi dan penjualan;
+> * i. pertambangan dan penggalian sumber alam;
+> * j. wilayah kerja pertambangan minyak dan gas bumi;
+> * k. perikanan, peternakan, pertanian, perkebunan, atau kehutanan;
+> * l. proyek konstruksi, instalasi, atau proyek perakitan;
+> * m. pemberian jasa dalam bentuk apa pun oleh pegawai atau orang lain, sepanjang dilakukan lebih dari 60 (enam puluh) hari dalam jangka waktu 12 (dua belas) bulan;
+> * n. orang atau badan yang bertindak selaku agen yang kedudukannya tidak bebas;
+> * o. agen atau pegawai dari perusahan asuransi yang tidak didirikan dan tidak bertempat kedudukan di Indonesia yang menerima premi asuransi atau menanggung risiko di Indonesia; dan
+> * p. komputer, agen elektronik, atau peralatan otomatis yang dimiliki, disewa, atau digunakan oleh penyelenggara transaksi elektronik untuk menjalankan kegiatan usaha melalui internet.
+>
+> (6) Tempat-tinggal orang pribadi atau tempat kedudukan badan ditetapkan oleh Direktur Jenderal pajak menurut keadaan yang sebenarnya.
+
+2. Ketentuan Pasal 4 diubah sehingga berbunyi sebagai berikut:
+
+> Pasal 4
+>
+> (1) Yang menjadi objek pajak adalah penghasilan, yaitu setiap tambahan kemampuan ekonomis yang diterima atau diperoleh Wajib Pajak, baik yang berasal dari Indonesia maupun dari luar Indonesia, yang dapat dipakai untuk konsumsi atau untuk menambah kekayaan Wajib Pajak yang bersangkutan, dengan nama dan dalam bentuk apa pun, termasuk:
+> * a. penggantian atau imbalan berkenaan dengan pekerjaan atau jasa yang diterima atau diperoleh termasuk gaji, upah, tunjangan, honorarium, komisi, bonus, gratifikasi, uang pensiun, atau imbalan dalam bentuk lainnya, kecuali ditentukan lain dalam Undang-Undang ini;
+> * b. hadiah dari undian atau pekerjaan atau kegiatan, dan penghargaan;
+> * c. laba usaha;
+> * d. keuntungan karena penjualan atau karena pengalihan harta termasuk:
+>  1. keuntungan karena pengalihan harta kepada perseroan, persekutuan, dan badan lainnya sebagai pengganti saham atau penyertaan modal;
+>  2. keuntungan karena pengalihan harta kepada pemegang saham, sekutu, atau anggota yang diperoleh perseroan, persekutuan, dan badan lainnya;
+>  3. keuntungan karena likuidasi, penggabungan, peleburan, pemekaran, pemecahan, pengambilalihan usaha, atau reorganisasi dengan nama dan dalam bentuk apa pun;
+>  4. keuntungan karena pengalihan harta berupa hibah, bantuan, atau sumbangan, kecuali yang diberikan kepada keluarga sedarah dalam garis keturunan lurus satu derajat dan badan keagamaan, badan pendidikan, badan sosial termasuk yayasan, koperasi, atau orang pribadi yang menjalankan usaha mikro dan kecil, yang ketentuannya diatur lebih lanjut dengan Peraturan Menteri Keuangan, sepanjang tidak ada hubungan dengan usaha, pekerjaan, kepemilikan, atau penguasaan di antara pihak-pihak yang bersangkutan; dan
+>  5. keuntungan karena penjualan atau pengalihan sebagian atau seluruh hak penambangan, tanda turut serta dalam pembiayaan, atau permodalan dalam perusahaan pertambangan;
+> * e. penerimaan kembali pembayaran pajak yang telah dibebankan sebagai biaya dan pembayaran tambahan pengembalian pajak;
+> * f. bunga termasuk premium, diskonto, dan imbalan karena jaminan pengembalian utang;
+> * g. Dividen, dengan nama dan dalam bentuk apapun, termasuk dividen dari perusahaan asuransi kepada pemegang polis;
+> * h. royalti atau imbalan atas penggunaan hak;
+> * i. sewa dan penghasilan lain sehubungan dengan penggunaan harta;
+> * j. penerimaan atau perolehan pembayaran berkala;
+> * k. keuntungan karena pembebasan utang, kecuali sampai dengan jumlah tertentu yang ditetapkan dengan Peraturan Pemerintah;
+> * l. keuntungan selisih kurs mata uang asing;
+> * m. selisih lebih karena penilaian kembali aktiva;
+> * n. premi asuransi;
+> * o. iuran yang diterima atau diperoleh perkumpulan dari anggotanya yang terdiri dari Wajib Pajak yang menjalankan usaha atau pekerjaan bebas;
+> * p. tambahan kekayaan neto yang berasal dari penghasilan yang belum dikenakan pajak;
+> * q. penghasilan dari usaha berbasis syariah;
+> * r. imbalan bunga sebagaimana dimaksud dalam Undang-Undang yang mengatur mengenai ketentuan umum dan tata cara perpajakan; dan
+> * s. surplus Bank Indonesia.
+>
+> (1a) Dikecualikan dari ketentuan sebagaimana dimaksud pada ayat (1), warga negara asing yang telah menjadi subjek pajak dalam negeri dikenai Pajak Penghasilan hanya atas penghasilan yang diterima atau diperoleh dari Indonesia, dengan ketentuan:
+> * a. memiliki keahlian tertentu; dan
+> * b. berlaku selama 4 (empat) Tahun Pajak yang dihitung sejak menjadi subjek pajak dalam negeri.
+>
+> (1b) Termasuk dalam pengertian penghasilan yang diterima atau diperoleh dari Indonesia sebagaimana dimaksud pada ayat (1a) berupa penghasilan yang diterima atau diperoleh warga negara asing sehubungan dengan pekerjaan, jasa, atau kegiatan di Indonesia dengan nama dan dalam bentuk apapun yang dibayarkan di luar Indonesia.
+>
+> (1c) Ketentuan sebagaimana dimaksud pada ayat (1a) tidak berlaku terhadap warga negara asing yang memanfaatkan Persetujuan Penghindaran Pajak Berganda antara pemerintah Indonesia dengan pemerintah negara mitra atau yurisdiksi mitra Persetujuan Penghindaran Pajak Berganda tempat warga negara asing memperoleh penghasilan dari luar Indonesia.
+>
+> (1d) Ketentuan lebih lanjut mengenai kriteria keahlian tertentu serta tata cara pengenaan Pajak Penghasilan bagi warga negara asing sebagaimana dimaksud pada ayat (1a) diatur dengan Peraturan Menteri Keuangan.
+>
+> (2) Penghasilan di bawah ini dapat dikenai pajak bersifat final:
+> * a. penghasilan berupa bunga deposito dan tabungan lainnya, bunga obligasi dan surat utang negara, dan bunga simpanan yang dibayarkan oleh koperasi kepada anggota koperasi orang pribadi;
+> * b. penghasilan berupa hadiah undian;
+> * c. penghasilan dari transaksi saham dan sekuritas lainnya, transaksi derivatif yang diperdagangkan di bursa, dan transaksi penjualan saham atau pengalihan penyertaan modal pada perusahaan pasangannya yang diterima oleh perusahaan modal ventura;
+> * d. penghasilan dari transaksi pengalihan harta berupa tanah dan/atau bangunan, usaha jasa konstruksi, usaha real estate, dan persewaan tanah dan/atau bangunan; dan
+> * e. penghasilan tertentu lainnya, yang diatur dengan atau berdasarkan Peraturan Pemerintah.
+>
+> (3) Yang dikecualikan dari objek pajak adalah:
+> * a.
+>  1. bantuan atau sumbangan, termasuk zakat yang diterima oleh badan amil zakat atau lembaga amil zakat yang dibentuk atau disahkan oleh pemerintah dan yang diterima oleh penerima zakat yang berhak atau sumbangan keagamaan yang sifatnya wajib bagi pemeluk agama yang diakui di Indonesia, yang diterima oleh lembaga keagamaan yang dibentuk atau disahkan oleh pemerintah dan yang diterima oleh penerima sumbangan yang berhak, yang ketentuannya diatur dengan atau berdasarkan Peraturan Pemerintah; dan
+>  2. harta hibahan yang diterima oleh keluarga sedarah dalam garis keturunan lurus satu derajat, badan keagamaan, badan pendidikan, badan sosial termasuk yayasan, koperasi, atau orang pribadi yang menjalankan usaha mikro dan kecil, yang ketentuannya diatur dengan atau berdasarkan Peraturan Menteri Keuangan, sepanjang tidak ada hubungan dengan usaha, pekerjaan, kepemilikan, atau penguasaan di antara pihak-pihak yang bersangkutan;
+> * b. warisan;
+> * c. harta termasuk setoran tunai yang diterima oleh badan sebagaimana dimaksud dalam Pasal 2 ayat (1) huruf b sebagai pengganti saham atau sebagai pengganti penyertaan modal;
+> * d. penggantian atau imbalan berkenaan dengan pekerjaan atau jasa, yang dinikmati dalam bentuk natura dan kenikmatan, dengan ketentuan, bahwa yang memberikan penggantian adalah pemerintah atau Wajib Pajak menurut Undang-Undang ini dan Wajib Pajak yang memberikan penggantian tersebut, sesuai ketentuan dalam Pasal 9 ayat (1) huruf e, tidak boleh mengurangkan penggantian tersebut sebagai biaya;
+> * e. pembayaran dari perusahaan asuransi karena kecelakaan, sakit atau karena meninggalnya orang yang tertanggung, dan pembayaran asuransi beasiswa;
+> * f. dividen atau penghasilan lain dengan ketentuan sebagai berikut:
+>  1. dividen yang berasal dari dalam negeri yang diterima atau diperoleh Wajib Pajak:
+>    * a) orang pribadi dalam negeri sepanjang dividen tersebut diinvestasikan di wilayah Negara Kesatuan Republik Indonesia dalam jangka waktu tertentu; dan/atau
+>    * b) badan dalam negeri
+>  2. Dividen yang berasal dari luar negeri dan penghasilan setelah pajak dari suatu bentuk usaha tetap di luar negeri yang diterima atau diperoleh Wajib Pajak badan dalam negeri atau Wajib Pajak orang pribadi dalam negeri sepanjang diinvestasikan atau digunakan untuk mendukung kebutuhan bisnis lainnya di wilayah Negara Kesatuan Republik Indonesia dalam jangka waktu tertentu, dan memenuhi persyaratan berikut:
+>    * a) Dividen dan penghasilan setelah pajak yang diinvestasikan tersebut paling sedikit sebesar 30% (tiga puluh persen) dari laba setelah pajak: atau
+>    * b) dividen yang berasal dari badan usaha di luar negeri yang sahamnya tidak diperdagangkan di bursa efek diinvestasikan di Indonesia sebelum Direktur Jenderal Pajak menerbitkan surat ketetapan pajak atas dividen tersebut sehubungan dengan penerapan Pasal 18 ayat (2) Undang-Undang ini.
+>  3. Dividen yang berasal dari luar negeri sebagaimana dimaksud pada angka 2 merupakan:
+>    * a) Dividen yang dibagikan berasal dari badan usaha di luar negeri yang sahamnya diperdagangkan di bursa efek; atau
+>    * b) Dividen yang dibagikan berasal dari badan usaha di luar negeri yang sahamnya tidak diperdagangkan di bursa efek sesuai dengan proporsi kepemilikan saham.
+>  4. Dalam hal dividen sebagaimana dimaksud pada angka 3 huruf b) dan penghasilan setelah pajak dari suatu bentuk usaha tetap di luar negeri sebagaimana dimaksud dalam angka 2 , diinvestasikan di wilayah Negara Kesatuan Republik Indonesia kurang dari 30% (tiga puluh persen) dari jumlah laba setelah pajak sebagaimana dimaksud pada angka 2 huruf a) berlaku ketentuan:
+>    * a) atas dividen dan penghasilan setelah pajak yang diinvestasikan tersebut, dikecualikan dari pengenaan Pajak Penghasilan;
+>    * b) atas selisih dari 30% (tiga puluh persen) laba setelah pajak dikurangi dengan dividen dan/atau penghasilan setelah pajak yang diinvestasikan sebagaimana dimaksud dalam huruf a) dikenai Pajak Penghasilan;
+>    * c) atas sisa laba setelah pajak dikurangi dengan dividen dan/atau penghasilan setelah pajak yang diinvestasikan sebagaimana dimaksud pada huruf a) serta atas selisih sebagaimana dimaksud pada huruf b), tidak dikenai Pajak Penghasilan;
+>  5. Dalam hal dividen sebagaimana dimaksud pada angka 3 huruf b) dan penghasilan setelah pajak dari suatu bentuk usaha tetap di luar negeri sebagaimana dimaksud dalam angka 2, diinvestasikan di wilayah Negara Kesatuan Republik Indonesia sebesar lebih dari 30% (tiga puluh persen) dari jumlah laba setelah pajak sebagaimana dimaksud pada angka 2 huruf a), berlaku ketentuan:
+>    * a) atas dividen dan penghasilan setelah pajak yang diinvestasikan tersebut, dikecualikan dari pengenaan Pajak Penghasilan;
+>    * b) atas sisa laba setelah pajak dikurangi dengan dividen dan/atau penghasilan setelah pajak yang diinvestasikan sebagaimana dimaksud dalam huruf a), tidak dikenai Pajak Penghasilan;
+>  6. Dalam hal dividen yang berasal dari badan usaha di luar negeri yang sahamnya tidak diperdagangkan di bursa efek diinvestasikan di Indonesia setelah Direktur Jenderal Pajak menerbitkan surat ketetapan pajak atas dividen tersebut sehubungan dengan penerapan pasal 18 ayat (2) Undang-Undang ini, dividen dimaksud tidak dikecualikan dari pengenaan Pajak Penghasilan sebagaimana dimaksud pada angka 2.
+>  7. Pengenaan Pajak Penghasilan atas penghasilan dari luar negeri tidak melalui bentuk usaha tetap yang diterima atau diperoleh Wajib Pajak badan dalam negeri atau Wajib Pajak orang pribadi dalam negeri dikecualikan dari pengenaan Pajak Penghasilan dalam hal penghasilan tersebut diinvestasikan di wilayah Negara Kesatuan Republik Indonesia dalam jangka waktu tertentu dan memenuhi persyaratan berikut:
+>    * a) penghasilan berasal dari usaha aktif di luar negeri;
+>    * b) bukan penghasilan dari perusahaan yang dimiliki di luar negeri.
+>  8. Pajak atas penghasilan yang telah dibayar atau terutang di luar negeri atas penghasilan sebagaimana dimaksud pada angka 2 dan angka 6 berlaku ketentuan:
+>    * a) tidak dapat diperhitungkan dengan Pajak Penghasilan yang terutang;
+>    * b) tidak dapat dibebankan sebagai biaya atau pengurang penghasilan; dan/atau c) tidak dapat dimintakan pengembalian kelebihan pembayaran pajak.
+>  9. Dalam hal Wajib Pajak tidak menginvestasikan penghasilan dalam jangka waktu tertentu sebagaimana dimaksud pada angka 2 dan angka 6, berlaku ketentuan:
+>    * a) penghasilan dari luar negeri tersebut merupakan penghasilan pada Tahun pajak diperoleh; dan b) Pajak atas penghasilan yang telah dibayar atau terutang di luar negeri atas penghasilan tersebut merupakan kredit pajak sebagaimana dimaksud dalam Pasal 24 Undang-Undang ini.
+>  10. Ketentuan lebih lanjut mengenai:
+>    * a) kriteria, tata cara dan jangka waktu tertentu untuk investasi sebagaimana dimaksud pada angka 2, angka 3 dan angka 6;
+>    * b) tata cara pengecualian pengenaan pajak penghasilan sebagaimana dimaksud pada angka 2, angka 3 dan angka 6;
+>    * c) perubahan batasan dividen yang diinvestasikan sebagaimana dimaksud pada angka 4 dan angka 5, diatur dengan Peraturan Menteri Keuangan.
+> * g. iuran yang diterima atau diperoleh dana pensiun yang pendiriannya telah disahkan Menteri Keuangan, baik yang dibayar oleh pemberi kerja maupun pegawai;
+> * h. penghasilan dari modal yang ditanamkan oleh dana pensiun sebagaimana dimaksud pada huruf g, dalam bidang-bidang tertentu yang ditetapkan dengan Keputusan Menteri Keuangan
+> * i. bagian laba atau sisa hasil usaha yang diterima atau diperoleh anggota dari koperasi, perseroan komanditer yang modalnya tidak terbagi atas saham-saham, persekutuan, perkumpulan, firma, dan kongsi, termasuk pemegang unit penyertaan kontrak investasi kolektif;
+> * j. dihapus;
+> * k. penghasilan yang diterima atau diperoleh perusahaan modal ventura berupa bagian laba dari badan pasangan usaha yang didirikan dan menjalankan usaha atau kegiatan di Indonesia, dengan syarat badan pasangan usaha tersebut:
+>  1. merupakan perusahaan mikro, kecil, menengah, atau yang menjalankan kegiatan dalam sektorsektor usaha yang diatur dengan atau berdasarkan Peraturan Menteri Keuangan; dan
+>  2. sahamnya tidak diperdagangkan di bursa efek di Indonesia;
+> * l. beasiswa yang memenuhi persyaratan tertentu yang ketentuannya diatur lebih lanjut dengan atau berdasarkan Peraturan Menteri Keuangan;
+> * m. sisa lebih yang diterima atau diperoleh badan atau lembaga nirlaba yang bergerak dalam bidang pendidikan dan/atau bidang penelitian dan pengembangan, yang telah terdaftar pada instansi yang membidanginya, yang ditanamkan kembali dalam bentuk sarana dan prasarana kegiatan pendidikan dan/atau penelitian dan pengembangan, dalam jangka waktu paling lama 4 (empat) tahun sejak diperolehnya sisa lebih tersebut, yang ketentuannya diatur lebih lanjut dengan atau berdasarkan Peraturan Menteri Keuangan;
+> * n. bantuan atau santunan yang dibayarkan oleh Badan Penyelenggara Jaminan Sosial kepada Wajib Pajak tertentu, yang ketentuannya diatur lebih lanjut dengan atau berdasarkan Peraturan Menteri Keuangan.
+> * o. Dana setoran Biaya Penyelenggaraan Ibadah Haji (BPIH) dan/atau BPIH khusus, dan penghasilan dari pengembangan keuangan haji dalam bidang atau instrumen keuangan tertentu, diterima Badan Pengelola Keuangan Haji (BPKH), yang ketentuanya diatur dengan atau berdasarkan Peraturan Menteri Keuangan;
+> * p. sisa lebih yang diterima/diperoleh badan atau lembaga sosial dan keagamaan yang terdaftar pada instansi yang membidanginya, yang ditanamkan kembali dalam bentuk sarana dan prasarana sosial dan keagamaan dalam jangka waktu paling lama 4 (empat) tahun sejak diperolehnya sisa lebih tersebut, atau ditempatkan sebagai dana abadi, yang ketentuannya diatur lebih lanjut dengan atau berdasarkan Peraturan Menteri Keuangan;
+> * q. keuntungan karena pengalihan harta orang pribadi, harta anggota firma, perseroan komanditer atau kongsi tersebut kepada perseroan terbatas di dalam negeri sebagai pengganti sahamnya, dengan syarat:
+>  1. pihak yang mengalihkan atau pihak-pihak yang mengalihkan secara bersama-sama memiliki paling sedikit 90% (sembilan puluh persen) dari jumlah modal yang disetor;
+>  2. pengalihan tersebut diberitahukan kepada Direktur Jenderal Pajak;
+>  3. pengenaan pajak dikemudian hari atas keuntungan tersebut dijamin.
+
+3. Ketentuan Pasal 26 diubah sehingga berbunyi sebagai berikut:
+
+> Pasal 26
+>
+> (1) Atas penghasilan tersebut di bawah ini, dengan nama dan dalam bentuk apa pun, yang dibayarkan, disediakan untuk dibayarkan, atau telah jatuh tempo pembayarannya oleh badan pemerintah, subjek pajak dalam negeri, penyelenggara kegiatan, bentuk usaha tetap, atau perwakilan perusahaan luar negeri lainnya kepada Wajib Pajak luar negeri selain bentuk usaha tetap di Indonesia dipotong pajak sebesar 20% (dua puluh persen) dari jumlah bruto oleh pihak yang wajib membayarkan:
+> * a. dividen;
+> * b. bunga termasuk premium, diskonto, dan imbalan sehubungan dengan jaminan pengembalian utang;
+> * c. royalti, sewa, dan penghasilan lain sehubungan dengan penggunaan harta;
+> * d. imbalan sehubungan dengan jasa, pekerjaan, dan kegiatan;
+> * e. hadiah dan penghargaan;
+> * f. pensiun dan pembayaran berkala lainnya;
+> * g. premi swap dan transaksi lindung nilai lainnya; dan/atau
+> * h. keuntungan karena pembebasan utang.
+>
+> (1a) Negara domisili dari Wajib Pajak luar negeri selain yang menjalankan usaha atau melakukan kegiatan usaha melalui bentuk usaha tetap di Indonesia sebagaimana dimaksud pada ayat (1) adalah negara tempat tinggal atau tempat kedudukan Wajib Pajak luar negeri yang sebenarnya menerima manfaat dari penghasilan tersebut (beneficial owner).
+>
+> (1b) Tarif sebesar 20% (dua puluh persen) dari jumlah bruto oleh pihak yang wajib membayarkan bunga termasuk premium, diskonto, dan imbalan sehubungan dengan jaminan pengembalian utang sebagaimana dimaksud pada ayat (1) huruf b dapat diturunkan dengan Peraturan Pemerintah.
+>
+> (2) Atas penghasilan dari penjualan atau pengalihan harta di Indonesia, kecuali yang diatur dalam Pasal 4 ayat (2), yang diterima atau diperoleh Wajib Pajak luar negeri selain bentuk usaha tetap di Indonesia, dan premi asuransi yang dibayarkan kepada perusahaan asuransi luar negeri dipotong pajak 20% (dua puluh persen) dari perkiraan penghasilan neto.
+>
+> (2a) Atas penghasilan dari penjualan atau pengalihan saham sebagaimana dimaksud dalam Pasal 18 ayat (3c) dipotong pajak sebesar 20% (dua puluh persen) dari perkiraan penghasilan neto.
+>
+> (3) Pelaksanaan ketentuan sebagaimana dimaksud pada ayat (2) dan ayat (2a) diatur dengan atau berdasarkan Peraturan Menteri Keuangan.
+>
+> (4) Penghasilan Kena Pajak sesudah dikurangi pajak dari suatu bentuk usaha tetap di Indonesia dikenai pajak sebesar 20% (dua puluh persen), kecuali penghasilan tersebut ditanamkan kembali di Indonesia, yang ketentuannya diatur lebih lanjut dengan atau berdasarkan Peraturan Menteri Keuangan.
+>
+> (5) Pemotongan pajak sebagaimana dimaksud pada ayat (1), ayat (2), ayat (2a), dan ayat (4) bersifat final, kecuali:
+> * a. pemotongan atas penghasilan sebagaimana dimaksud dalam Pasal 5 ayat (1) huruf b dan huruf c; dan
+> * b. pemotongan atas penghasilan yang diterima atau diperoleh orang pribadi atau badan luar negeri yang berubah status menjadi Wajib Pajak dalam negeri atau bentuk usaha tetap.
+
+#### Pasal 112
+
+Beberapa ketentuan dalam Undang-Undang Nomor 8 Tahun 1983 tentang Pajak Pertambahan Nilai Barang dan Jasa dan Pajak Penjualan atas Barang Mewah (Lembaran Negara Republik Indonesia Tahun 1983 Nomor 51, Tambahan Lembaran Negara Republik Indonesia Nomor 3264) sebagaimana telah beberapa kali diubah, terakhir dengan Undang-Undang Nomor 42 Tahun 2009 tentang Perubahan Ketiga atas Undang-Undang Nomor 8 Tahun 1983 tentang Pajak Pertambahan Nilai Barang dan Jasa dan Pajak Penjualan atas Barang Mewah (Lembaran Negara Republik Indonesia Tahun 2009 Nomor 150, Tambahan Lembaran Negara Republik Indonesia Nomor 5069) diubah sebagai berikut:
+
+1. Ketentuan Pasal 1A diubah, sehingga berbunyi sebagai berikut:
+
+> Pasal 1A
+>
+> (1) Yang termasuk dalam pengertian penyerahan Barang Kena Pajak adalah:
+> * a. penyerahan hak atas Barang Kena Pajak karena suatu perjanjian;
+> * b. pengalihan Barang Kena Pajak karena suatu perjanjian sewa beli dan/atau perjanjian sewa guna usaha (leasing);
+> * c. penyerahan Barang Kena Pajak kepada pedagang perantara atau melalui juru lelang;
+> * d. pemakaian sendiri dan/atau pemberian cuma-cuma atas Barang Kena Pajak;
+> * e. Barang Kena Pajak berupa persediaan dan/atau aktiva yang menurut tujuan semula tidak untuk diperjualbelikan, yang masih tersisa pada saat pembubaran perusahaan;
+> * f. penyerahan Barang Kena Pajak dari pusat ke cabang atau sebaliknya dan/atau penyerahan Barang Kena Pajak antar cabang;
+> * g. dihapus; dan
+> * h. penyerahan Barang Kena Pajak oleh Pengusaha Kena Pajak dalam rangka perjanjian pembiayaan yang dilakukan berdasarkan prinsip syariah, yang penyerahannya dianggap langsung dari Pengusaha Kena Pajak kepada pihak yang membutuhkan Barang Kena Pajak.
+>
+> (2) Yang tidak termasuk dalam pengertian penyerahan Barang Kena Pajak adalah:
+> * a. penyerahan Barang Kena Pajak kepada makelar sebagaimana dimaksud dalam Kitab Undang-Undang Hukum Dagang;
+> * b. penyerahan Barang Kena Pajak untuk jaminan utangpiutang;
+> * c. penyerahan Barang Kena Pajak sebagaimana dimaksud pada ayat (1) huruf f dalam hal Pengusaha Kena Pajak melakukan pemusatan tempat pajak terutang;
+> * d. pengalihan Barang Kena Pajak dalam rangka penggabungan, peleburan, pemekaran, pemecahan, dan pengambilalihan usaha, serta pengalihan Barang Kena Pajak untuk tujuan setoran modal pengganti saham dengan syarat pihak yang melakukan pengalihan dan yang menerima pengalihan adalah Pengusaha Kena Pajak; dan
+> * e. Barang Kena Pajak berupa aktiva yang menurut tujuan semula tidak untuk diperjualbelikan, yang masih tersisa pada saat pembubaran perusahaan, dan yang Pajak Masukan atas perolehannya tidak dapat dikreditkan sebagaimana dimaksud dalam Pasal 9 ayat (8) huruf b dan huruf c.
+
+2. Ketentuan Pasal 4A diubah, sehingga berbunyi sebagai berikut:
+
+> Pasal 4A
+>
+> (1) Dihapus.
+>
+> (2) Jenis barang yang tidak dikenai Pajak Pertambahan Nilai adalah barang tertentu dalam kelompok barang sebagai berikut:
+> * a. barang hasil pertambangan atau hasil pengeboran yang diambil langsung dari sumbernya, tidak termasuk hasil pertambangan batu bara;
+> * b. barang kebutuhan pokok yang sangat dibutuhkan oleh rakyat banyak;
+> * c. makanan dan minuman yang disajikan di hotel, restoran, rumah makan, warung, dan sejenisnya, meliputi makanan dan minuman baik yang dikonsumsi di tempat maupun tidak, termasuk makanan dan minuman yang diserahkan oleh usaha jasa boga atau katering; dan
+> * d. uang, emas batangan, dan surat berharga.
+>
+> (3) Jenis jasa yang tidak dikenai Pajak Pertambahan Nilai adalah jasa tertentu dalam kelompok jasa sebagai berikut:
+> * a. jasa pelayanan kesehatan medis;
+> * b. jasa pelayanan sosial;
+> * c. jasa pengiriman surat dengan perangko;
+> * d. jasa keuangan;
+> * e. jasa asuransi;
+> * f. jasa keagamaan;
+> * g. jasa pendidikan;
+> * h. jasa kesenian dan hiburan;
+> * i. jasa penyiaran yang tidak bersifat iklan;
+> * j. jasa angkutan umum di darat dan di air serta jasa angkutan udara dalam negeri yang menjadi bagian yang tidak terpisahkan dari jasa angkutan udara luar negeri;
+> * k. jasa tenaga kerja;
+> * l. jasa perhotelan;
+> * m. jasa yang disediakan oleh pemerintah dalam rangka menjalankan pemerintahan secara umum;
+> * n. jasa penyediaan tempat parkir;
+> * o. jasa telepon umum dengan menggunakan uang logam;
+> * p. jasa pengiriman uang dengan wesel pos; dan
+> * q. jasa boga atau katering.
+
+3. Ketentuan Pasal 9 diubah, sehingga berbunyi sebagai berikut:
+
+> Pasal 9
+>
+> (1) Dihapus.
+>
+> (2) Pajak Masukan dalam suatu Masa Pajak dikreditkan dengan Pajak Keluaran dalam Masa Pajak yang sama.
+>
+> (2a) Bagi Pengusaha Kena Pajak yang belum melakukan penyerahan Barang Kena Pajak dan/atau Jasa Kena Pajak dan/atau ekspor Barang Kena Pajak dan/atau Jasa Kena Pajak, Pajak Masukan atas perolehan Barang Kena Pajak dan/atau Jasa Kena Pajak, impor Barang Kena Pajak, serta pemanfaatan Barang Kena Pajak Tidak Berwujud dan/atau pemanfaatan Jasa Kena Pajak dari luar Daerah Pabean di dalam Daerah Pabean dapat dikreditkan sepanjang memenuhi ketentuan pengkreditan sesuai dengan Undang-Undang ini.
+>
+> (2b) Pajak Masukan yang dikreditkan harus menggunakan Faktur Pajak yang memenuhi persyaratan sebagaimana dimaksud dalam Pasal 13 ayat (5) dan ayat (9).
+>
+> (3) Apabila dalam suatu Masa Pajak, Pajak Keluaran lebih besar daripada Pajak Masukan, selisihnya merupakan Pajak Pertambahan Nilai yang harus disetor oleh Pengusaha Kena Pajak.
+>
+> (4) Apabila dalam suatu Masa Pajak, Pajak Masukan yang dapat dikreditkan lebih besar daripada Pajak Keluaran, selisihnya merupakan kelebihan pajak yang dikompensasikan ke Masa Pajak berikutnya.
+>
+> (4a) Atas kelebihan Pajak Masukan sebagaimana dimaksud pada ayat (4) dapat diajukan permohonan pengembalian pada akhir tahun buku.
+>
+> (4b) Dikecualikan dari ketentuan sebagaimana dimaksud pada ayat (4) dan ayat (4a), atas kelebihan Pajak Masukan dapat diajukan permohonan pengembalian pada setiap Masa Pajak oleh:
+> * a. Pengusaha Kena Pajak yang melakukan ekspor Barang Kena Pajak Berwujud;
+> * b. Pengusaha Kena Pajak yang melakukan penyerahan Barang Kena Pajak dan/atau penyerahan Jasa Kena Pajak kepada Pemungut Pajak Pertambahan Nilai;
+> * c. Pengusaha Kena Pajak yang melakukan penyerahan Barang Kena Pajak dan/atau penyerahan Jasa Kena Pajak yang Pajak Pertambahan Nilainya tidak dipungut;
+> * d. Pengusaha Kena Pajak yang melakukan ekspor Barang Kena Pajak Tidak Berwujud;
+> * e. Pengusaha Kena Pajak yang melakukan ekspor Jasa Kena Pajak; dan/atau
+> * f. dihapus.
+>
+> (4c) Pengembalian kelebihan Pajak Masukan kepada Pengusaha Kena Pajak sebagaimana dimaksud pada ayat (4b) huruf a sampai dengan huruf e, yang mempunyai kriteria sebagai Pengusaha Kena Pajak berisiko rendah, dilakukan dengan pengembalian pendahuluan kelebihan pajak sesuai ketentuan sebagaimana dimaksud dalam Pasal 17C ayat (1) Undang-Undang Nomor 6 Tahun 1983 tentang Ketentuan Umum dan Tata Cara Perpajakan dan perubahannya.
+>
+> (4d) Ketentuan mengenai Pengusaha Kena Pajak berisiko rendah yang diberikan pengembalian pendahuluan kelebihan pajak sebagaimana dimaksud pada ayat (4c) diatur dengan Peraturan Menteri Keuangan.
+>
+> (4e) Direktur Jenderal Pajak dapat melakukan pemeriksaan terhadap Pengusaha Kena Pajak sebagaimana dimaksud pada ayat (4c) dan menerbitkan surat ketetapan pajak setelah melakukan pengembalian pendahuluan kelebihan pajak.
+>
+> (4f) Apabila berdasarkan hasil pemeriksaan sebagaimana dimaksud pada ayat (4e), Direktur Jenderal Pajak menerbitkan Surat Ketetapan Pajak Kurang Bayar, jumlah kekurangan pajak ditambah dengan sanksi administrasi berupa bunga sebagaimana dimaksud dalam Pasal 13 ayat (2) Undang-Undang Nomor 6 Tahun 1983 tentang Ketentuan Umum dan Tata Cara Perpajakan dan perubahannya.
+>
+> (5) Apabila dalam suatu Masa Pajak Pengusaha Kena Pajak selain melakukan penyerahan yang terutang pajak juga melakukan penyerahan yang tidak terutang pajak, sepanjang bagian penyerahan yang terutang pajak dapat diketahui dengan pasti dari pembukuannya, jumlah Pajak Masukan yang dapat dikreditkan adalah Pajak Masukan yang berkenaan dengan penyerahan yang terutang pajak.
+>
+> (6) Apabila dalam suatu Masa Pajak Pengusaha Kena Pajak selain melakukan penyerahan yang terutang pajak juga melakukan penyerahan yang tidak terutang pajak, sedangkan Pajak Masukan untuk penyerahan yang terutang pajak tidak dapat diketahui dengan pasti, jumlah Pajak Masukan yang dapat dikreditkan untuk penyerahan yang terutang pajak dihitung dengan menggunakan pedoman yang diatur dengan Peraturan Menteri Keuangan.
+>
+> (6a) Apabila sampai dengan jangka waktu 3 (tiga) tahun sejak Masa Pajak pengkreditan pertama kali Pajak Masukan sebagaimana dimaksud pada ayat (2a) Pengusaha Kena Pajak belum melakukan penyerahan Barang Kena Pajak dan/atau Jasa Kena Pajak dan/atau ekspor Barang Kena Pajak dan/atau Jasa Kena Pajak terkait dengan Pajak Masukan tersebut, Pajak Masukan yang telah dikreditkan dalam jangka waktu 3 (tiga) tahun tersebut menjadi tidak dapat dikreditkan.
+>
+> (6b) Dihapus.
+>
+> (6c) Jangka waktu sebagaimana dimaksud pada ayat (6a) bagi sektor usaha tertentu dapat ditetapkan lebih dari 3 (tiga) tahun.
+>
+> (6d) Ketentuan sebagaimana dimaksud pada ayat (6a) berlaku juga bagi Pengusaha Kena Pajak yang melakukan pembubaran (pengakhiran) usaha, melakukan pencabutan Pengusaha Kena Pajak, atau dilakukan pencabutan Pengusaha Kena Pajak secara jabatan dalam jangka waktu 3 (tiga) tahun sejak Masa Pajak pengkreditan pertama kali Pajak Masukan.
+>
+> (6e) Pajak Masukan yang tidak dapat dikreditkan sebagaimana dimaksud pada ayat (6a):
+> * a. wajib dibayar kembali ke kas negara oleh Pengusaha Kena Pajak, dalam hal Pengusaha Kena Pajak:
+>  1. telah menerima pengembalian kelebihan pembayaran pajak atas Pajak Masukan dimaksud; dan/atau
+>  2. telah mengkreditkan Pajak Masukan dimaksud dengan Pajak Keluaran yang terutang dalam suatu Masa Pajak; dan/atau
+> * b. tidak dapat dikompensasikan ke Masa Pajak berikutnya dan tidak dapat diajukan permohonan pengembalian, setelah jangka waktu 3 (tiga) tahun sebagaimana dimaksud pada ayat (6a) berakhir atau pada saat pembubaran (pengakhiran) usaha, atau pencabutan Pengusaha Kena Pajak sebagaimana dimaksud pada ayat (6d) oleh Pengusaha Kena Pajak, dalam hal Pengusaha Kena Pajak melakukan kompensasi atas kelebihan pembayaran pajak dimaksud.
+>
+> (6f) Pembayaran kembali Pajak Masukan sebagaimana dimaksud pada ayat (6e) huruf a dilakukan paling lambat:
+> * a. akhir bulan berikutnya setelah tanggal berakhirnya jangka waktu 3 (tiga) tahun sebagaimana dimaksud pada ayat (6a);
+> * b. akhir bulan berikutnya setelah tanggal berakhirnya jangka waktu bagi sektor usaha tertentu sebagaimana dimaksud pada ayat (6c); atau
+> * c. akhir bulan berikutnya setelah tanggal pembubaran (pengakhiran) usaha atau pencabutan Pengusaha Kena Pajak sebagaimana dimaksud pada ayat (6d).
+>
+> (6g) Dalam hal Pengusaha Kena Pajak tidak melaksanakan kewajiban pembayaran kembali sesuai dengan jangka waktu sebagaimana dimaksud pada ayat (6f), Direktur Jenderal Pajak menerbitkan Surat Ketetapan Pajak Kurang Bayar atas jumlah pajak yang seharusnya dibayar kembali sebagaimana dimaksud pada ayat (6e) huruf a oleh Pengusaha Kena Pajak ditambah sanksi administrasi berupa bunga sebagaimana dimaksud dalam Pasal 13 ayat (2a) Undang-Undang Nomor 6 Tahun 1983 tentang Ketentuan Umum dan Tata Cara Perpajakan dan perubahannya.
+>
+> (7) Besarnya Pajak Masukan yang dapat dikreditkan oleh Pengusaha Kena Pajak yang peredaran usahanya dalam 1 (satu) tahun tidak melebihi jumlah tertentu, kecuali Pengusaha Kena Pajak sebagaimana dimaksud pada ayat (7a), dapat dihitung dengan menggunakan pedoman penghitungan pengkreditan Pajak Masukan.
+>
+> (7a) Besarnya Pajak Masukan yang dapat dikreditkan oleh Pengusaha Kena Pajak yang melakukan kegiatan usaha tertentu dihitung dengan menggunakan pedoman penghitungan pengkreditan Pajak Masukan.
+>
+> (7b) Ketentuan mengenai peredaran usaha sebagaimana dimaksud pada ayat (7), kegiatan usaha tertentu sebagaimana dimaksud pada ayat (7a), dan pedoman penghitungan pengkreditan Pajak Masukan sebagaimana dimaksud pada ayat (7) dan ayat (7a) diatur dengan atau berdasarkan Peraturan Menteri Keuangan.
+>
+> (8) Pengkreditan Pajak Masukan sebagaimana dimaksud pada ayat (2) tidak dapat diberlakukan bagi pengeluaran untuk:
+> * a. dihapus;
+> * b. perolehan Barang Kena Pajak atau Jasa Kena Pajak yang tidak mempunyai hubungan langsung dengan kegiatan usaha;
+> * c. perolehan dan pemeliharaan kendaraan bermotor berupa sedan dan station wagon, kecuali merupakan barang dagangan atau disewakan;
+> * d. dihapus:
+> * e. dihapus:
+> * f. perolehan Barang Kena Pajak atau Jasa Kena Pajak yang Faktur Pajaknya tidak memenuhi ketentuan sebagaimana dimaksud dalam Pasal 13 ayat (5) atau ayat (9) atau tidak mencantumkan nama, alamat, dan Nomor Pokok Wajib Pajak pembeli Barang Kena Pajak atau penerima Jasa Kena Pajak;
+> * g. pemanfaatan Barang Kena Pajak Tidak Berwujud atau pemanfaatan Jasa Kena Pajak dari luar Daerah Pabean yang Faktur Pajaknya tidak memenuhi ketentuan sebagaimana dimaksud dalam Pasal 13 ayat (6);
+> * h. dihapus;
+> * i. dihapus; dan
+> * j. dihapus.
+>
+> (9) Pajak Masukan yang dapat dikreditkan tetapi belum dikreditkan dengan Pajak Keluaran pada Masa Pajak yang sama, dapat dikreditkan pada Masa Pajak berikutnya paling lama 3 (tiga) Masa Pajak setelah berakhirnya Masa Pajak saat Faktur Pajak dibuat sepanjang belum dibebankan sebagai biaya atau belum ditambahkan (dikapitalisasi) dalam harga perolehan Barang Kena Pajak atau Jasa Kena Pajak serta memenuhi ketentuan pengkreditan sesuai dengan Undang-Undang ini.
+>
+> (9a) Pajak Masukan atas perolehan Barang Kena Pajak dan/atau Jasa Kena Pajak, impor Barang Kena Pajak, serta pemanfaatan Barang Kena Pajak Tidak Berwujud dan/atau pemanfaatan Jasa Kena Pajak dari luar Daerah Pabean di dalam Daerah Pabean sebelum Pengusaha dikukuhkan sebagai Pengusaha Kena Pajak, dapat dikreditkan oleh Pengusaha Kena Pajak dengan menggunakan pedoman pengkreditan Pajak Masukan sebesar 80% (delapan puluh persen) dari Pajak Keluaran yang seharusnya dipungut.
+>
+> (9b) Pajak Masukan atas perolehan Barang Kena Pajak dan/atau Jasa Kena Pajak, impor Barang Kena Pajak, serta pemanfaatan Barang Kena Pajak Tidak Berwujud dan/atau pemanfaatan Jasa Kena Pajak dari luar Daerah Pabean di dalam Daerah Pabean yang tidak dilaporkan dalam Surat Pemberitahuan Masa Pajak Pertambahan Nilai yang diberitahukan dan/atau ditemukan pada waktu dilakukan pemeriksaan, dapat dikreditkan oleh Pengusaha Kena Pajak sepanjang memenuhi ketentuan pengkreditan sesuai dengan Undang-Undang ini.
+>
+> (9c) Pajak Masukan atas perolehan Barang Kena Pajak dan/atau Jasa Kena Pajak, impor Barang Kena Pajak, serta pemanfaatan Barang Kena Pajak Tidak Berwujud dan/atau pemanfaatan Jasa Kena Pajak dari luar Daerah Pabean di dalam Daerah Pabean yang ditagih dengan penerbitan ketetapan pajak, dapat dikreditkan oleh Pengusaha Kena Pajak sebesar jumlah pokok Pajak Pertambahan Nilai yang tercantum dalam ketetapan pajak, dengan ketentuan ketetapan pajak dimaksud telah dilakukan pelunasan dan tidak dilakukan upaya hukum serta memenuhi ketentuan pengkreditan sesuai dengan Undang-Undang ini.
+>
+> (10) Dihapus.
+>
+> (11) Dihapus.
+>
+> (12) Dihapus.
+>
+> (13) Ketentuan lebih lanjut mengenai:
+> * a. kriteria belum melakukan penyerahan Barang Kena Pajak dan/atau Jasa Kena Pajak dan/atau ekspor Barang Kena Pajak dan/atau Jasa Kena Pajak sebagaimana dimaksud pada ayat (2a);
+> * b. penghitungan dan tata cara pengembalian kelebihan Pajak Masukan sebagaimana dimaksud pada ayat (4a), ayat (4b), dan ayat (4c);
+> * c. penentuan sektor usaha tertentu sebagaimana dimaksud pada ayat (6c);
+> * d. tata cara pembayaran kembali Pajak Masukan sebagaimana dimaksud pada ayat (6e) huruf a; dan
+> * e. tata cara pengkreditan Pajak Masukan sebagaimana dimaksud pada ayat (9a), ayat (9b), dan ayat (9c), diatur dengan atau berdasarkan Peraturan Menteri Keuangan.
+>
+> (14) Dalam hal terjadi pengalihan Barang Kena Pajak dalam rangka penggabungan, peleburan, pemekaran, pemecahan, dan pengambilalihan usaha, Pajak Masukan atas Barang Kena Pajak yang dialihkan yang belum dikreditkan oleh Pengusaha Kena Pajak yang mengalihkan dapat dikreditkan oleh Pengusaha Kena Pajak yang menerima pengalihan, sepanjang Faktur Pajaknya diterima setelah terjadinya pengalihan dan Pajak Masukan tersebut belum dibebankan sebagai biaya atau dikapitalisasi.
+
+4. Ketentuan Pasal 13 diubah, sehingga berbunyi sebagai berikut:
+
+> Pasal 13
+>
+> (1) Pengusaha Kena Pajak wajib membuat Faktur Pajak untuk setiap:
+> * a. penyerahan Barang Kena Pajak sebagaimana dimaksud dalam Pasal 4 ayat (1) huruf a atau huruf f dan/atau Pasal 16D;
+> * b. penyerahan Jasa Kena Pajak sebagaimana dimaksud dalam Pasal 4 ayat (1) huruf c;
+> * c. ekspor Barang Kena Pajak Tidak Berwujud sebagaimana dimaksud dalam Pasal 4 ayat (1) huruf g; dan/atau
+> * d. ekspor Jasa Kena Pajak sebagaimana dimaksud dalam Pasal 4 ayat (1) huruf h.
+>
+> (1a) Faktur Pajak sebagaimana dimaksud pada ayat (1) harus dibuat pada:
+> * a. saat penyerahan Barang Kena Pajak dan/atau penyerahan Jasa Kena Pajak;
+> * b. saat penerimaan pembayaran dalam hal penerimaan pembayaran terjadi sebelum penyerahan Barang Kena Pajak dan/atau sebelum penyerahan Jasa Kena Pajak;
+> * c. saat penerimaan pembayaran termin dalam hal penyerahan sebagian tahap pekerjaan; atau
+> * d. saat lain yang diatur dengan atau berdasarkan Peraturan Menteri Keuangan.
+>
+> (2) Dikecualikan dari ketentuan sebagaimana dimaksud pada ayat (1), Pengusaha Kena Pajak dapat membuat 1 (satu) Faktur Pajak meliputi seluruh penyerahan yang dilakukan kepada pembeli Barang Kena Pajak atau penerima Jasa Kena Pajak yang sama selama 1 (satu) bulan kalender.
+>
+> (2a) Faktur Pajak sebagaimana dimaksud pada ayat (2) harus dibuat paling lama pada akhir bulan penyerahan.
+>
+> (3) Dihapus.
+>
+> (4) Dihapus.
+>
+> (5) Dalam Faktur Pajak harus dicantumkan keterangan tentang penyerahan Barang Kena Pajak dan/atau penyerahan Jasa Kena Pajak yang paling sedikit memuat:
+> * a. nama, alamat, dan Nomor Pokok Wajib Pajak yang menyerahkan Barang Kena Pajak atau Jasa Kena Pajak;
+> * b. identitas pembeli Barang Kena Pajak atau Jasa Kena Pajak yang meliputi:
+>  1. nama, alamat, dan Nomor Pokok Wajib Pajak atau nomor induk kependudukan atau nomor paspor bagi subjek pajak luar negeri orang pribadi; atau
+>  2. nama dan alamat, dalam hal pembeli Barang Kena Pajak atau penerima Jasa Kena Pajak merupakan subjek pajak luar negeri badan atau bukan merupakan subjek pajak sebagaimana dimaksud dalam Pasal 3 UndangUndang mengenai Pajak Penghasilan;
+> * c. jenis barang atau jasa, jumlah Harga Jual atau Penggantian, dan potongan harga;
+> * d. Pajak Pertambahan Nilai yang dipungut;
+> * e. Pajak Penjualan atas Barang Mewah yang dipungut;
+> * f. kode, nomor seri, dan tanggal pembuatan Faktur Pajak; dan
+> * g. nama dan tanda tangan yang berhak menandatangani Faktur Pajak.
+>
+> (5a) Pengusaha Kena Pajak pedagang eceran dapat membuat Faktur Pajak tanpa mencantumkan keterangan mengenai identitas pembeli serta nama dan tanda tangan penjual dalam hal melakukan penyerahan Barang Kena Pajak dan/atau Jasa Kena Pajak kepada pembeli dengan karakteristik konsumen akhir, yang diatur lebih lanjut dengan Peraturan Menteri Keuangan.
+>
+> (6) Direktur Jenderal Pajak dapat menetapkan dokumen tertentu yang kedudukannya dipersamakan dengan Faktur Pajak.
+>
+> (7) Dihapus.
+>
+> (8) Ketentuan lebih lanjut mengenai tata cara pembuatan Faktur Pajak dan tata cara pembetulan atau penggantian Faktur Pajak diatur dengan atau berdasarkan Peraturan Menteri Keuangan.
+>
+> (9) Faktur Pajak harus memenuhi persyaratan formal dan material.
+
+#### Pasal 113
+
+Beberapa ketentuan dalam Undang-Undang Nomor 6 Tahun 1983 tentang Ketentuan Umum dan Tata Cara Perpajakan (Lembaran Negara Republik Indonesia Tahun 1983 Nomor 49, Tambahan Lembaran Negara Republik Indonesia Nomor 3262) sebagaimana telah beberapa kali diubah, terakhir dengan Undang-Undang Nomor 16 Tahun 2009 tentang Penetapan Peraturan Pemerintah Pengganti Undang-Undang Nomor 5 Tahun 2008 tentang Perubahan Keempat atas Undang-Undang Nomor 6 Tahun 1983 tentang Ketentuan Umum dan Tata Cara Perpajakan Menjadi Undang-Undang (Lembaran Negara Republik Indonesia Tahun 2009 Nomor 62, Tambahan Lembaran Negara Republik Indonesia Nomor 4999) diubah:
+
+1. Ketentuan Pasal 8 diubah, sehingga berbunyi sebagai berikut:
+
+> Pasal 8
+>
+> (1) Wajib Pajak dengan kemauan sendiri dapat membetulkan Surat Pemberitahuan yang telah disampaikan dengan menyampaikan pernyataan tertulis, dengan syarat Direktur Jenderal Pajak belum melakukan tindakan pemeriksaan.
+>
+> (1a) Dalam hal pembetulan Surat Pemberitahuan sebagaimana dimaksud pada ayat (1) menyatakan rugi atau lebih bayar, pembetulan Surat Pemberitahuan harus disampaikan paling lama 2 (dua) tahun sebelum daluwarsa penetapan.
+>
+> (2) Dalam hal Wajib Pajak membetulkan sendiri Surat Pemberitahuan Tahunan yang mengakibatkan utang pajak menjadi lebih besar, kepadanya dikenai sanksi administrasi berupa bunga sebesar tarif bunga per bulan yang ditetapkan oleh Menteri Keuangan atas jumlah pajak yang kurang dibayar, dihitung sejak saat penyampaian Surat Pemberitahuan berakhir sampai dengan tanggal pembayaran, dan dikenakan paling lama 24 (dua puluh empat) bulan, serta bagian dari bulan dihitung penuh 1 (satu) bulan.
+>
+> (2a) Dalam hal Wajib Pajak membetulkan sendiri Surat Pemberitahuan Masa yang mengakibatkan utang pajak menjadi lebih besar, kepadanya dikenai sanksi administrasi berupa bunga sebesar tarif bunga per bulan yang ditetapkan oleh Menteri Keuangan atas jumlah pajak yang kurang dibayar, dihitung sejak jatuh tempo pembayaran sampai dengan tanggal pembayaran, dan dikenakan paling lama 24 (dua puluh empat) bulan, serta bagian dari bulan dihitung penuh 1 (satu) bulan.
+>
+> (2b) Tarif bunga per bulan yang ditetapkan oleh Menteri Keuangan sebagaimana dimaksud pada ayat (2) dan ayat (2a) dihitung berdasarkan suku bunga acuan ditambah 5% (lima persen) dan dibagi 12 (dua belas) yang berlaku pada tanggal dimulainya penghitungan sanksi.
+>
+> (3) Walaupun telah dilakukan tindakan pemeriksaan bukti permulaan, Wajib Pajak dengan kemauan sendiri dapat mengungkapkan dengan pernyataan tertulis mengenai ketidakbenaran perbuatannya, yaitu:
+> * a. tidak menyampaikan Surat Pemberitahuan; atau
+> * b. menyampaikan Surat Pemberitahuan yang isinya tidak benar atau tidak lengkap, atau melampirkan keterangan yang isinya tidak benar, sebagaimana dimaksud dalam Pasal 38 atau Pasal 39 ayat (1) huruf c dan huruf d, sepanjang mulainya Penyidikan belum diberitahukan kepada Penuntut Umum melalui penyidik pejabat Polisi Negara Republik Indonesia.
+>
+> (3a) Pengungkapan ketidakbenaran perbuatan sebagaimana dimaksud pada ayat (3) disertai pelunasan kekurangan pembayaran jumlah pajak yang sebenarnya terutang beserta sanksi administrasi berupa denda sebesar 100%
+> (seratus persen) dari jumlah pajak yang kurang dibayar.
+>
+> (4) Walaupun Direktur Jenderal Pajak telah melakukan pemeriksaan, dengan syarat Direktur Jenderal Pajak belum menerbitkan surat ketetapan pajak, Wajib Pajak dengan kesadaran sendiri dapat mengungkapkan dalam laporan tersendiri tentang ketidakbenaran pengisian Surat Pemberitahuan yang telah disampaikan sesuai keadaan yang sebenarnya, yang dapat mengakibatkan:
+> * a. pajak-pajak yang masih harus dibayar menjadi lebih besar atau lebih kecil;
+> * b. rugi berdasarkan ketentuan perpajakan menjadi lebih kecil atau lebih besar;
+> * c. jumlah harta menjadi lebih besar atau lebih kecil; atau
+> * d. jumlah modal menjadi lebih besar atau lebih kecil, dan proses pemeriksaan tetap dilanjutkan.
+>
+> (5) Pajak yang kurang dibayar yang timbul sebagai akibat dari pengungkapan ketidakbenaran pengisian Surat Pemberitahuan sebagaimana dimaksud pada ayat (4) harus dilunasi oleh Wajib Pajak sebelum laporan tersendiri disampaikan beserta sanksi administrasi berupa bunga sebesar tarif bunga per bulan yang ditetapkan oleh Menteri Keuangan dari pajak yang kurang dibayar, yang dihitung sejak:
+> * a. batas waktu penyampaian Surat Pemberitahuan Tahunan berakhir sampai dengan tanggal pembayaran, untuk pengungkapan ketidakbenaran pengisian Surat Pemberitahuan Tahunan; atau
+> * b. jatuh tempo pembayaran berakhir sampai dengan tanggal pembayaran, untuk pengungkapan ketidakbenaran pengisian Surat Pemberitahuan Masa, dan dikenakan paling lama 24 (dua puluh empat) bulan, serta bagian dari bulan dihitung penuh 1 (satu) bulan.
+>
+> (5a) Tarif bunga per bulan yang ditetapkan oleh Menteri Keuangan sebagaimana dimaksud pada ayat (5) dihitung berdasarkan suku bunga acuan ditambah 10% (sepuluh persen) dan dibagi 12 (dua belas) yang berlaku pada tanggal dimulainya penghitungan sanksi.
+>
+> (6) Wajib Pajak dapat membetulkan Surat Pemberitahuan Tahunan yang telah disampaikan, dalam hal Wajib Pajak menerima surat ketetapan pajak, Surat Keputusan Keberatan, Surat Keputusan Pembetulan, Putusan Banding, atau Putusan Peninjauan Kembali Tahun Pajak sebelumnya atau beberapa Tahun Pajak sebelumnya, yang menyatakan rugi fiskal yang berbeda dengan rugi fiskal yang telah dikompensasikan dalam Surat Pemberitahuan Tahunan yang akan dibetulkan tersebut, dalam jangka waktu 3 (tiga) bulan setelah menerima surat ketetapan pajak, Surat Keputusan Keberatan, Surat Keputusan Pembetulan, Putusan Banding, atau Putusan Peninjauan Kembali, dengan syarat Direktur Jenderal Pajak belum melakukan tindakan pemeriksaan.
+
+2. Ketentuan Pasal 9 diubah, sehingga berbunyi sebagai berikut:
+
+> Pasal 9
+>
+> (1) Menteri Keuangan menentukan tanggal jatuh tempo pembayaran dan penyetoran pajak yang terutang untuk suatu saat atau Masa Pajak bagi masing-masing jenis pajak, paling lama 15 (lima belas) hari setelah saat terutangnya pajak atau berakhirnya Masa Pajak.
+>
+> (2) Kekurangan pembayaran pajak yang terutang berdasarkan Surat Pemberitahuan Tahunan Pajak Penghasilan harus dibayar lunas sebelum Surat Pemberitahuan Pajak Penghasilan disampaikan.
+>
+> (2a) Pembayaran atau penyetoran pajak sebagaimana dimaksud pada ayat (1), yang dilakukan setelah tanggal jatuh tempo pembayaran atau penyetoran pajak, dikenai sanksi administrasi berupa bunga sebesar tarif bunga per bulan yang ditetapkan oleh Menteri Keuangan yang dihitung dari tanggal jatuh tempo pembayaran sampai dengan tanggal pembayaran, dan dikenakan paling lama 24 (dua puluh empat) bulan serta bagian dari bulan dihitung penuh 1 (satu) bulan.
+>
+> (2b) Atas pembayaran atau penyetoran pajak sebagaimana dimaksud pada ayat (2) yang dilakukan setelah tanggal jatuh tempo penyampaian Surat Pemberitahuan Tahunan, dikenai sanksi administrasi berupa bunga sebesar tarif bunga per bulan yang ditetapkan oleh Menteri Keuangan yang dihitung mulai dari berakhirnya batas waktu penyampaian Surat Pemberitahuan Tahunan sampai dengan tanggal pembayaran, dan dikenakan paling lama 24 (dua puluh empat) bulan serta bagian dari bulan dihitung penuh 1 (satu) bulan.
+>
+> (2c) Tarif bunga per bulan yang ditetapkan oleh Menteri Keuangan sebagaimana dimaksud pada ayat (2a) dan ayat (2b) dihitung berdasarkan suku bunga acuan ditambah 5% (lima persen) dan dibagi 12 (dua belas) yang berlaku pada tanggal dimulainya penghitungan sanksi.
+>
+> (3) Surat Tagihan Pajak, Surat Ketetapan Pajak Kurang Bayar, serta Surat Ketetapan Pajak Kurang Bayar Tambahan, dan Surat Keputusan Keberatan, Surat Keputusan Pembetulan, Putusan Banding, serta Putusan Peninjauan Kembali, yang menyebabkan jumlah pajak yang harus dibayar bertambah, harus dilunasi dalam jangka waktu 1 (satu) bulan sejak tanggal diterbitkan.
+>
+> (3a) Bagi Wajib Pajak usaha kecil dan Wajib Pajak di daerah tertentu, jangka waktu pelunasan sebagaimana dimaksud pada ayat (3) dapat diperpanjang paling lama menjadi 2 (dua) bulan yang ketentuannya diatur dengan atau berdasarkan Peraturan Menteri Keuangan.
+>
+> (4) Direktur Jenderal Pajak atas permohonan Wajib Pajak dapat memberikan persetujuan untuk mengangsur atau menunda pembayaran pajak termasuk kekurangan pembayaran sebagaimana dimaksud pada ayat (2) yang pelaksanaannya diatur dengan atau berdasarkan Peraturan Menteri Keuangan.
+
+3. Ketentuan Pasal 11 diubah, sehingga berbunyi sebagai berikut:
+
+> Pasal 11
+>
+> (1) Atas permohonan Wajib Pajak, kelebihan pembayaran pajak sebagaimana dimaksud dalam Pasal 17, Pasal 17B, Pasal 17C, atau Pasal 17D dikembalikan, dengan ketentuan bahwa apabila ternyata Wajib Pajak mempunyai utang pajak, langsung diperhitungkan untuk melunasi terlebih dahulu utang pajak tersebut.
+>
+> (1a) Kelebihan pembayaran pajak sebagai akibat adanya Surat Keputusan Keberatan, Surat Keputusan Pembetulan, Surat Keputusan Pengurangan Sanksi Administrasi, Surat Keputusan Penghapusan Sanksi Administrasi, Surat Keputusan Pengurangan Ketetapan Pajak, Surat Keputusan Pembatalan Ketetapan Pajak, dan Putusan Banding atau Putusan Peninjauan Kembali, serta Surat Keputusan Pemberian Imbalan Bunga dikembalikan kepada Wajib Pajak dengan ketentuan jika ternyata Wajib Pajak mempunyai utang pajak, langsung diperhitungkan untuk melunasi terlebih dahulu utang pajak tersebut.
+>
+> (2) Pengembalian kelebihan pembayaran pajak sebagaimana dimaksud pada ayat (1) dan ayat (1a) dilakukan paling lama 1 (satu) bulan sejak permohonan pengembalian kelebihan pembayaran pajak diterima sehubungan dengan diterbitkannya Surat Ketetapan Pajak Lebih Bayar sebagaimana dimaksud dalam Pasal 17 ayat (1), atau sejak diterbitkannya Surat Ketetapan Pajak Lebih Bayar sebagaimana dimaksud dalam Pasal 17 ayat (2) dan Pasal 17B, atau sejak diterbitkannya Surat Keputusan Pengembalian Pendahuluan Kelebihan Pajak sebagaimana dimaksud dalam Pasal 17C atau Pasal 17D, atau sejak diterbitkannya Surat Keputusan Keberatan, Surat Keputusan Pembetulan, Surat Keputusan Pengurangan Sanksi Administrasi, Surat Keputusan Penghapusan Sanksi Administrasi, Surat Keputusan Pengurangan Ketetapan Pajak, Surat Keputusan Pembatalan Ketetapan Pajak atau Surat Keputusan Pemberian Imbalan Bunga, atau sejak diterimanya Putusan Banding atau Putusan Peninjauan Kembali, yang menyebabkan kelebihan pembayaran pajak.
+>
+> (3) Apabila pengembalian kelebihan pembayaran pajak dilakukan setelah jangka waktu 1 (satu) bulan, Pemerintah memberikan imbalan bunga sebesar tarif bunga per bulan yang ditetapkan oleh Menteri Keuangan atas keterlambatan pengembalian kelebihan pembayaran pajak, dihitung sejak batas waktu penerbitan Surat Keputusan Pengembalian Kelebihan Pembayaran Pajak berakhir sampai dengan saat dilakukan pengembalian kelebihan dan diberikan paling lama 24 (dua puluh empat) bulan, serta bagian dari bulan dihitung penuh 1 (satu) bulan.
+>
+> (3a) Tarif bunga per bulan yang ditetapkan oleh Menteri Keuangan sebagaimana dimaksud pada ayat (3) dihitung berdasarkan suku bunga acuan dibagi 12 (dua belas) yang berlaku pada tanggal dimulainya penghitungan imbalan bunga.
+>
+> (4) Tata cara penghitungan dan pengembalian kelebihan pembayaran pajak diatur dengan atau berdasarkan Peraturan Menteri Keuangan.
+
+4. Ketentuan Pasal 13 diubah, sehingga berbunyi sebagai berikut:
+
+> Pasal 13
+>
+> (1) Dalam jangka waktu 5 (lima) tahun setelah saat terutangnya pajak atau berakhirnya Masa Pajak, bagian Tahun Pajak, atau Tahun Pajak, Direktur Jenderal Pajak dapat menerbitkan Surat Ketetapan Pajak Kurang Bayar dalam hal-hal sebagai berikut:
+> * a. apabila berdasarkan hasil pemeriksaan, pajak yang terutang tidak atau kurang dibayar;
+> * b. apabila Surat Pemberitahuan tidak disampaikan dalam jangka waktu sebagaimana dimaksud dalam Pasal 3 ayat (3) dan setelah ditegur secara tertulis tidak disampaikan pada waktunya sebagaimana ditentukan dalam Surat Teguran;
+> * c. apabila berdasarkan hasil pemeriksaan mengenai Pajak Pertambahan Nilai dan Pajak Penjualan Atas Barang Mewah ternyata tidak seharusnya dikompensasikan selisih lebih pajak atau tidak seharusnya dikenai tarif 0% (nol persen);
+> * d. apabila kewajiban sebagaimana dimaksud dalam Pasal 28 atau Pasal 29 tidak dipenuhi sehingga tidak dapat diketahui besarnya pajak yang terutang;
+> * e. apabila kepada Wajib Pajak diterbitkan Nomor Pokok Wajib Pajak dan/atau dikukuhkan sebagai Pengusaha Kena Pajak secara jabatan sebagaimana dimaksud dalam Pasal 2 ayat (4a); atau
+> * f. Pengusaha Kena Pajak tidak melakukan penyerahan Barang Kena Pajak dan/atau Jasa Kena Pajak dan/atau ekspor Barang Kena Pajak dan/atau Jasa Kena Pajak dan telah diberikan pengembalian Pajak Masukan atau telah mengkreditkan Pajak Masukan sebagaimana dimaksud dalam Pasal 9 ayat (6e) Undang-Undang Pajak Pertambahan Nilai 1984 dan perubahannya.
+>
+> (2) Jumlah kekurangan pajak yang terutang dalam Surat Ketetapan Pajak Kurang Bayar sebagaimana dimaksud pada ayat (1) huruf a dan huruf e ditambah dengan sanksi administrasi berupa bunga sebesar tarif bunga per bulan yang ditetapkan oleh Menteri Keuangan, dihitung sejak saat terutangnya pajak atau berakhirnya Masa Pajak, bagian Tahun Pajak, atau Tahun Pajak sampai dengan diterbitkannya Surat Ketetapan Pajak Kurang Bayar, dan dikenakan paling lama 24 (dua puluh empat) bulan serta bagian dari bulan dihitung penuh 1 (satu) bulan.
+>
+> (2a) Jumlah kekurangan pajak yang terutang dalam Surat Ketetapan Pajak Kurang Bayar sebagaimana dimaksud pada ayat (1) huruf f ditambah dengan sanksi administrasi berupa bunga sebesar tarif bunga per bulan yang ditetapkan oleh Menteri Keuangan, dihitung sejak saat jatuh tempo pembayaran kembali berakhir sampai dengan tanggal diterbitkannya Surat Ketetapan Pajak Kurang Bayar, dan dikenakan paling lama 24 (dua puluh empat) bulan serta bagian dari bulan dihitung penuh 1 (satu) bulan.
+>
+> (2b) Tarif bunga per bulan yang ditetapkan oleh Menteri Keuangan sebagaimana dimaksud pada ayat (2) dan ayat (2a) dihitung berdasarkan suku bunga acuan ditambah 15% (lima belas persen) dan dibagi 12 (dua belas) yang berlaku pada tanggal dimulainya penghitungan sanksi.
+>
+> (3) Jumlah pajak dalam Surat Ketetapan Pajak Kurang Bayar sebagaimana dimaksud pada ayat (1) huruf b, huruf c, dan huruf d ditambah dengan sanksi administrasi berupa kenaikan sebesar:
+> * a. 50% (lima puluh persen) dari Pajak Penghasilan yang tidak atau kurang dibayar dalam satu Tahun Pajak;
+> * b. 100% (seratus persen) dari Pajak Penghasilan yang tidak atau kurang dipotong, tidak atau kurang dipungut, tidak atau kurang disetor, dan dipotong atau dipungut tetapi tidak atau kurang disetor; atau
+> * c. 100% (seratus persen) dari Pajak Pertambahan Nilai Barang dan Jasa dan Pajak Penjualan Atas Barang Mewah yang tidak atau kurang dibayar.
+>
+> (3a) Dalam hal terdapat penerapan sanksi administrasi berupa bunga dan kenaikan berdasarkan hasil pemeriksaan Pajak Pertambahan Nilai dan Pajak Penjualan Atas Barang Mewah sebagaimana dimaksud pada ayat (1) huruf a dan huruf c, hanya diterapkan satu jenis sanksi administrasi yang tertinggi nilai besaran sanksinya.
+>
+> (4) Besarnya pajak yang terutang yang diberitahukan oleh Wajib Pajak dalam Surat Pemberitahuan menjadi pasti sesuai dengan ketentuan peraturan perundangundangan perpajakan apabila dalam jangka waktu 5 (lima) tahun sebagaimana dimaksud pada ayat (1), setelah saat terutangnya pajak atau berakhirnya Masa Pajak, bagian Tahun Pajak, atau Tahun Pajak tidak diterbitkan surat ketetapan pajak, kecuali Wajib Pajak melakukan tindak pidana di bidang perpajakan dalam Masa Pajak, bagian Tahun Pajak, atau Tahun Pajak dimaksud.
+>
+> (5) Dihapus.
+>
+> (6) Tata cara penerbitan Surat Ketetapan Pajak Kurang Bayar sebagaimana dimaksud pada ayat (1) diatur dengan atau berdasarkan Peraturan Menteri Keuangan.
+
+5. Ketentuan Pasal 13A dihapus.
+
+6. Ketentuan Pasal 14 diubah, sehingga berbunyi sebagai berikut:
+
+> Pasal 14
+>
+> (1) Direktur Jenderal Pajak dapat menerbitkan Surat Tagihan Pajak apabila:
+> * a. Pajak Penghasilan dalam tahun berjalan tidak atau kurang dibayar;
+> * b. dari hasil penelitian terdapat kekurangan pembayaran pajak sebagai akibat salah tulis dan/atau salah hitung;
+> * c. Wajib Pajak dikenai sanksi administrasi berupa denda dan/atau bunga;
+> * d. pengusaha yang telah dikukuhkan sebagai Pengusaha Kena Pajak, tetapi tidak membuat faktur pajak atau terlambat membuat Faktur Pajak;
+> * e. pengusaha yang telah dikukuhkan sebagai Pengusaha Kena Pajak yang tidak mengisi Faktur Pajak secara lengkap sebagaimana dimaksud dalam Pasal 13 ayat (5) dan ayat (6) Undang-Undang Pajak Pertambahan Nilai 1984 dan perubahannya, selain identitas pembeli Barang Kena Pajak atau penerima Jasa Kena Pajak serta nama dan tanda tangan sebagaimana dimaksud dalam Pasal 13 ayat (5) huruf b, huruf c dan huruf h Undang-Undang Pajak Pertambahan Nilai 1984 dan perubahannya dalam hal penyerahan dilakukan oleh Pengusaha Kena Pajak pedagang eceran; atau
+> * f. dihapus;
+> * g. dihapus; atau
+> * h. terdapat imbalan bunga yang seharusnya tidak diberikan kepada Wajib Pajak, dalam hal:
+>  1. diterbitkan keputusan;
+>  2. diterima putusan; atau
+>  3. ditemukan data atau informasi, yang menunjukkan adanya imbalan bunga yang seharusnya tidak diberikan kepada Wajib Pajak.
+>
+> (2) Surat Tagihan Pajak sebagaimana dimaksud pada ayat (1) mempunyai kekuatan hukum yang sama dengan surat ketetapan pajak.
+>
+> (3) Jumlah kekurangan pajak yang terutang dalam Surat Tagihan Pajak sebagaimana dimaksud pada ayat (1) huruf a dan huruf b ditambah dengan sanksi administrasi berupa bunga sebesar tarif bunga per bulan yang ditetapkan oleh Menteri Keuangan, dihitung sejak saat terutangnya pajak atau berakhirnya Masa Pajak, bagian Tahun Pajak, atau Tahun Pajak sampai dengan diterbitkannya Surat Tagihan Pajak, dan dikenakan paling lama 24 (dua puluh empat) bulan serta bagian dari bulan dihitung penuh 1 (satu) bulan.
+>
+> (4) Terhadap pengusaha atau Pengusaha Kena Pajak sebagaimana dimaksud pada ayat (1) huruf d atau huruf e masing-masing, selain wajib menyetor pajak yang terutang, dikenai sanksi administrasi berupa denda sebesar 1% (satu persen) dari Dasar Pengenaan Pajak.
+>
+> (5) Dihapus.
+>
+> (5a) Tarif bunga per bulan yang ditetapkan oleh Menteri Keuangan sebagaimana dimaksud pada ayat (3) dihitung berdasarkan suku bunga acuan ditambah 5% (lima persen) dan dibagi 12 (dua belas) yang berlaku pada tanggal dimulainya penghitungan sanksi.
+>
+> (5b) Surat Tagihan Pajak diterbitkan paling lama 5 (lima) tahun setelah saat terutangnya pajak atau berakhirnya Masa Pajak, bagian Tahun Pajak, atau Tahun Pajak.
+>
+> (5c) Dikecualikan dari ketentuan jangka waktu penerbitan sebagaimana dimaksud pada ayat (5b):
+> * a. Surat Tagihan Pajak atas sanksi administrasi sebagaimana dimaksud dalam Pasal 19 ayat (1) diterbitkan paling lama sesuai dengan daluwarsa penagihan Surat Ketetapan Pajak Kurang Bayar serta Surat Ketetapan Pajak Kurang Bayar Tambahan, dan Surat Keputusan Pembetulan, Surat Keputusan Keberatan, Putusan Banding, serta Putusan Peninjauan Kembali, yang menyebabkan jumlah pajak yang masih harus dibayar bertambah;
+> * b. Surat Tagihan Pajak atas sanksi administrasi sebagaimana dimaksud dalam Pasal 25 ayat (9) dapat diterbitkan paling lama 5 (lima) tahun sejak tanggal penerbitan Surat Keputusan Keberatan, apabila Wajib Pajak tidak mengajukan upaya banding; dan
+> * c. Surat Tagihan Pajak atas sanksi administrasi sebagaimana dimaksud dalam Pasal 27 ayat (5d) dapat diterbitkan paling lama dalam jangka waktu 5 (lima) tahun sejak tanggal Putusan Banding diucapkan oleh hakim Pengadilan Pajak dalam sidang terbuka untuk umum.
+>
+> (6) Tata cara penerbitan Surat Tagihan Pajak diatur dengan atau berdasarkan Peraturan Menteri Keuangan.
+
+7. Ketentuan Pasal 15 diubah, sehingga berbunyi sebagai berikut:
+
+> Pasal 15
+>
+> (1) Direktur Jenderal Pajak dapat menerbitkan Surat Ketetapan Pajak Kurang Bayar Tambahan dalam jangka waktu 5 (lima) tahun setelah saat terutangnya pajak atau berakhirnya Masa Pajak, bagian Tahun Pajak, atau Tahun Pajak apabila ditemukan data baru yang mengakibatkan penambahan jumlah pajak yang terutang setelah dilakukan tindakan pemeriksaan dalam rangka penerbitan Surat Ketetapan Pajak Kurang Bayar Tambahan.
+>
+> (2) Jumlah kekurangan pajak yang terutang dalam Surat Ketetapan Pajak Kurang Bayar Tambahan ditambah dengan sanksi administrasi berupa kenaikan sebesar 100% (seratus persen) dari jumlah kekurangan pajak tersebut.
+>
+> (3) Kenaikan sebagaimana dimaksud pada ayat (2) tidak dikenakan apabila Surat Ketetapan Pajak Kurang Bayar Tambahan itu diterbitkan berdasarkan keterangan tertulis dari Wajib Pajak atas kehendak sendiri, dengan syarat Direktur Jenderal Pajak belum mulai melakukan tindakan pemeriksaan dalam rangka penerbitan Surat Ketetapan Pajak Kurang Bayar Tambahan.
+>
+> (4) Dihapus.
+>
+> (5) Tata cara penerbitan Surat Ketetapan Pajak Kurang Bayar Tambahan sebagaimana dimaksud pada ayat (1) diatur dengan atau berdasarkan Peraturan Menteri Keuangan.
+
+8. Ketentuan Pasal 17B diubah, sehingga Pasal 17B berbunyi sebagai berikut:
+
+> Pasal 17B
+>
+> (1) Direktur Jenderal Pajak setelah melakukan pemeriksaan atas permohonan pengembalian kelebihan pembayaran pajak, selain permohonan pengembalian kelebihan pembayaran pajak dari Wajib Pajak sebagaimana dimaksud dalam Pasal 17C dan Wajib Pajak sebagaimana dimaksud dalam Pasal 17D, harus menerbitkan surat ketetapan pajak paling lama 12 (dua belas) bulan sejak surat permohonan diterima secara lengkap.
+>
+> (1a) Ketentuan sebagaimana dimaksud pada ayat (1) tidak berlaku terhadap Wajib Pajak yang sedang dilakukan pemeriksaan bukti permulaan tindak pidana di bidang perpajakan, yang ketentuannya diatur dengan atau berdasarkan Peraturan Menteri Keuangan.
+>
+> (2) Apabila setelah melampaui jangka waktu sebagaimana dimaksud pada ayat (1) Direktur Jenderal Pajak tidak memberi suatu keputusan, permohonan pengembalian kelebihan pembayaran pajak dianggap dikabulkan dan Surat Ketetapan Pajak Lebih Bayar harus diterbitkan paling lama 1 (satu) bulan setelah jangka waktu tersebut berakhir.
+>
+> (3) Apabila Surat Ketetapan Pajak Lebih Bayar terlambat diterbitkan sebagaimana dimaksud pada ayat (2), kepada Wajib Pajak diberikan imbalan bunga sebesar tarif bunga per bulan yang ditetapkan oleh Menteri Keuangan dihitung sejak berakhirnya jangka waktu sebagaimana dimaksud pada ayat (2) sampai dengan saat diterbitkan Surat Ketetapan Pajak Lebih Bayar.
+>
+> (4) Apabila pemeriksaan bukti permulaan tindak pidana di bidang perpajakan sebagaimana dimaksud pada ayat (1a):
+> * a. tidak dilanjutkan dengan penyidikan;
+> * b. dilanjutkan dengan penyidikan, tetapi tidak dilanjutkan dengan penuntutan tindak pidana di bidang perpajakan; atau
+> * c. dilanjutkan dengan penyidikan dan penuntutan tindak pidana di bidang perpajakan, tetapi diputus bebas atau lepas dari segala tuntutan hukum berdasarkan putusan pengadilan yang telah mempunyai kekuatan hukum tetap, dan dalam hal kepada Wajib Pajak diterbitkan Surat Ketetapan Pajak Lebih Bayar, kepada Wajib Pajak diberikan imbalan bunga sebesar tarif bunga per bulan yang ditetapkan oleh Menteri Keuangan dihitung sejak berakhirnya jangka waktu 12 (dua belas) bulan sebagaimana dimaksud pada ayat (1) sampai dengan saat diterbitkan Surat Ketetapan Pajak Lebih Bayar.
+>
+> (5) Imbalan bunga sebagaimana dimaksud pada ayat (4) tidak diberikan dalam hal pemeriksaan bukti permulaan tindak pidana di bidang perpajakan:
+> * a. tidak dilanjutkan dengan penyidikan karena Wajib Pajak dengan kemauan sendiri mengungkapkan ketidakbenaran perbuatannya sebagaimana dimaksud dalam Pasal 8 ayat (3); atau
+> * b. dilanjutkan dengan penyidikan, tetapi tidak dilanjutkan dengan penuntutan tindak pidana di bidang perpajakan karena dilakukan penghentian penyidikan tindak pidana di bidang perpajakan sebagaimana dimaksud dalam Pasal 44B.
+>
+> (6) Imbalan bunga sebagaimana dimaksud pada ayat (3) dan ayat (4) diberikan paling lama 24 (dua puluh empat) bulan, serta bagian dari bulan dihitung penuh 1 (satu) bulan.
+>
+> (7) Tarif bunga per bulan yang ditetapkan oleh Menteri Keuangan sebagaimana dimaksud pada ayat (3) dan ayat (4) dihitung berdasarkan suku bunga acuan dibagi 12 (dua belas) yang berlaku pada tanggal dimulainya penghitungan imbalan bunga.
+
+9. Ketentuan Pasal 19 diubah, sehingga berbunyi sebagai berikut:
+
+> Pasal 19
+>
+> (1) Apabila Surat Ketetapan Pajak Kurang Bayar atau Surat Ketetapan Pajak Kurang Bayar Tambahan, serta Surat Keputusan Pembetulan, Surat Keputusan Keberatan, Putusan Banding atau Putusan Peninjauan Kembali, yang menyebabkan jumlah pajak yang masih harus dibayar bertambah, pada saat jatuh tempo pelunasan tidak atau kurang dibayar, atas jumlah pajak yang tidak atau kurang dibayar itu dikenai sanksi administrasi berupa bunga sebesar tarif bunga per bulan yang ditetapkan oleh Menteri Keuangan untuk seluruh masa, yang dihitung dari tanggal jatuh tempo sampai dengan tanggal pembayaran atau tanggal diterbitkannya Surat Tagihan Pajak, dan dikenakan paling lama 24 (dua puluh empat) bulan serta bagian dari bulan dihitung penuh 1 (satu) bulan.
+>
+> (2) Dalam hal Wajib Pajak diperbolehkan mengangsur atau menunda pembayaran pajak juga dikenai sanksi administrasi berupa bunga sebesar tarif bunga per bulan yang ditetapkan oleh Menteri Keuangan dari jumlah pajak yang masih harus dibayar dan dikenakan paling lama 24 (dua puluh empat) bulan serta bagian dari bulan dihitung penuh 1 (satu) bulan.
+>
+> (3) Dalam hal Wajib Pajak diperbolehkan menunda penyampaian Surat Pemberitahuan Tahunan dan ternyata penghitungan sementara pajak yang terutang sebagaimana dimaksud dalam Pasal 3 ayat (5) kurang dari jumlah pajak yang sebenarnya terutang atas kekurangan pembayaran pajak tersebut, dikenai bunga sebesar tarif bunga per bulan yang ditetapkan oleh Menteri Keuangan yang dihitung dari saat berakhirnya batas waktu penyampaian Surat Pemberitahuan Tahunan sebagaimana dimaksud dalam Pasal 3 ayat (3) huruf b dan huruf c sampai dengan tanggal dibayarnya kekurangan pembayaran tersebut dan dikenakan paling lama 24 (dua puluh empat) bulan serta bagian dari bulan dihitung penuh 1 (satu) bulan.
+>
+> (4) Tarif bunga per bulan yang ditetapkan oleh Menteri Keuangan sebagaimana dimaksud pada ayat (1), ayat (2), dan ayat (3) dihitung berdasarkan suku bunga acuan dibagi 12 (dua belas) yang berlaku pada tanggal dimulainya penghitungan sanksi.
+
+10. Ketentuan Pasal 27A dihapus.
+
+11. Di antara Pasal 27A dan Pasal 28 disisipkan 1 (satu) pasal, yakni Pasal 27B yang berbunyi sebagai berikut:
+
+> Pasal 27B
+>
+> (1) Wajib Pajak diberikan imbalan bunga dalam hal pengajuan keberatan, permohonan banding, atau permohonan peninjauan kembali, dikabulkan sebagian atau seluruhnya sehingga menyebabkan kelebihan pembayaran pajak.
+>
+> (2) Imbalan bunga sebagaimana dimaksud pada ayat (1) diberikan terhadap kelebihan pembayaran pajak paling banyak sebesar jumlah lebih bayar yang disetujui Wajib Pajak dalam pembahasan akhir hasil pemeriksaan atas Surat Pemberitahuan yang menyatakan lebih bayar yang telah diterbitkan:
+> * a. Surat Ketetapan Pajak Kurang Bayar;
+> * b. Surat Ketetapan Pajak Kurang Bayar Tambahan;
+> * c. Surat Ketetapan Pajak Lebih Bayar; atau
+> * d. Surat Ketetapan Pajak Nihil.
+>
+> (3) Wajib Pajak diberikan imbalan bunga dalam hal permohonan pembetulan, permohonan pengurangan atau pembatalan surat ketetapan pajak, atau permohonan pengurangan atau pembatalan Surat Tagihan Pajak, dikabulkan sebagian atau seluruhnya sehingga menyebabkan kelebihan pembayaran pajak.
+>
+> (4) Imbalan bunga sebagaimana dimaksud pada ayat (1) dan ayat (3) diberikan:
+> * a. berdasarkan tarif bunga per bulan yang ditetapkan oleh Menteri Keuangan berdasarkan suku bunga acuan dibagi 12 (dua belas); dan
+> * b. diberikan paling lama 24 (dua puluh empat) bulan, serta bagian dari bulan dihitung penuh 1 (satu) bulan.
+>
+> (5) Tarif bunga per bulan sebagaimana dimaksud pada ayat (4) yang digunakan sebagai dasar penghitungan imbalan bunga adalah tarif bunga per bulan yang berlaku pada tanggal dimulainya penghitungan imbalan bunga.
+>
+> (6) Imbalan bunga sebagaimana dimaksud pada ayat (1), dihitung sejak tanggal penerbitan Surat Ketetapan Pajak Kurang Bayar, Surat Ketetapan Pajak Kurang Bayar Tambahan, Surat Ketetapan Pajak Lebih Bayar, atau Surat Ketetapan Pajak Nihil sampai dengan tanggal diterbitkannya Surat Keputusan Keberatan, Putusan Banding, atau Putusan Peninjauan Kembali.
+>
+> (7) Imbalan bunga sebagaimana dimaksud pada ayat (3), dihitung:
+> * a. sejak tanggal pembayaran Surat Ketetapan Pajak Kurang Bayar atau Surat Ketetapan Pajak Kurang Bayar Tambahan sampai dengan tanggal diterbitkannya Surat Keputusan Pembetulan, Surat Keputusan Pengurangan atau Pembatalan Surat Ketetapan Pajak;
+> * b. sejak tanggal penerbitan Surat Ketetapan Pajak Lebih Bayar atau Surat Ketetapan Pajak Nihil sampai dengan tanggal diterbitkannya Surat Keputusan Pembetulan, Surat Keputusan Pengurangan atau Pembatalan Surat Ketetapan Pajak; atau
+> * c. sejak tanggal pembayaran Surat Tagihan Pajak sampai dengan tanggal diterbitkannya Surat Keputusan Pembetulan, Surat Keputusan Pengurangan atau Pembatalan Surat Tagihan Pajak.
+>
+> (8) Ketentuan lebih lanjut mengenai tata cara pemberian imbalan bunga diatur dengan atau berdasarkan Peraturan Menteri Keuangan.
+
+12. Ketentuan Pasal 38 diubah, sehingga berbunyi sebagai berikut:
+
+> Pasal 38
+>
+> Setiap orang yang karena kealpaannya:
+> * a. tidak menyampaikan Surat Pemberitahuan; atau
+> * b. menyampaikan Surat Pemberitahuan, tetapi isinya tidak benar atau tidak lengkap, atau melampirkan keterangan yang isinya tidak benar, sehingga dapat menimbulkan kerugian pada pendapatan negara,
+> didenda paling sedikit 1 (satu) kali jumlah pajak terutang yang tidak atau kurang dibayar dan paling banyak 2 (dua) kali jumlah pajak terutang yang tidak atau kurang dibayar, atau dipidana kurungan paling singkat 3 (tiga) bulan atau paling lama 1 (satu) tahun.
+
+13. Ketentuan Pasal 44B diubah, sehingga Pasal 44B berbunyi sebagai berikut:
+
+> Pasal 44B
+>
+> (1) Untuk kepentingan penerimaan negara, atas permintaan Menteri Keuangan, Jaksa Agung dapat menghentikan penyidikan tindak pidana di bidang perpajakan paling lama dalam jangka waktu 6 (enam) bulan sejak tanggal surat permintaan.
+>
+> (2) Penghentian penyidikan tindak pidana di bidang perpajakan sebagaimana dimaksud pada ayat (1) hanya dilakukan setelah Wajib Pajak melunasi utang pajak yang tidak atau kurang dibayar atau yang tidak seharusnya dikembalikan dan ditambah dengan sanksi administrasi berupa denda sebesar 3 (tiga) kali jumlah pajak yang tidak atau kurang dibayar, atau yang tidak seharusnya dikembalikan.
+>
+> (3) Ketentuan lebih lanjut mengenai permintaan penghentian penyidikan tindak pidana di bidang perpajakan sebagaimana dimaksud pada ayat (1) diatur diatur dengan atau berdasarkan Peraturan Menteri Keuangan.
+
+#### Pasal 114
+
+Beberapa ketentuan dalam Undang-Undang Nomor 28 Tahun 2009 tentang Pajak Daerah dan Retribusi Daerah (Lembaran Negara Republik Indonesia Tahun nomor 36 2009 Nomor 130, Tambahan Lembaran Negara Republik Indonesia Nomor 5049) diubah sebagai berikut:
+
+1. Ketentuan Pasal 141 diubah sehingga berbunyi sebagai berikut:
+
+> Pasal 141
+>
+> Jenis Retribusi Perizinan Tertentu meliputi:
+> * a. Retribusi Perizinan Berusaha terkait persetujuan bangunan gedung yang selanjutnya disebut Retribusi Persetujuan Bangunan Gedung;
+> * b. Retribusi Perizinan Berusaha terkait tempat penjualan minuman beralkohol yang selanjutnya disebut Retribusi Izin Tempat Penjualan Minuman Beralkohol;
+> * c. Retribusi Perizinan Berusaha terkait trayek yang selanjutnya disebut Retribusi Izin Trayek; dan
+> * d. Retribusi Perizinan Berusaha terkait perikanan yang selanjutnya disebut Retribusi Izin Usaha Perikanan.
+
+2. Ketentuan Pasal 144 dihapus.
+
+3. Di antara Bab VI dan Bab VII disisipkan 1 (satu) bab yaitu Bab VIA, sebagai berikut:
+
+BAB VIA
+KEBIJAKAN FISKAL NASIONAL
+YANG BERKAITAN DENGAN PAJAK DAN RETRIBUSI
+
+4. Di antara Pasal 156 dan Pasal 157 disisipkan 2 (dua) pasal yaitu Pasal 156A dan Pasal 156B, sebagai berikut:
+
+> Pasal 156A
+>
+> (1) Dalam rangka pelaksanaan kebijakan fiskal nasional dan untuk mendukung kebijakan kemudahan berinvestasi serta untuk mendorong pertumbuhan industri dan/atau usaha yang berdaya saing tinggi serta memberikan perlindungan dan pengaturan yang berkeadilan, Pemerintah sesuai program prioritas nasional dapat melakukan intervensi terhadap kebijakan Pajak dan Retribusi yang ditetapkan oleh Pemerintah Daerah.
+>
+> (2) Kebijakan fiskal nasional yang berkaitan dengan Pajak dan Retribusi sebagaimana dimaksud pada ayat (1), berupa:
+> * a. dapat mengubah tarif Pajak dan tarif Retribusi dengan penetapan tarif Pajak dan tarif Retribusi yang berlaku secara nasional; dan
+> * b. pengawasan dan evaluasi terhadap Peraturan Daerah mengenai Pajak dan Retribusi yang menghambat ekosistem investasi dan kemudahan dalam berusaha.
+>
+> (3) Penetapan tarif Pajak yang berlaku secara nasional sebagaimana dimaksud pada ayat (2) huruf a mencakup tarif atas jenis Pajak Provinsi dan jenis Pajak Kabupaten/kota yang diatur dalam Pasal 2.
+>
+> (4) Penetapan tarif Retribusi yang berlaku secara nasional sebagaimana dimaksud pada ayat (2) huruf a mencakup objek Retribusi sebagaimana dimaksud dalam Pasal 108.
+>
+> (5) Ketentuan mengenai tata cara penetapan tarif Pajak dan tarif Retribusi yang berlaku secara nasional sebagaimana dimaksud pada ayat (1) diatur lebih lanjut dalam Peraturan Pemerintah.
+>
+> Pasal 156B
+>
+> (1) Dalam mendukung kebijakan kemudahan berinvestasi, gubernur/bupati/walikota dapat memberikan insentif fiskal kepada pelaku usaha di daerahnya.
+>
+> (2) Insentif fiskal sebagaimana dimaksud pada ayat (1) berupa pengurangan, keringanan, dan pembebasan atau penghapusan pokok pajak dan/atau sanksinya.
+>
+> (3) Pemberian insentif fiskal sebagaimana dimaksud pada ayat (2) dapat diberikan atas permohonan wajib pajak atau diberikan secara jabatan oleh kepala daerah berdasarkan pertimbangan yang rasional.
+>
+> (4) Pemberian insentif fiskal sebagaimana dimaksud pada ayat (2), diberitahukan kepada DPRD dengan melampirkan pertimbangan kepala daerah dalam memberikan insentif fiskal tersebut.
+>
+> (5) Pemberian insentif fiskal sebagaimana dimaksud pada ayat (2) ditetapkan dengan Peraturan Kepala Daerah.
+
+5. Di antara Pasal 157 ayat (5) dan ayat (6) disisipkan 1 (satu) ayat yakni ayat (5a), sebagai berikut:
+
+> Pasal 157
+>
+> (1) Rancangan Peraturan Daerah provinsi tentang Pajak dan Retribusi yang telah disetujui bersama oleh gubernur dan DPRD provinsi sebelum ditetapkan disampaikan kepada Menteri Dalam Negeri dan Menteri Keuangan paling lambat 3 (tiga) hari kerja terhitung sejak tanggal persetujuan dimaksud.
+>
+> (2) Rancangan Peraturan Daerah kabupaten/kota tentang Pajak dan Retribusi yang telah disetujui bersama oleh bupati/walikota dan DPRD kabupaten/kota sebelum ditetapkan disampaikan kepada gubernur, Menteri Dalam Negeri, dan Menteri Keuangan paling lambat 3 (tiga) hari kerja terhitung sejak tanggal persetujuan dimaksud.
+>
+> (3) Menteri Dalam Negeri melakukan evaluasi terhadap Rancangan Peraturan Daerah sebagaimana dimaksud pada ayat (1) untuk menguji kesesuaian Rancangan Peraturan Daerah dengan ketentuan Undang-Undang ini, kepentingan umum, dan/atau peraturan perundangundangan lain yang lebih tinggi.
+>
+> (4) Gubernur melakukan evaluasi terhadap Rancangan Peraturan Daerah sebagaimana dimaksud pada ayat (2) untuk menguji kesesuaian Rancangan Peraturan Daerah dengan ketentuan Undang-Undang ini, kepentingan umum dan/atau peraturan perundang-undangan lain yang lebih tinggi.
+>
+> (5) Menteri Dalam Negeri dan gubernur dalam melakukan evaluasi sebagaimana dimaksud pada ayat (3) dan ayat (4) berkoordinasi dengan Menteri Keuangan.
+>
+> (5a) Dalam pelaksanaan koordinasi sebagaimana dimaksud pada ayat (5), Menteri Keuangan melakukan evaluasi dari sisi kebijakan fiskal nasional.
+>
+> (6) Hasil evaluasi yang telah dikoordinasikan dengan Menteri Keuangan sebagaimana dimaksud pada ayat (5) dapat berupa persetujuan atau penolakan.
+>
+> (7) Hasil evaluasi sebagaimana dimaksud pada ayat (7) disampaikan oleh Menteri Dalam Negeri kepada gubernur untuk Rancangan Peraturan Daerah provinsi dan oleh gubernur kepada bupati/walikota untuk Rancangan Peraturan Daerah kabupaten/kota dalam jangka waktu paling lambat 15 (lima belas) hari kerja sejak diterimanya Rancangan Peraturan Daerah dimaksud dengan tembusan kepada Menteri Keuangan.
+>
+> (8) Hasil evaluasi berupa penolakan sebagaimana dimaksud pada ayat (7) disampaikan dengan disertai alasan penolakan.
+>
+> (9) Dalam hal hasil evaluasi berupa persetujuan sebagaimana dimaksud pada ayat (7), Rancangan Peraturan Daerah dimaksud dapat langsung ditetapkan.
+>
+> (10) Dalam hal hasil evaluasi berupa penolakan sebagaimana dimaksud pada ayat (7), Rancangan Peraturan Daerah dimaksud dapat diperbaiki oleh gubernur, bupati/walikota bersama DPRD yang bersangkutan, untuk kemudian disampaikan kembali kepada Menteri Dalam Negeri dan Menteri Keuangan untuk Rancangan Peraturan Daerah provinsi dan kepada gubernur dan Menteri Keuangan untuk Rancangan Peraturan Daerah kabupaten/kota.
+
+6. Ketentuan Pasal 158 diubah, sebagai berikut:
+
+> Pasal 158
+>
+> (1) Peraturan Daerah yang telah ditetapkan oleh gubernur/bupati/walikota disampaikan kepada Menteri Dalam Negeri dan Menteri Keuangan paling lama 7 (tujuh) hari kerja setelah ditetapkan untuk dilakukan evaluasi.
+>
+> (2) Menteri Dalam Negeri dan Menteri Keuangan melakukan evaluasi Peraturan Daerah Provinsi/Kabupaten/Kota tentang Pajak dan Retribusi yang telah berlaku untuk menguji kesesuaian antara Peraturan Daerah dimaksud dengan kepentingan umum, ketentuan peraturan perundang-undangan yang lebih tinggi dan kebijakan fiskal nasional.
+>
+> (3) Dalam hal berdasarkan evaluasi sebagaimana dimaksud pada ayat (1) dan ayat (2), Peraturan Daerah bertentangan dengan kepentingan umum, peraturan perundangundangan yang lebih tinggi dan/atau kebijakan fiskal nasional, Menteri Keuangan merekomendasikan dilakukannya perubahan atas Peraturan Daerah dimaksud kepada Menteri Dalam Negeri.
+>
+> (4) Penyampaian rekomendasi perubahan Perda oleh Menteri Keuangan kepada Menteri Dalam Negeri sebagaimana dimaksud pada ayat (3) dilakukan paling lambat 20 (dua puluh) hari kerja sejak tanggal diterimanya Peraturan Daerah sebagaimana dimaksud pada ayat (1).
+>
+> (5) Berdasarkan rekomendasi perubahan Perda yang disampaikan oleh Menteri Keuangan, Menteri Dalam Negeri memerintahkan gubernur/bupati/ walikota untuk melakukan perubahan peraturan daerah dalam waktu 15 (lima belas) hari kerja.
+>
+> (6) Jika dalam waktu 15 (lima belas) hari kerja, gubernur/bupati/walikota tidak melakukan perubahan atas peraturan daerah tersebut, Menteri Dalam Negeri menyampaikan rekomendasi pemberian sanksi kepada Menteri Keuangan.
+
+7. Ketentuan Pasal 159 diubah, sebagai berikut:
+
+> Pasal 159
+>
+> (1) Pelanggaran terhadap ketentuan sebagaimana dimaksud dalam Pasal 157 ayat (1) dan ayat (2), serta Pasal 158 ayat (5) oleh Daerah dikenakan sanksi berupa penundaan atau pemotongan Dana Alokasi Umum dan/atau Dana Bagi Hasil.
+>
+> (2) Pemberian sanksi oleh Menteri Keuangan dilaksanakan sesuai ketentuan peraturan perundang-undangan.
+
+8. Di antara Pasal 159 dan Pasal 160 disisipkan 1 (satu) pasal yakni Pasal 159A sebagai berikut:
+
+> Pasal 159A
+>
+> Ketentuan lebih lanjut mengenai tata cara:
+> * a. evaluasi Rancangan Peraturan Daerah mengenai Pajak Daerah dan Retribusi Daerah sebagaimana dimaksud dalam Pasal 157;
+> * b. pengawasan pelaksanaan Peraturan Daerah mengenai Pajak Daerah dan Retribusi Daerah dan aturan pelaksanaannya sebagaimana dimaksud dalam Pasal 158; dan
+> * c. pengenaan sanksi sebagaimana dimaksud dalam Pasal 159;
+> diatur dalam Peraturan Pemerintah.
+
+## Bagian Kedelapan — Impor Komoditas Perikanan dan Komoditas Pergaraman
+
+#### Pasal 115
+
+Beberapa ketentuan dalam Undang-Undang Nomor 7 Tahun 2016 tentang Perlindungan dan Pemberdayaan Nelayan, Pembudi Daya Ikan, dan Petambak Garam (Lembaran Negara Republik Indonesia Tahun 2016 Nomor 68, Tambahan Lembaran Negara Republik Indonesia Nomor 5870) diubah:
+
+1. Ketentuan Pasal 1 angka 4 diubah sehingga Pasal 1 berbunyi sebagai berikut:
+
+> Pasal 1
+>
+> 1. Perlindungan Nelayan, Pembudi Daya Ikan, dan Petambak Garam adalah segala upaya untuk membantu Nelayan, Pembudi Daya Ikan, dan Petambak Garam dalam menghadapi permasalahan kesulitan melakukan Usaha Perikanan atau Usaha Pergaraman.
+>
+> 2. Pemberdayaan Nelayan, Pembudi Daya Ikan, dan Petambak Garam adalah segala upaya untuk meningkatkan kemampuan Nelayan, Pembudi Daya Ikan, dan Petambak Garam untuk melaksanakan Usaha Perikanan atau Usaha Pergaraman secara lebih baik.
+>
+> 3. Nelayan adalah Setiap Orang yang mata pencahariannya melakukan Penangkapan Ikan.
+>
+> 4. Nelayan Kecil adalah orang yang mata pencahariannya melakukan penangkapan ikan untuk memenuhi kebutuhan hidup sehari-hari, baik yang menggunakan kapal penangkap Ikan maupun yang tidak menggunakan kapal penangkap Ikan.
+>
+> 5. Nelayan Tradisional adalah Nelayan yang melakukan Penangkapan Ikan di perairan yang merupakan hak Perikanan tradisional yang telah dimanfaatkan secara turun-temurun sesuai dengan budaya dan kearifan lokal.
+>
+> 6. Nelayan Buruh adalah Nelayan yang menyediakan tenaganya yang turut serta dalam usaha Penangkapan Ikan.
+>
+> 7. Nelayan Pemilik adalah Nelayan yang memiliki kapal penangkap Ikan yang digunakan dalam usaha Penangkapan Ikan dan secara aktif melakukan Penangkapan Ikan.
+>
+> 8. Penangkapan Ikan adalah kegiatan untuk memperoleh Ikan di perairan yang tidak dalam keadaan dibudidayakan dengan alat dan cara yang mengedepankan asas keberlanjutan dan kelestarian, termasuk kegiatan yang menggunakan kapal untuk memuat, mengangkut, menyimpan, mendinginkan, menangani, mengolah, dan/atau mengawetkannya.
+>
+> 9. Pembudi Daya Ikan adalah Setiap Orang yang mata pencahariannya melakukan Pembudidayaan Ikan air tawar, Ikan air payau, dan Ikan air laut.
+>
+> 10. Pembudi Daya Ikan Kecil adalah Pembudi Daya Ikan yang melakukan Pembudidayaan Ikan untuk memenuhi kebutuhan hidup sehari-hari.
+>
+> 11. Penggarap Lahan Budi Daya adalah Pembudi Daya Ikan yang menyediakan tenaganya dalam Pembudidayaan Ikan.
+>
+> 12. Pemilik Lahan Budi Daya adalah Pembudi Daya Ikan yang memiliki hak atau izin atas lahan dan secara aktif melakukan kegiatan Pembudidayaan Ikan.
+>
+> 13. Pembudidayaan Ikan adalah kegiatan untuk memelihara, membesarkan, dan/atau membiakkan Ikan serta memanen hasilnya dalam lingkungan yang terkontrol, termasuk kegiatan yang menggunakan kapal untuk memuat, mengangkut, menyimpan, mendinginkan, menangani, mengolah, dan/atau mengawetkannya.
+>
+> 14. Petambak Garam adalah Setiap Orang yang melakukan kegiatan Usaha Pergaraman.
+>
+> 15. Petambak Garam Kecil adalah Petambak Garam yang melakukan Usaha Pergaraman pada lahannya sendiri dengan luas lahan paling luas 5 (lima) hektare, dan perebus Garam.
+>
+> 16. Penggarap Tambak Garam adalah Petambak Garam yang menyediakan tenaganya dalam Usaha Pergaraman.
+>
+> 17. Pemilik Tambak Garam adalah Petambak Garam yang memiliki hak atas lahan yang digunakan untuk produksi Garam dan secara aktif melakukan Usaha Pergaraman.
+>
+> 18. Ikan adalah segala jenis organisme yang seluruh atau sebagian dari siklus hidupnya berada di dalam lingkungan perairan.
+>
+> 19. Garam adalah senyawa kimia yang komponen utamanya berupa natrium klorida dan dapat mengandung unsur lain, seperti magnesium, kalsium, besi, dan kalium dengan bahan tambahan atau tanpa bahan tambahan iodium.
+>
+> 20. Perikanan adalah semua kegiatan yang berhubungan dengan pengelolaan dan pemanfaatan sumber daya Ikan dan lingkungannya mulai dari praproduksi, produksi, pascaproduksi, dan pengolahan sampai dengan pemasaran yang dilaksanakan dalam suatu sistem bisnis Perikanan.
+>
+> 21. Pergaraman adalah semua kegiatan yang berhubungan dengan praproduksi, produksi, pascaproduksi, pengolahan, dan pemasaran Garam.
+>
+> 22. Usaha Perikanan adalah kegiatan yang dilaksanakan dengan sistem bisnis Perikanan yang meliputi praproduksi, produksi, pascaproduksi, pengolahan, dan pemasaran.
+>
+> 23. Usaha Pergaraman adalah kegiatan yang dilaksanakan dengan sistem bisnis Pergaraman yang meliputi praproduksi, produksi, pascaproduksi, pengolahan, dan pemasaran.
+>
+> 24. Komoditas Perikanan adalah hasil dari Usaha Perikanan yang dapat diperdagangkan, disimpan, dan/atau dipertukarkan.
+>
+> 25. Komoditas Pergaraman adalah hasil dari Usaha Pergaraman yang dapat diperdagangkan, disimpan, dan/atau dipertukarkan.
+>
+> 26. Setiap Orang adalah orang perseorangan atau korporasi, baik yang berbentuk badan hukum maupun yang tidak berbadan hukum.
+>
+> 27. Pelaku Usaha adalah orang perseorangan atau korporasi yang melakukan usaha prasarana dan/atau sarana produksi Perikanan, prasarana dan/atau sarana produksi Garam, pengolahan, dan pemasaran hasil Perikanan, serta produksi Garam yang berkedudukan di wilayah hukum Republik Indonesia.
+>
+> 28. Kelembagaan adalah lembaga yang ditumbuhkembangkan dari, oleh, dan untuk Nelayan, Pembudi Daya Ikan, atau Petambak Garam atau berdasarkan budaya dan kearifan lokal.
+>
+> 29. Asuransi Perikanan adalah perjanjian antara Nelayan atau Pembudi Daya Ikan dan pihak perusahaan asuransi untuk mengikatkan diri dalam pertanggungan risiko Penangkapan Ikan atau Pembudidayaan Ikan.
+>
+> 30. Asuransi Pergaraman adalah perjanjian antara Petambak Garam dan pihak perusahaan asuransi untuk mengikatkan diri dalam pertanggungan risiko Usaha Pergaraman.
+>
+> 31. Penjaminan adalah kegiatan pemberian jaminan oleh perusahaan penjaminan atas pemenuhan kewajiban finansial Nelayan, Pembudi Daya Ikan, dan Petambak Garam kepada perusahaan pembiayaan dan bank.
+>
+> 32. Pemerintah Pusat adalah Presiden Republik Indonesia yang memegang kekuasaan pemerintahan negara Republik Indonesia yang dibantu oleh Wakil Presiden dan menteri sebagaimana dimaksud dalam Undang-Undang Dasar Negara Republik Indonesia Tahun 1945.
+>
+> 33. Pemerintah Daerah adalah kepala daerah sebagai unsur penyelenggara pemerintahan daerah yang memimpin pelaksanaan urusan pemerintahan yang menjadi kewenangan daerah otonom.
+>
+> 34. Menteri adalah menteri yang menyelenggarakan urusan pemerintahan di bidang kelautan dan Perikanan.
+
+2. Ketentuan Pasal 37 diubah sehingga berbunyi sebagai berikut:
+
+> Pasal 37
+>
+> (1) Pemerintah Pusat mengendalikan impor Komoditas Perikanan dan Komoditas Pergaraman.
+>
+> (2) Ketentuan lebih lanjut mengenai pengendalian impor Perikanan dan Komoditas Pergaraman sebagaimana dimaksud pada ayat (1) diatur dengan Peraturan Pemerintah.
+
+3. Ketentuan Pasal 38 diubah sehingga berbunyi sebagai berikut:
+
+> Pasal 38
+>
+> (1) Setiap Orang dilarang mengimpor Komoditas Perikanan dan Komoditas Pergaraman yang tidak sesuai dengan tempat pemasukan, jenis, waktu pemasukan, dan/atau standar mutu wajib yang ditetapkan
+>
+> (2) Ketentuan lebih lanjut mengenai tempat pemasukan, jenis, waktu pemasukan, dan/atau standar mutu sebagaimana dimaksud pada ayat (1) diatur dengan Peraturan Pemerintah.
+
+4. Ketentuan Pasal 38 diubah sehingga berbunyi sebagai berikut:
+
+> Pasal 38A
+>
+> (1) Setiap Orang yang melakukan impor Komoditas Perikanan dan Komoditas Pergaraman yang tidak sesuai dengan tempat pemasukan, jenis, waktu pemasukan, dan/atau standar mutu wajib yang ditetapkan oleh Pemerintah sebagaimana dimaksud dalam Pasal 38 dikenai sanksi administratif berupa:
+> * a. penghentian sementara kegiatan;
+> * b. pembekuan Perizinan Berusaha;
+> * c. denda administratif;
+> * d. paksaan pemerintah; dan/atau
+> * e. pencabutan Perizinan Berusaha.
+>
+> (2) Ketentuan lebih lanjut mengenai kriteria, jenis, besaran denda, dan tata cara pengenaan sanksi administratif sebagaimana dimaksud pada ayat (1) diatur dengan Peraturan Pemerintah.
+
+5. Ketentuan Pasal 74 diubah sehingga berbunyi sebagai berikut:
+
+> Pasal 74
+>
+> Setiap Orang yang melakukan impor Komoditas Perikanan dan Komoditas Pergaraman yang tidak sesuai dengan tempat pemasukan, jenis, waktu pemasukan, dan/atau standar mutu wajib yang ditetapkan oleh Pemerintah sebagaimana dimaksud dalam Pasal 38 yang mengakibatkan timbulnya korban/kerusakan terhadap K3L, dipidana dengan pidana penjara paling lama 4 (empat) tahun dan/atau pidana pidana denda paling banyak Rp6.000.000.000,00 (enam miliar rupiah).
+
+## Bagian Kesembilan — Wajib Daftar Perusahaan
+
+#### Pasal 116
+
+Undang-Undang Nomor 3 Tahun 1982 tentang Wajib Daftar Perusahaan (Lembaran Negara Republik Indonesia Tahun 1982 Nomor 7, Tambahan Lembaran Negara Republik Indonesia Nomor 3214) dicabut dan dinyatakan tidak berlaku.
+
+## Bagian Kesepuluh — Badan Usaha Milik Desa
+
+#### Pasal 117
+
+Beberapa ketentuan dalam Undang-Undang Nomor 6 Tahun 2014 tentang Desa (Lembaran Negara Republik Indonesia Tahun 2014 Nomor 7, Tambahan Lembaran Negara Republik Indonesia Nomor 5495) diubah:
+
+1. Ketentuan Pasal 1 angka 6 diubah sehingga Pasal 1 berbunyi sebagai berikut:
+
+> Pasal 1
+>
+> Dalam Undang-Undang ini yang dimaksud dengan:
+>
+> 1. Desa adalah desa dan desa adat atau yang disebut dengan nama lain, selanjutnya disebut Desa, adalah kesatuan masyarakat hukum yang memiliki batas wilayah yang berwenang untuk mengatur dan mengurus urusan pemerintahan, kepentingan masyarakat setempat berdasarkan prakarsa masyarakat, hak asal usul, dan/atau hak tradisional yang diakui dan dihormati dalam sistem pemerintahan Negara Kesatuan Republik Indonesia.
+>
+> 2. Pemerintahan Desa adalah penyelenggaraan urusan pemerintahan dan kepentingan masyarakat setempat dalam sistem pemerintahan Negara Kesatuan Republik Indonesia.
+>
+> 3. Pemerintah Desa adalah Kepala Desa atau yang disebut dengan nama lain dibantu perangkat Desa sebagai unsur penyelenggara Pemerintahan Desa.
+>
+> 4. Badan Permusyawaratan Desa atau yang disebut dengan nama lain adalah lembaga yang melaksanakan fungsi pemerintahan yang anggotanya merupakan wakil dari penduduk Desa berdasarkan keterwakilan wilayah dan ditetapkan secara demokratis.
+>
+> 5. Musyawarah Desa atau yang disebut dengan nama lain adalah musyawarah antara Badan Permusyawaratan Desa, Pemerintah Desa, dan unsur masyarakat yang diselenggarakan oleh Badan Permusyawaratan Desa untuk menyepakati hal yang bersifat strategis.
+>
+> 6. Badan Usaha Milik Desa, yang selanjutnya disebut BUM Desa, adalah Badan Hukum yang didirikan oleh desa dan/atau bersama desa-desa guna mengelola usaha, memanfaatkan aset, mengembangkan investasi dan produktivitas, menyediakan jasa pelayanan, dan/atau jenis usaha lainnya untuk sebesar-besarnya kesejahteraan masyarakat Desa.
+>
+> 7. Peraturan Desa adalah peraturan perundangundangan yang ditetapkan oleh Kepala Desa setelah dibahas dan disepakati bersama Badan Permusyawaratan Desa.
+>
+> 8. Pembangunan Desa adalah upaya peningkatan kualitas hidup dan kehidupan untuk sebesarbesarnya kesejahteraan masyarakat Desa.
+>
+> 9. Kawasan Perdesaan adalah kawasan yang mempunyai kegiatan utama pertanian, termasuk pengelolaan sumber daya alam dengan susunan fungsi kawasan sebagai tempat permukiman perdesaan, pelayanan jasa pemerintahan, pelayanan sosial, dan kegiatan ekonomi.
+>
+> 10. Keuangan Desa adalah semua hak dan kewajiban Desa yang dapat dinilai dengan uang serta segala sesuatu berupa uang dan barang yang berhubungan dengan pelaksanaan hak dan kewajiban Desa.
+>
+> 11. Aset Desa adalah barang milik Desa yang berasal dari kekayaan asli Desa, dibeli atau diperoleh atas beban Anggaran Pendapatan dan Belanja Desa atau perolehan hak lainnya yang sah.
+>
+> 12. Pemberdayaan Masyarakat Desa adalah upaya mengembangkan kemandirian dan kesejahteraan masyarakat dengan meningkatkan pengetahuan, sikap, keterampilan, perilaku, kemampuan, kesadaran, serta memanfaatkan sumber daya melalui penetapan kebijakan, program, kegiatan, dan pendampingan yang sesuai dengan esensi masalah dan prioritas kebutuhan masyarakat Desa.
+>
+> 13. Pemerintah Pusat selanjutnya disebut Pemerintah adalah Presiden Republik Indonesia yang memegang kekuasaan pemerintahan negara Republik Indonesia sebagaimana dimaksud dalam Undang-Undang Dasar Negara Republik Indonesia Tahun 1945.
+>
+> 14. Pemerintahan Daerah adalah Pemerintah Daerah dan Dewan Perwakilan Rakyat Daerah yang menyelenggarakan urusan pemerintahan menurut asas otonomi dan tugas pembantuan dengan prinsip otonomi seluas-luasnya dalam sistem dan prinsip Negara Kesatuan Republik Indonesia sebagaimana dimaksud dalam Undang-Undang Dasar Negara Republik Indonesia Tahun 1945.
+>
+> 15. Pemerintah Daerah adalah gubernur, bupati, atau wali kota dan perangkat daerah sebagai unsur penyelenggara Pemerintahan Daerah.
+>
+> 16. Menteri adalah menteri yang menangani Desa.
+
+2. Ketentuan Pasal 87 diubah sehingga berbunyi sebagai berikut:
+
+> Pasal 87
+>
+> (1) Desa dapat mendirikan BUM Desa.
+>
+> (2) BUM Desa sebagaimana dimaksud pada ayat (1) dikelola dengan semangat kekeluargaan dan kegotongroyongan.
+>
+> (3) BUM Desa dapat menjalankan usaha di bidang ekonomi dan/atau pelayanan umum sesuai dengan ketentuan peraturan perundang-undangan.
+>
+> (4) BUM Desa sebagaimana dimaksud pada ayat (1) dapat membentuk unit usaha berbadan hukum sesuai dengan kebutuhan dan tujuan.
+>
+> (5) Ketentuan lebih lanjut mengenai BUM Desa sebagaimana dimaksud pada ayat (1), ayat (2), ayat (3), dan ayat (4) diatur dengan Peraturan Pemerintah.
+
+## Bagian Kesebelas — Larangan Praktek Monopoli dan Persaingan Usaha Tidak Sehat
+
+#### Pasal 118
+
+Beberapa ketentuan dalam Undang-Undang Nomor 5 Tahun 1999 tentang Larangan Praktek Monopoli dan Persaingan Usaha (Lembaran Negara Republik Indonesia Tahun 1999 Nomor 33, Tambahan Lembaran Negara Republik Indonesia Nomor 3817) diubah:
+
+1. Ketentuan Pasal 44 diubah sehingga berbunyi sebagai berikut:
+
+> Pasal 44
+>
+> (1) Dalam waktu 30 (tiga puluh) hari sejak pelaku usaha menerima pemberitahuan putusan Komisi sebagaimana dimaksud dalam Pasal 43 ayat (4), pelaku usaha wajib melaksanakan putusan tersebut dan menyampaikan laporan pelaksanaannya kepada Komisi.
+>
+> (2) Pelaku usaha dapat mengajukan keberatan kepada Pengadilan Niaga selambat-lambatnya 14 (empat belas) hari setelah menerima pemberitahuan putusan tersebut.
+>
+> (3) Pelaku usaha yang tidak mengajukan keberatan dalam jangka waktu sebagaimana dimaksud dalam ayat (2) dianggap menerima putusan Komisi.
+>
+> (4) Apabila ketentuan sebagaimana dimaksud dalam ayat (1) dan ayat (2) tidak dijalankan oleh pelaku usaha, Komisi menyerahkan putusan tersebut kepada penyidik untuk dilakukan penyidikan sesuai dengan ketentuan peraturan perundang-undangan yang berlaku.
+>
+> (5) Putusan Komisi sebagaimana dimaksud dalam Pasal 43 ayat (4) merupakan bukti permulaan yang cukup bagi penyidik untuk melakukan penyidikan.
+
+2. Ketentuan Pasal 45 diubah sehingga berbunyi sebagai berikut:
+
+> Pasal 45
+>
+> (1) Pengadilan Niaga harus memeriksa keberatan pelaku usaha sebagaimana dimaksud dalam Pasal 44 ayat (2), dalam waktu 14 (empat belas) hari sejak diterimanya keberatan tersebut.
+>
+> (2) Pihak yang keberatan terhadap putusan Pengadilan Niaga sebagaimana dimaksud dalam ayat (2), dalam waktu 14 (empat belas) hari dapat mengajukan kasasi kepada Mahkamah Agung Republik Indonesia.
+>
+> (3) Ketentuan mengenai tata cara pemeriksaan di Pengadilan Niaga dan Mahkamah Agung Republik Indonesia dilaksanakan sesuai dengan ketentuan peraturan perundang-undangan.
+
+3. Ketentuan Pasal 47 diubah sehingga berbunyi sebagai berikut:
+
+> Pasal 47
+>
+> (1) Komisi berwenang menjatuhkan sanksi berupa tindakan administratif terhadap pelaku usaha yang melanggar ketentuan Undang-Undang ini.
+>
+> (2) Tindakan administratif sebagaimana dimaksud pada ayat (1) dapat berupa:
+> * a. penetapan pembatalan perjanjian sebagaimana dimaksud dalam Pasal 4, Pasal 5, Pasal 6, Pasal 7, Pasal 8, Pasal 9, Pasal 10, Pasal 11, Pasal 12, Pasal 13, Pasal 15, dan Pasal 16;
+> * b. perintah kepada pelaku usaha untuk menghentikan integrasi vertikal sebagaimana dimaksud dalam Pasal 14;
+> * c. perintah kepada pelaku usaha untuk menghentikan kegiatan yang terbukti menimbulkan praktek monopoli, menyebabkan persaingan usaha tidak sehat, dan/atau merugikan masyarakat sebagaimana dimaksud dalam Pasal 17, Pasal 18, Pasal 19, Pasal 20, Pasal 21, Pasal 22, Pasal 23, Pasal 24, Pasal 26, dan Pasal 27;
+> * d. perintah kepada pelaku usaha untuk menghentikan penyalahgunaan posisi dominan sebagaimana dimaksud dalam Pasal 25;
+> * e. penetapan pembatalan atas penggabungan atau peleburan badan usaha dan pengambilalihan saham sebagaimana dimaksud dalam Pasal 28;
+> * f. penetapan pembayaran ganti rugi; dan/atau
+> * g. pengenaan denda paling sedikit Rp 1.000.000.000,00 (satu miliar rupiah).
+>
+> (3) Ketentuan lebih lanjut mengenai kriteria, jenis, besaran denda, dan tata cara pengenaan sanksi sebagaimana dimaksud pada ayat (1) dan ayat (2) diatur dengan Peraturan Pemerintah.
+
+4. Ketentuan Pasal 48 diubah sehingga berbunyi sebagai berikut:
+
+> Pasal 48
+>
+> Pelanggaran terhadap ketentuan Pasal 41 Undang-Undang ini dipidana dengan pidana denda paling banyak Rp5.000.000.000,00 (lima miliar rupiah) atau pidana kurungan paling lama 1 (satu) tahun sebagai pengganti pidana denda.
+
+5. Ketentuan Pasal 49 dihapus.
+
+# BAB VII — DUKUNGAN RISET DAN INOVASI
+
+#### Pasal 119
+
+Untuk memberikan dukungan riset dan inovasi di bidang berusaha, Undang-Undang ini mengubah beberapa ketentuan yang diatur dalam:
+* a. Undang-Undang Nomor 19 Tahun 2003 tentang Badan Usaha Milik Negara (Lembaran Negara Republik Indonesia Tahun 2003 Nomor 70, Tambahan Lembaran Negara Republik Indonesia Nomor 4297).
+* b. Undang-Undang Nomor 11 Tahun 2019 tentang Sistem Nasional Ilmu Pengetahuan Dan Teknologi (Lembaran Negara Republik Indonesia Tahun 2019 Nomor 148, Tambahan Lembaran Negara Republik Indonesia 6374).
+
+#### Pasal 120
+
+Beberapa ketentuan dalam Undang-Undang Nomor 19 Tahun 2003 tentang Badan Usaha Milik Negara (Lembaran Negara Republik Indonesia Tahun 2003 Nomor 70, Tambahan Lembaran Negara Republik Indonesia Nomor 4297) diubah:
+
+1. Ketentuan judul BAB V diubah sehingga berbunyi sebagai berikut:
+
+> BAB V
+> KEWAJIBAN PELAYANAN UMUM, PENELITIAN,
+> PENGEMBANGAN DAN INOVASI
+
+2. Ketentuan Pasal 66 diubah sehingga berbunyi sebagai berikut:
+
+> Pasal 66
+>
+> (1) Pemerintah Pusat dapat memberikan penugasan khusus kepada BUMN untuk menyelenggarakan fungsi kemanfaatan umum serta riset dan inovasi nasional.
+>
+> (2) Penugasan khusus kepada BUMN sebagaimana dimaksud pada ayat (1) dilakukan dengan tetap memperhatikan maksud dan tujuan kegiatan BUMN serta mempertimbangkan kemampuan BUMN.
+>
+> (3) Rencana penugasan khusus sebagaimana dimaksud pada ayat (1) dikaji bersama antara BUMN yang bersangkutan dengan Pemerintah Pusat.
+>
+> (4) Apabila penugasan tersebut secara finansial tidak fisibel, Pemerintah Pusat harus memberikan kompensasi atas semua biaya yang telah dikeluarkan oleh BUMN tersebut, termasuk margin yang diharapkan sepanjang dalam tingkat kewajaran sesuai dengan penugasan yang diberikan.
+>
+> (5) Penugasan kepada BUMN sebagaimana dimaksud pada ayat (1) harus terlebih dahulu mendapatkan persetujuan RUPS atau Menteri.
+>
+> (6) BUMN dalam melaksanakan penugasan khusus sebagaimana dimaksud pada ayat (1) dapat bekerjasama dengan:
+> * a. badan usaha milik swasta;
+> * b. badan usaha milik daerah;
+> * c. koperasi;
+> * d. BUMN;
+> * e. lembaga penelitian dan pengembangan;
+> * f. lembaga pengkajian dan penerapan; dan/atau
+> * g. perguruan tinggi.
+
+#### Pasal 121
+
+Ketentuan Pasal 48 dalam Undang-Undang Nomor 11 Tahun 2019 tentang Sistem Nasional Ilmu Pengetahuan Dan Teknologi (Lembaran Negara Republik Indonesia Tahun 2019 Nomor 148, Tambahan Lembaran Negara Republik Indonesia 6374) diubah sehingga berbunyi sebagai berikut:
+
+> Pasal 48
+>
+> (1) Untuk menjalankan Penelitian, Pengembangan, Pengkajian, dan Penerapan, serta Invensi dan Inovasi yang terintegrasi dibentuk badan riset dan inovasi nasional.
+>
+> (2) Untuk menjalankan Penelitian, Pengembangan, Pengkajian, dan Penerapan, serta Invensi dan Inovasi yang terintegrasi di daerah, Pemerintah Daerah membentuk badan.
+>
+> (3) Ketentuan lebih lanjut mengenai badan riset dan inovasi nasional, sebagaimana dimaksud pada ayat (1) diatur dengan Peraturan Presiden.
+
+# BAB VIII — PENGADAAN TANAH
+
+## Bagian Kesatu — Umum
+
+#### Pasal 122
+
+Dalam rangka memberikan kemudahan dan kelancaran dalam pengadaan tanah untuk kepentingan penciptaan kerja, UndangUndang ini mengubah, menghapus, atau menetapkan pengaturan baru beberapa ketentuan yang diatur dalam:
+* a. Undang-Undang Nomor 2 Tahun 2012 tentang Pengadaan Tanah Bagi Pembangunan Untuk Kepentingan Umum (Lembaran Negara Republik Indonesia Tahun 2012 Nomor 22, Tambahan Lembaran Negara Republik Indonesia Nomor 5280);
+* b. Undang-Undang Nomor 41 Tahun 2009 tentang Perlindungan Lahan Pertanian Pangan Berkelanjutan (Lembaran Negara Republik Indonesia Tahun 2009 Nomor 149, Tambahan Lembaran Negara Republik Indonesia Nomor 5068).
+
+## Bagian Kedua — Pengadaan Tanah Bagi Pembangunan Untuk Kepentingan Umum
+
+#### Pasal 123
+
+Beberapa ketentuan dalam Undang-Undang Nomor 2 Tahun 2012 tentang Pengadaan Tanah Bagi Pembangunan Untuk Kepentingan Umum (Lembaran Negara Republik Indonesia Tahun 2012 Nomor 22, Tambahan Lembaran Negara Republik Indonesia Nomor 5280) diubah:
+
+1. Ketentuan Pasal 8 diubah, sehingga berbunyi sebagai berikut:
+
+> Pasal 8
+>
+> (1) Pihak yang Berhak dan pihak yang menguasai Objek Pengadaan Tanah untuk Kepentingan Umum wajib mematuhi ketentuan dalam Undang-Undang ini.
+>
+> (2) Dalam hal rencana Pengadaan Tanah, terdapat Objek Pengadaan Tanah yang masuk dalam kawasan hutan, tanah kas desa, tanah wakaf, tanah ulayat/tanah adat, dan/atau tanah aset Pemerintah Pusat, Pemerintah Daerah, Badan Usaha Milik Negara, atau Badan Usaha Milik Daerah, proses penyelesaian status tanahnya harus dilakukan sampai dengan penetapan lokasi.
+>
+> (3) Penyelesaian perubahan kawasan hutan sebagaimana dimaksud pada ayat (2) dilakukan melalui mekanisme pelepasan kawasan hutan atau pinjam pakai kawasan hutan sesuai ketentuan peraturan perundangundangan di bidang kehutanan.
+>
+> (4) Perubahan obyek Pengadaan Tanah yang masuk dalam kawasan hutan sebagaimana dimaksud pada ayat (2) khususnya untuk proyek prioritas Pemerintah Pusat, dilakukan melalui mekanisme:
+> * a. pelepasan kawasan hutan, dalam hal Pengadaan Tanah dilakukan oleh instansi; atau
+> * b. pelepasan kawasan hutan atau pinjam pakai kawasan hutan, dalam hal Pengadaan Tanah dilakukan oleh swasta.
+
+2. Ketentuan Pasal 10 diubah, sehingga berbunyi sebagai berikut:
+
+> Pasal 10
+>
+> Tanah untuk Kepentingan Umum sebagaimana dimaksud dalam Pasal 4 ayat (1) digunakan untuk pembangunan:
+> * a. pertahanan dan keamanan nasional;
+> * b. jalan umum, jalan tol terowongan, jalur kereta api, stasiun kereta api dan fasilitas operasi kereta api;
+> * c. waduk, bendungan, bendung, irigasi, saluran air dan sanitasi dan bangunan pengairan lainnya;
+> * d. pelabuhan, bandar udara, dan terminal;
+> * e. infrastruktur minyak, gas, dan panas bumi;
+> * f. pembangkit, transmisi, gardu, jaringan, dan/atau distribusi tenaga listrik;
+> * g. jaringan telekomunikasi dan informatika pemerintah;
+> * h. tempat pembuangan dan pengolahan sampah;
+> * i. rumah sakit Pemerintah Pusat atau Pemerintah Daerah;
+> * j. fasilitas keselamatan umum;
+> * k. tempat pemakaman umum Pemerintah Pusat atau Pemerintah Daerah;
+> * l. fasilitas sosial, fasilitas umum dan ruang terbuka hijau publik;
+> * m. cagar alam dan cagar budaya;
+> * n. Kantor Pemerintah Pusat, Pemerintah Daerah, atau Desa;
+> * o. penataan pemukiman kumuh perkotaan dan/atau konsolidasi tanah serta perumahan untuk masyarakat berpenghasilan rendah dengan status sewa termasuk untuk pembangunan rumah umum dan rumah khusus;
+> * p. prasarana pendidikan atau sekolah Pemerintah Pusat atau Pemerintah Daerah;
+> * q. prasarana olahraga Pemerintah Pusat atau Pemerintah Daerah;
+> * r. pasar umum dan lapangan parkir umum;
+> * s. Kawasan Industri Hulu dan Hilir Minyak dan Gas yang diprakarsai dan/atau dikuasai oleh Pemerintah Pusat, Pemerintah Daerah, badan usaha milik Negara, atau badan usaha milik daerah;
+> * t. Kawasan Ekonomi Khusus yang diprakarsai dan/atau dikuasai oleh Pemerintah Pusat, Pemerintah Daerah, Badan Usaha Milik Negara, atau Badan Usaha Milik Daerah; Disetujui Timus 22.45
+> * u. Kawasan Industri yang diprakarsai dan/atau dikuasai oleh Pemerintah Pusat, pemerintah daerah, Badan Usaha Milik Negara, atau Badan Usaha Milik Daerah;
+> * v. Kawasan Pariwisata yang diprakarsai dan dikuasai oleh Pemerintah Pusat, Pemerintah Daerah, Badan Usaha Milik Negara,, atau Badan Usaha Milik Daerah;
+> * w. Kawasan Ketahanan Pangan yang diprakarsai dan/atau dikuasai oleh Pemerintah Pusat, Pemerintah Daerah, Badan Usaha Milik Negara, atau Badan Usaha Milik Daerah; dan
+> * x. Kawasan pengembangan teknologi yang diprakarsai dan/atau dikuasai oleh Pemerintah Pusat, Pemerintah Daerah, Badan Usaha Milik Negara, atau Badan Usaha Milik Daerah.
+
+3. Ketentuan Pasal 14 diubah, sehingga berbunyi sebagai berikut:
+
+> Pasal 14
+>
+> (1) Instansi yang memerlukan tanah membuat perencanaan Pengadaan Tanah untuk Kepentingan Umum dengan melibatkan kementerian/lembaga yang menyelenggarakan urusan pemerintahan di bidang pertanahan sesuai dengan ketentuan peraturan perundang-undangan.
+>
+> (2) Perencanaan Pengadaan Tanah untuk Kepentingan Umum sebagaimana dimaksud pada ayat (1) didasarkan atas Rencana Tata Ruang Wilayah dan prioritas pembangunan yang tercantum dalam Rencana Pembangunan Jangka Menengah, Rencana Strategis, dan/atau Rencana Kerja Pemerintah/instansi yang bersangkutan.
+
+4. Ketentuan Pasal 19 diubah sehingga berbunyi sebagai berikut:
+
+> Pasal 19
+>
+> (1) Konsultasi Publik rencana pembangunan sebagaimana dimaksud dalam Pasal 18 ayat (3) dilaksanakan untuk mendapatkan kesepakatan lokasi rencana pembangunan dari:
+> * c. Pihak yang Berhak;
+> * d. Pengelola; dan
+> * e. Pengguna Barang Milik Negara/Barang Milik Daerah.
+>
+> (2) Konsultasi Publik sebagaimana dimaksud pada ayat (1) dilakukan dengan melibatkan Pihak yang Berhak, Pengelola, pengguna Barang Milik Negara/Barang Milik Daerah dan masyarakat yang terkena dampak serta dilaksanakan di tempat rencana pembangunan untuk Kepentingan Umum atau di tempat yang disepakati.
+>
+> (3) Pelibatan Pihak yang Berhak, Pengelola, dan pengguna Barang Milik Negara/Barang Milik Daerah sebagaimana dimaksud pada ayat (2) dapat dilakukan melalui perwakilan dengan surat kuasa dari dan oleh Pihak yang Berhak, Pengelola, dan pengguna Barang Milik Negara/Barang Milik Daerah atas lokasi rencana pembangunan.
+>
+> (4) Kesepakatan sebagaimana dimaksud pada ayat (1) dituangkan dalam bentuk berita acara kesepakatan.
+>
+> (5) Atas dasar kesepakatan sebagaimana dimaksud pada ayat (4), Instansi yang memerlukan tanah mengajukan permohonan penetapan lokasi kepada gubernur.
+>
+> (6) Gubernur menetapkan lokasi sebagaimana dimaksud pada ayat (5) dalam waktu paling lama 14 (empat belas) Hari terhitung sejak diterimanya pengajuan permohonan penetapan oleh Instansi yang memerlukan tanah.
+>
+> (7) Dalam hal Pihak yang Berhak, pengelola, dan pengguna Barang Milik Negara/Barang Milik Daerah tidak menghadiri konsultasi publik setelah diundang 3 (tiga) kali secara patut, dianggap menyetujui rencana pembangunan sebagaimana dimaksud pada ayat (1).
+>
+> (8) Ketentuan lebih lanjut mengenai Konsultasi Publik sebagaimana dimaksud pada ayat (1) diatur dengan Peraturan Pemerintah.
+
+5. Di antara Pasal 19 dan Pasal 20 disisipkan 3 (tiga) pasal yakni Pasal 19A, Pasal 19B, dan Pasal 19C sehingga berbunyi sebagai berikut:
+
+> Pasal 19A
+>
+> (1) Dalam rangka efisiensi dan efektifitas, pengadaan tanah untuk kepentingan umum yang luasnya tidak lebih dari 5 (lima) hektar, dapat dilakukan langsung oleh instansi yang memerlukan tanah dengan Pihak yang Berhak.
+>
+> (2) Pengadaan tanah untuk kepentingan umum sebagaimana dimaksud pada ayat (1) harus sesuai dengan kesesuaian tata ruang wilayah.
+>
+> Pasal 19B
+>
+> Dalam hal pengadaan tanah untuk kepentingan umum yang luasnya kurang dari 5 (lima) hektar yang dilakukan langsung antara Pihak yang Berhak dengan instansi yang memerlukan tanah sebagaimana dimaksud dalam Pasal 19A ayat (1), penetapan lokasi dilakukan oleh Bupati/Wali kota.
+>
+> Pasal 19C
+>
+> Setelah penetapan lokasi pengadaan tanah tidak diperlukan lagi persyaratan:
+> * a. kesesuaian kegiatan pemanfaatan ruang;
+> * b. pertimbangan teknis;
+> * c. di luar kawasan hutan dan di luar kawasan pertambangan;
+> * d. di luar kawasan gambut/sempadan pantai; dan
+> * e. analisis mengenai dampak lingkungan hidup.
+
+6. Ketentuan Pasal 24 diubah sehingga, berbunyi sebagai berikut:
+
+> Pasal 24
+>
+> (1) Penetapan lokasi pembangunan untuk Kepentingan Umum sebagaimana dimaksud dalam Pasal 19 ayat (6) atau Pasal 22 ayat (1) diberikan untuk jangka waktu 3 (tiga) tahun dan dapat diperpanjang 1 (satu) kali untuk jangka waktu 1 (satu) tahun.
+>
+> (2) Permohonan perpanjangan waktu penetapan lokasi disampaikan paling singkat 6 (enam) bulan sebelum masa berlaku penetapan lokasi berakhir.
+
+7. Ketentuan Pasal 28 diubah sehingga berbunyi sebagai berikut:
+
+> Pasal 28
+>
+> (1) Inventarisasi dan identifikasi penguasaan, pemilikan, penggunaan, dan pemanfaatan tanah sebagaimana dimaksud dalam Pasal 27 ayat (2) huruf a meliputi kegiatan:
+> * a. pengukuran dan pemetaan bidang per bidang tanah; dan
+> * b. pengumpulan data Pihak yang Berhak dan Objek Pengadaan Tanah.
+>
+> (2) Inventarisasi dan identifikasi penguasaan, pemilikan, penggunaan, dan pemanfaatan tanah sebagaimana dimaksud pada ayat (1) dilaksanakan dalam waktu paling lama 30 (tiga puluh) Hari.
+>
+> (3) Pengumpulan data Pihak yang Berhak dan Objek Pengadaan Tanah sebagaimana dimaksud pada ayat (1) huruf b dapat dilakukan oleh surveyor berlisensi.
+
+8. Ketentuan Pasal 34 diubah sehingga berbunyi sebagai berikut:
+
+> Pasal 34
+>
+> (1) Nilai Ganti Kerugian yang dinilai oleh Penilai sebagaimana dimaksud dalam Pasal 33 merupakan nilai pada saat pengumuman penetapan lokasi pembangunan untuk Kepentingan Umum sebagaimana dimaksud dalam Pasal 26.
+>
+> (2) Besarnya nilai Ganti Kerugian berdasarkan hasil penilaian Penilai sebagaimana dimaksud pada ayat (1) disampaikan kepada Lembaga Pertanahan disertai dengan berita acara.
+>
+> (3) Besarnya nilai Ganti Kerugian berdasarkan hasil penilaian Penilai sebagaimana dimaksud pada ayat (1) bersifat final dan mengikat.
+>
+> (4) Besarnya nilai Ganti Kerugian sebagaimana dimaksud pada ayat (2), dijadikan dasar untuk menetapkan bentuk Ganti Kerugian.
+>
+> (5) Musyawarah penetapan Ganti Kerugian sebagaimana dimaksud pada ayat (3) dilaksanakan oleh Ketua Pelaksana Pengadaan Tanah bersama dengan Penilai dengan para Pihak yang Berhak.
+
+9. Ketentuan Pasal 36 diubah sehingga berbunyi sebagai berikut:
+
+> Pasal 36
+>
+> (1) Pemberian Ganti Kerugian dapat diberikan dalam bentuk:
+> * a. uang;
+> * b. tanah pengganti;
+> * c. pemukiman kembali;
+> * d. kepemilikan saham; atau
+> * e. bentuk lain yang disetujui oleh kedua belah pihak.
+>
+> (2) Ketentuan lebih lanjut mengenai Pemberian Ganti Kerugian dalam bentuk tanah pengganti, pemukiman kembali, kepemilikan saham, atau bentuk lainnya sebagaimana dimaksud pada ayat (1) diatur dengan Peraturan Pemerintah.
+
+10. Penjelasan Pasal 40 diubah sebagaimana tercantum dalam Penjelasan.
+
+11. Ketentuan Pasal 42 diubah sehingga berbunyi sebagai berikut:
+
+Pasal 42
+
+> (1) Dalam hal Pihak yang Berhak menolak bentuk dan/atau besarnya Ganti Kerugian berdasarkan hasil musyawarah sebagaimana dimaksud dalam Pasal 37, atau putusan pengadilan negeri/Mahkamah Agung sebagaimana dimaksud dalam Pasal 38, Ganti Kerugian dititipkan di pengadilan negeri setempat.
+>
+> (2) Penitipan Ganti Kerugian selain sebagaimana dimaksud pada ayat (1), dilakukan juga terhadap:
+> * a. Pihak yang Berhak menerima Ganti Kerugian tidak diketahui keberadaannya; atau
+> * b. obyek pengadaan tanah yang akan diberikan Ganti Kerugian:
+> 1) sedang menjadi obyek perkara di pengadilan;
+> 2) masih dipersengketakan kepemilikannya;
+> 3) diletakkan sita oleh pejabat yang berwenang; atau
+> 4) menjadi jaminan di Bank.
+>
+> (3) Pengadilan negeri paling lama dalam jangka waktu 14 (empat belas) Hari wajib menerima penitipan Ganti Kerugian sebagaimana dimaksud pada ayat (1) dan ayat (2).
+
+12. Ketentuan Pasal 46 diubah sehingga berbunyi sebagai berikut:
+
+> Pasal 46
+>
+> (1) Pelepasan Objek Pengadaan Tanah sebagaimana dimaksud dalam Pasal 45 ayat (1) dan ayat (2) tidak diberikan Ganti Kerugian, kecuali:
+> * a. Objek Pengadaan Tanah yang dipergunakan sesuai dengan tugas dan fungsi pemerintahan;
+> * b. Objek Pengadaan Tanah yang dimiliki/dikuasai oleh Badan Usaha Milik Negara/Badan Usaha Milik Daerah; dan/atau
+> * c. Objek Pengadaan Tanah kas desa;
+>
+> (2) Ganti Kerugian atas Objek Pengadaan Tanah sebagaimana dimaksud pada ayat (1) huruf a diberikan dalam bentuk tanah dan/atau bangunan atau relokasi.
+>
+> (3) Ganti Kerugian atas Objek Pengadaan Tanah sebagaimana dimaksud pada ayat (1) huruf b dapat diberikan dalam bentuk sebagaimana dimaksud dalam Pasal 36.
+>
+> (4) Ganti Kerugian atas Objek Pengadaan Tanah Kas Desa sebagaimana dimaksud pada ayat (1) huruf c dapat diberikan dalam bentuk sebagaimana dimaksud dalam Pasal 36.
+>
+> (5) Nilai Ganti Kerugian sebagaimana dimaksud pada ayat (2) dan ayat (3) didasarkan atas hasil penilaian Ganti Kerugian sebagaimana dimaksud dalam Pasal 34 ayat (2).
+>
+> (6) Nilai Ganti Kerugian atas objek pengadanan tanah berupa harta benda wakaf ditentukan sama dengan nilai hasil penilaian Penilai atas harta benda wakaf yang diganti
+
+## Bagian Ketiga — Perlindungan Lahan Pertanian Pangan Berkelanjutan
+
+#### Pasal 124
+
+Beberapa ketentuan dalam Undang-Undang Nomor 41 Tahun 2009 tentang Perlindungan Lahan Pertanian Pangan Berkelanjutan (Lembaran Negara Republik Indonesia Tahun 2009 Nomor 149, Tambahan Lembaran Negara Republik Indonesia Nomor 5068) diubah:
+
+1. Ketentuan Pasal 44 diubah sehingga berbunyi sebagai berikut:
+
+> Pasal 44
+>
+> (1) Lahan yang sudah ditetapkan sebagai Lahan Pertanian Pangan Berkelanjutan dilindungi dan dilarang dialihfungsikan.
+>
+> (2) Dalam hal untuk kepentingan umum dan/atau Proyek Strategis Nasional, Lahan Pertanian Pangan Berkelanjutan sebagaimana dimaksud pada ayat (1) dapat dialihfungsikan, dan dilaksanakan sesuai dengan ketentuan peraturan perundang-undangan.
+>
+> (3) Pengalihfungsian Lahan yang sudah ditetapkan sebagai Lahan Pertanian Pangan Berkelanjutan untuk kepentingan umum sebagaimana dimaksud pada ayat (2) hanya dapat dilakukan dengan syarat:
+> * a. dilakukan kajian kelayakan strategis;
+> * b. disusun rencana alih fungsi lahan;
+> * c. dibebaskan kepemilikan haknya dari pemilik; dan
+> * d. disediakan lahan pengganti terhadap Lahan Pertanian Pangan Berkelanjutan yang dialihfungsikan.
+>
+> (4) Dalam hal terjadi bencana sehingga pengalihan fungsi lahan untuk infrastruktur tidak dapat ditunda, persyaratan sebagaimana dimaksud pada ayat (3) huruf a dan huruf b tidak diberlakukan.
+>
+> (5) Penyediaan lahan pengganti terhadap Lahan Pertanian Pangan Berkelanjutan yang dialihfungsikan untuk infrastruktur akibat bencana sebagaimana dimaksud pada ayat (4) dilakukan paling lama 24 (dua puluh empat) bulan setelah alih fungsi dilakukan.
+>
+> (6) Pembebasan kepemilikan hak atas tanah yang dialihfungsikan sebagaimana dimaksud pada ayat (3) huruf c dilakukan dengan pemberian ganti rugi sesuai dengan ketentuan peraturan perundang-undangan.
+
+2. Ketentuan Pasal 73 diubah sehingga berbunyi sebagai berkut:
+
+> Pasal 73
+>
+> Setiap pejabat Pemerintah yang menerbitkan persetujuan pengalihfungsian Lahan Pertanian Pangan Berkelanjutan tidak sesuai dengan ketentuan sebagaimana dimaksud dalam Pasal 44 ayat (1) dipidana dengan pidana penjara paling singkat 1 (satu) tahun dan paling lama 5 (lima) tahun dan/atau denda paling sedikit Rp1.000.000.000,00 (satu miliar rupiah) dan paling banyak Rp5.000.000.000,00 (lima miliar rupiah).
+
+## Bagian Keempat — Pertanahan
+
+### Paragraf 1 — Bank Tanah
+
+#### Pasal 125
+
+(1) Pemerintah Pusat membentuk badan bank tanah.
+
+(2) Badan bank tanah sebagaimana dimaksud pada ayat (1) merupakan badan khusus yang mengelola tanah.
+
+(3) Kekayaan badan bank tanah merupakan kekayaan negara yang dipisahkan.
+
+(4) Badan bank tanah berfungsi melaksanakan perencanaan, perolehan, pengadaan, pengelolaan, pemanfaatan, dan pendistribusian tanah.
+
+#### Pasal 126
+
+(1) Badan bank tanah menjamin ketersediaan tanah dalam rangka ekonomi berkeadilan, untuk:
+* a. kepentingan umum;
+* b. kepentingan sosial;
+* c. kepentingan pembangunan nasional;
+* d. pemerataan ekonomi;
+* e. konsolidasi lahan; dan
+* f. reforma agraria.
+
+(2) Ketersediaan tanah untuk reforma agraria sebagaimana dimaksud pada ayat (1) huruf f paling sedikit 30 (tiga puluh) persen dari tanah negara yang diperuntukkan untuk bank tanah.
+
+#### Pasal 127
+
+Badan bank tanah dalam melaksanakan tugas dan wewenangnya bersifat transparan, akuntabel, dan non profit.
+
+#### Pasal 128
+
+Sumber kekayaan badan bank tanah dapat berasal dari:
+* a. Anggaran Pendapatan dan Belanja Negara;
+* b. Pendapatan sendiri;
+* c. Penyertaan modal negara; dan
+* d. sumber lain yang sah sesuai dengan ketentuan peraturan perundang-undangan.
+
+#### Pasal 129
+
+(1) Tanah yang dikelola badan bank tanah diberikan hak pengelolaan.
+
+(2) Hak atas tanah di atas hak pengelolaan sebagaimana dimaksud pada ayat (1) dapat diberikan hak guna usaha, hak guna bangunan, dan hak pakai.
+
+(3) Jangka waktu hak guna bangunan di atas hak pengelolaan sebagaimana dimaksud pada ayat (2) dapat diberikan perpanjangan dan pembaharuan hak apabila sudah digunakan dan/atau dimanfaatkan sesuai dengan tujuan pemberian haknya.
+
+(4) Dalam rangka mendukung investasi, pemegang hak pengelolaan badan bank tanah diberikan kewenangan untuk:
+* a. melakukan penyusunan rencana induk;
+* b. membantu memberikan kemudahan Perizinan Berusaha/ persetujuan;
+* c. melakukan pengadaan tanah; dan
+* d. menentukan tarif pelayanan.
+
+(5) Penggunaan dan/atau pemanfaatan tanah di atas hak pengelolaan sebagaimana dimaksud pada ayat (2) Pemerintah Pusat melakukan pengawasan dan pengendalian sesuai dengan ketentuan perundang-undangan.
+
+#### Pasal 130
+
+Badan bank tanah sebagaimana dimaksud dalam Pasal 125 terdiri atas:
+* a. Komite;
+* b. Dewan Pengawas; dan
+* c. Badan Pelaksana.
+
+#### Pasal 131
+
+(1) Komite sebagaimana dimaksud dalam Pasal 130 huruf a diketuai oleh menteri yang menyelenggarakan urusan pemerintahan di bidang pertanahan dan beranggotakan para menteri dan kepala yang terkait.
+
+(2) Ketua dan anggota Komite ditetapkan dengan Keputusan Presiden berdasarkan usulan dari menteri yang menyelenggarakan urusan pemerintahan di bidang pertanahan.
+
+#### Pasal 132
+
+(1) Dewan Pengawas berjumlah paling banyak 7 (tujuh) orang terdiri dari 4 (empat) orang unsur profesional dan 3 (tiga) orang yang dipilih oleh Pemerintah Pusat.
+
+(2) Terhadap calon unsur profesional sebagaimana dimaksud pada ayat (1) dilakukan proses seleksi oleh Pemerintah Pusat yang selanjutnya disampaikan ke DPR untuk dipilih dan disetujui.
+
+(3) Calon unsur profesional yang diajukan ke DPR sebagaimana dimaksud pada ayat (2), paling sedikit 2 (dua) kali jumlah yang dibutuhkan.
+
+#### Pasal 133
+
+(1) Badan Pelaksana terdiri dari Kepala dan Deputi.
+
+(2) Jumlah Deputi sebagaimana dimaksud pada ayat (1) ditetapkan oleh Ketua Komite.
+
+(3) Kepala dan Deputi diangkat dan diberhentikan oleh Ketua Komite.
+
+(4) Pengangkatan dan pemberhentian Kepala dan Deputi sebagaimana dimaksud pada ayat (3) dapat diusulkan oleh Dewan Pengawas.
+
+#### Pasal 134
+
+Ketentuan lebih lanjut mengenai Komite, Dewan Pengawas, dan Badan Pelaksana diatur dengan Peraturan Presiden.
+
+#### Pasal 135
+
+Ketentuan lebih lanjut mengenai pembentukan badan bank tanah diatur dengan Peraturan Pemerintah.
+Paragraf 2 Penguatan Hak Pengelolaan
+
+#### Pasal 136
+
+Hak pengelolaan merupakan hak menguasai dari negara yang kewenangan pelaksanaannya sebagian dilimpahkan kepada pemegang haknya.
+
+#### Pasal 137
+
+(1) Sebagian kewenangan hak menguasai dari negara berupa tanah dapat diberikan hak pengelolaan kepada:
+* a. instansi Pemerintah Pusat;
+* b. Pemerintah Daerah;
+* c. Badan bank tanah;
+* d. Badan Usaha Milik Negara/Badan Usaha Milik Daerah;
+* e. Badan hukum milik negara/daerah; atau
+* f. Badan hukum yang ditunjuk oleh Pemerintah Pusat.
+
+(2) Hak pengelolaan sebagaimana dimaksud pada ayat (1) memberikan kewenangan untuk:
+* a. menyusun rencana peruntukan, penggunaan, dan pemanfaatan tanah sesuai dengan rencana tata ruang;
+* b. menggunakan dan memanfaatkan seluruh atau sebagian tanah hak pengelolaan untuk digunakan sendiri atau dikerjasamakan dengan pihak ketiga; dan
+* c. menentukan tarif dan menerima uang pemasukan/ganti rugi dan/atau uang wajib tahunan dari pihak ketiga sesuai dengan perjanjian.
+
+(3) Pemberian hak pengelolaan sebagaimana dimaksud pada ayat (1) diberikan atas tanah negara dengan keputusan pemberian hak di atas tanah negara.
+
+(4) Hak pengelolaan dapat dilepaskan kepada pihak yang memenuhi syarat.
+
+#### Pasal 138
+
+(1) Penyerahan pemanfaatan bagian tanah hak pengelolaan kepada pihak ketiga sebagaimana dimaksud dalam Pasal 137 ayat (2) huruf b dilakukan dengan perjanjian pemanfaatan Tanah.
+
+(2) Di atas tanah hak pengelolaan yang pemanfaatannya diserahkan kepada pihak ketiga baik sebagian atau seluruhnya, dapat diberikan Hak Guna Usaha, Hak Guna Bangunan, dan/atau Hak Pakai sesuai dengan ketentuan peraturan perundang-undangan.
+
+(3) Jangka waktu hak guna bangunan di atas hak pengelolaan sebagaimana dimaksud pada ayat (2) dapat diberikan perpanjangan dan pembaharuan hak apabila sudah digunakan dan/atau dimanfaatkan sesuai dengan tujuan pemberian haknya.
+
+(4) Penggunaan dan/atau pemanfaatan tanah di atas hak pengelolaan sebagaimana dimaksud pada ayat (2) pemerintah melakukan pengawasan dan pengendalian sesuai dengan ketentuan perundang-undangan.
+
+(5) Dalam hal hak atas tanah yang berada di atas hak pengelolaan telah berakhir, tanahnya kembali menjadi tanah hak pengelolaan.
+
+#### Pasal 139
+
+(1) Dalam keadaan tertentu, Pemerintah Pusat dapat membatalkan dan/atau mencabut hak pengelolaan sebagian atau seluruhnya.
+
+(2) Tata cara pembatalan hak pengelolaan dilaksanakan sesuai dengan ketentuan peraturan-perundang-undangan.
+
+#### Pasal 140
+
+(1) Dalam hal bagian bidang tanah hak pengelolaan diberikan dengan hak milik, bagian bidang tanah hak pengelolaan tersebut hapus dengan sendirinya.
+
+(2) Hak milik sebagaimana dimaksud pada ayat (1), hanya diberikan untuk keperluan rumah umum dan keperluan transmigrasi.
+
+#### Pasal 141
+
+Dalam rangka pengendalian pemanfaatan hak atas tanah di atas hak pengelolaan, dalam waktu tertentu dilakukan evaluasi pemanfaatan hak atas tanah.
+
+#### Pasal 142
+
+Ketentuan lebih lanjut mengenai hak pengelolaan diatur dengan Peraturan Pemerintah.
+
+### Paragraf 3 — Satuan Rumah Susun untuk Orang Asing
+
+#### Pasal 143
+
+Hak milik atas satuan rumah susun merupakan hak kepemilikan atas satuan rumah susun yang bersifat perseorangan yang terpisah dengan hak bersama atas bagian bersama, benda bersama, dan tanah bersama.
+
+#### Pasal 144
+
+(1) Hak milik atas satuan rumah susun dapat diberikan kepada:
+* a. warga negara Indonesia;
+* b. badan hukum Indonesia;
+* c. warga negara asing yang mempunyai izin sesuai ketentuan peraturan perundang-undangan;
+* d. badan hukum asing yang mempunyai perwakilan di Indonesia; atau
+* e. perwakilan negara asing dan lembaga internasional yang berada atau mempunyai perwakilan di Indonesia
+
+(2) Hak milik atas satuan rumah susun dapat beralih atau dialihkan dan dijaminkan.
+
+(3) Hak milik atas satuan rumah susun dapat dijaminkan dengan dibebani hak tanggungan sesuai dengan ketentuan peraturan perundang-undangan.
+
+#### Pasal 145
+
+(1) Rumah susun dapat dibangun di atas Tanah:
+* a. hak guna bangunan atau hak pakai di atas tanah negara; atau
+* b. hak guna bangunan atau hak pakai di atas tanah hak pengelolaan.
+
+(2) Pemberian hak guna bangunan bagi rumah susun sebagaimana dimaksud pada ayat (1) huruf a dapat diberikan sekaligus dengan perpanjangan haknya, setelah mendapat sertifikat laik fungsi.
+
+(3) Pemberian hak guna bangunan bagi rumah susun sebagaimana dimaksud pada ayat (1) huruf b dapat diberikan perpanjangan dan pembaharuan hak apabila sudah mendapat sertifikat laik fungsi.
+
+### Paragraf 4 — Pemberian Hak Atas Tanah/Hak Pengelolaan pada Ruang Atas Tanah dan Ruang Bawah Tanah
+
+#### Pasal 146
+
+(1) Tanah atau ruang yang terbentuk pada ruang atas dan/atau bawah tanah dan digunakan untuk kegiatan tertentu dapat diberikan hak guna bangunan, hak pakai, atau hak pengelolaan.
+
+(2) Batas kepemilikan tanah pada ruang atas tanah oleh pemegang hak atas tanahnya diberikan sesuai dengan koefisien dasar bangunan, koefisien lantai bangunan, dan rencana tata ruang yang ditetapkan sesuai dengan ketentuan peraturan perundang-undangan.
+
+(3) Batas kepemilikan tanah pada ruang bawah tanah oleh pemegang hak atas tanahnya diberikan sesuai dengan batas kedalaman pemanfaatan yang diatur sesuai dengan ketentuan peraturan perundang-undangan.
+
+(4) Penggunaan dan pemanfaatan tanah pada ruang atas dan/atau bawah tanah oleh pemegang hak yang berbeda, dapat diberikan hak guna bangunan, hak pakai, atau hak pengelolaan.
+
+(5) Ketentuan lebih lanjut mengenai penggunaan tanah pada ruang atas tanah dan/atau ruang di bawah tanah sebagaimana dimaksud pada ayat (1), ayat (2), ayat (3), dan ayat (4) diatur dengan Peraturan Presiden.
+
+#### Pasal 147
+
+Tanda bukti hak atas tanah, hak milik atas satuan rumah susun, hak pengelolaan, dan hak tanggungan, termasuk akta peralihan hak atas tanah dan dokumen lainnya yang berkaitan dengan tanah dapat berbentuk elektronik.
+
+# BAB IX — KAWASAN EKONOMI
+
+## Bagian Kesatu — Umum
+
+#### Pasal 148
+
+Untuk menciptakan pekerjaan dan mempermudah Pelaku Usaha dalam melakukan investasi, Undang-Undang ini mengubah, menghapus, atau menetapkan pengaturan baru beberapa ketentuan yang diatur dalam:
+* a. Undang-Undang Nomor 39 Tahun 2009 tentang Kawasan Ekonomi Khusus (Lembaran Negara Republik Indonesia Tahun 2009 Nomor 147, Tambahan Lembaran Negara Republik Indonesia Nomor 5066);
+* b. Undang-Undang Nomor 36 Tahun 2000 tentang Penetapan Peraturan Pemerintah Pengganti Undang-Undang Nomor 1 Tahun 2000 tentang Kawasan Perdagangan Bebas dan Pelabuhan Bebas menjadi Undang-Undang (Lembaran Negara Republik Indonesia Tahun 2000 Nomor 251, Tambahan Lembaran Negara Republik Indonesia Nomor 4053) sebagaimana diubah dengan Undang Undang-Undang Nomor 44 Tahun 2007 tentang Penetapan Peraturan Pemerintah Pengganti Undang-Undang Nomor 1 Tahun 2007 tentang Perubahan atas Undang-Undang Nomor 36 Tahun 2000 tentang Penetapan Peraturan Pemerintah Pengganti Undang-Undang Nomor 1 Tahun 2000 tentang Kawasan Perdagangan Bebas dan Pelabuhan Bebas menjadi UndangUndang (Lembaran Negara Republik Indonesia Tahun 2007 Nomor 130, Tambahan Lembaran Negara Republik Indonesia Nomor 4775); dan
+* c. Undang-Undang Nomor 37 Tahun 2000 tentang Penetapan Peraturan Pemerintah Pengganti Undang-Undang Nomor 2 Tahun 2000 tentang Kawasan Perdagangan Bebas dan Pelabuhan Bebas Sabang Menjadi Undang-Undang (Lembaran Negara Republik Indonesia Tahun 2000 Nomor 252, Tambahan Lembaran Negara Republik Indonesia Nomor 4054).
+
+#### Pasal 149
+
+Kawasan Ekonomi terdiri atas:
+* a. Kawasan Ekonomi Khusus; dan
+* b. Kawasan Perdagangan Bebas dan Pelabuhan Bebas.
+
+## Bagian Kedua — Kawasan Ekonomi Khusus
+
+#### Pasal 150
+
+Beberapa ketentuan dalam Undang-Undang Nomor 39 Tahun 2009 tentang Kawasan Ekonomi Khusus (Lembaran Negara Republik Indonesia Tahun 2009 Nomor 147, Tambahan Lembaran Negara Republik Indonesia Nomor 5066) diubah:
+
+1. Ketentuan Pasal 1 angka 5, angka 6, dan angka 7 diubah sehingga Pasal 1 berbunyi sebagai berikut:
+
+> Pasal 1
+>
+> Dalam Undang-Undang ini yang dimaksud dengan:
+>
+> 1. Kawasan Ekonomi Khusus yang selanjutnya disebut KEK adalah kawasan dengan batas tertentu dalam wilayah hukum Negara Kesatuan Republik Indonesia yang ditetapkan untuk menyelenggarakan fungsi perekonomian dan memperoleh fasilitas tertentu.
+>
+> 2. Zona adalah area di dalam KEK dengan batas tertentu yang pemanfaatannya sesuai dengan peruntukannya.
+>
+> 3. Dewan Nasional adalah dewan yang dibentuk di tingkat nasional untuk menyelenggarakan KEK.
+>
+> 4. Dewan Kawasan adalah dewan yang dibentuk di tingkat provinsi, atau lebih dari satu provinsi, untuk membantu Dewan Nasional dalam penyelenggaraan KEK.
+>
+> 5. Administrator adalah unit kerja yang bertugas menyelenggarakan Perizinan Berusaha, perizinan lainnya, pelayanan, dan pengawasan di KEK.
+>
+> 6. Badan Usaha adalah badan usaha yang menyelenggarakan kegiatan usaha KEK.
+>
+> 7. Pelaku Usaha adalah Pelaku Usaha yang menjalankan kegiatan usaha di KEK.
+
+2. Ketentuan Pasal 3 diubah sehingga berbunyi sebagai berikut:
+
+> Pasal 3
+>
+> (1) Kegiatan usaha di KEK terdiri atas:
+> * a. produksi dan pengolahan;
+> * b. logistik dan distribusi;
+> * c. pengembangan teknologi;
+> * d. pariwisata;
+> * e. pendidikan;
+> * f. kesehatan;
+> * g. energi; dan/atau
+> * h. ekonomi lain.
+>
+> (2) Pelaksanaan kegiatan usaha pendidikan sebagaimana dimaksud pada ayat (1) huruf e hanya dapat dilakukan berdasarkan persetujuan yang diberikan oleh Pemerintah Pusat.
+>
+> (3) Pelaksanaan kegiatan usaha kesehatan sebagaimana dimaksud pada ayat (1) huruf f sesuai dengan persyaratan yang ditetapkan oleh Pemerintah Pusat.
+>
+> (4) Kegiatan ekonomi lain sebagaimana dimaksud pada ayat (1) huruf h ditetapkan oleh Dewan Nasional.
+>
+> (5) Di dalam KEK dapat dibangun fasilitas pendukung dan perumahan bagi pekerja.
+>
+> (6) Pelaksanaan kegiatan usaha sebagaimana dimaksud pada ayat (1) sesuai dengan zonasi di KEK.
+>
+> (7) Di dalam KEK disediakan lokasi untuk usaha mikro, kecil, menengah, dan koperasi, baik sebagai Pelaku Usaha maupun sebagai pendukung kegiatan perusahaan yang berada di dalam KEK.
+
+3. Ketentuan Pasal 4 diubah sehingga berbunyi sebagai berikut:
+
+> Pasal 4
+>
+> Lokasi yang dapat diusulkan untuk menjadi KEK memenuhi kriteria:
+> * a. sesuai dengan Rencana Tata Ruang Wilayah dan tidak berpotensi mengganggu kawasan lindung;
+> * b. mempunyai batas yang jelas; dan
+> * c. lahan yang diusulkan menjadi KEK paling sedikit 50% (lima puluh persen) dari yang direncanakan telah dikuasai sebagian atau seluruhnya.
+
+4. Ketentuan Pasal 5 diubah sehingga berbunyi sebagai berikut:
+
+> Pasal 5
+>
+> (1) Pembentukan KEK diusulkan kepada Dewan Nasional oleh:
+> * a. Badan Usaha; atau
+> * b. Pemerintah Daerah.
+>
+> (2) Badan Usaha sebagaimana dimaksud pada ayat (1) huruf a terdiri atas:
+> * a. badan usaha milik negara;
+> * b. badan usaha milik daerah;
+> * c. koperasi;
+> * d. badan usaha swasta berbentuk perseroan terbatas; atau
+> * e. badan usaha patungan atau konsorsium.
+>
+> (3) Pemerintah Daerah sebagaimana dimaksud pada ayat (1) huruf b terdiri atas:
+> * a. Pemerintah Daerah provinsi; atau
+> * b. Pemerintah Daerah kabupaten/kota.
+
+5. Ketentuan Pasal 6 diubah sehingga berbunyi sebagai berikut:
+
+> Pasal 6
+>
+> (1) Usulan sebagaimana dimaksud dalam Pasal 5 ayat (1) harus memenuhi kriteria sebagaimana dimaksud dalam Pasal 4.
+>
+> (2) Usulan sebagaimana dimaksud pada ayat (1) dilengkapi persyaratan paling sedikit:
+> * a. peta lokasi pengembangan serta luas area yang diusulkan yang terpisah dari permukiman penduduk;
+> * b. rencana tata ruang KEK yang diusulkan dilengkapi dengan pengaturan zonasi;
+> * c. rencana dan sumber pembiayaan;
+> * d. persetujuan Lingkungan;
+> * e. hasil studi kelayakan ekonomi dan finansial;
+> * f. jangka waktu suatu KEK dan rencana strategis; dan
+> * g. penguasaan lahan yang dikuasai paling sedikit 50% (lima puluh persen) dari yang direncanakan.
+
+6. Di antara Pasal 8 dan Pasal 9 disisipkan 1 (satu) pasal yakni Pasal 8A sehingga berbunyi sebagai berikut:
+
+> Pasal 8A
+>
+> Pemerintah Pusat dan Pemerintah Daerah wajib mendukung KEK yang telah ditetapkan sebagaimana dimaksud dalam Pasal 7 dan Pasal 8.
+
+7. Ketentuan Pasal 10 diubah sehingga berbunyi sebagai berikut:
+
+> Pasal 10
+>
+> Setelah KEK ditetapkan:
+> * a. Badan Usaha yang mengusulkan KEK ditetapkan sebagai pembangun dan pengelola KEK;
+> * b. Pemerintah Pusat atau Pemerintah Daerah sebagai pengusul menetapkan Badan Usaha untuk membangun dan mengelola KEK.
+
+8. Ketentuan Pasal 11 dihapus.
+
+9. Ketentuan Pasal 13 diubah sehingga berbunyi sebagai berikut:
+
+> Pasal 13
+>
+> (1) Pembiayaan untuk pembangunan dan pemeliharaan infrastruktur di dalam KEK dapat bersumber dari:
+> * a. Pemerintah Pusat dan/atau Pemerintah Daerah;
+> * b. swasta;
+> * c. kerja sama antara Pemerintah Pusat, Pemerintah Daerah, dan swasta; dan/atau
+> * d. sumber lain yang sah sesuai dengan ketentuan peraturan perundang-undangan.
+>
+> (2) Dewan Nasional dapat menetapkan kebijakan tersendiri dalam kerja sama antara Pemerintah Pusat, Pemerintah Daerah, dan swasta dalam pembangunan dan pemeliharaan infrastruktur di dalam KEK.
+
+10. Ketentuan Pasal 16 diubah sehingga berbunyi sebagai berikut:
+
+> Pasal 16
+>
+> (1) Dewan Nasional diketuai oleh menteri yang mengoordinasikan urusan pemerintahan di bidang perekonomian dan beranggotakan menteri dan kepala lembaga pemerintah nonkementerian.
+>
+> (2) Untuk membantu pelaksanaan tugas Dewan Nasional sebagaimana dimaksud pada ayat (1) dibentuk Sekretariat Jenderal Dewan Nasional.
+>
+> (3) Ketentuan mengenai Dewan Nasional dan Sekretariat Jenderal Dewan Nasional sebagaimana dimaksud pada ayat (1) dan ayat (2) diatur dengan Peraturan Pemerintah.
+
+11. Ketentuan Pasal 17 diubah sehingga berbunyi sebagai berikut:
+
+> Pasal 17
+>
+> Dewan Nasional bertugas:
+> * a. menetapkan strategi dan kebijakan umum pembentukan dan pengembangan KEK;
+> * b. membentuk Administrator;
+> * c. menetapkan standar pengelolaan di KEK;
+> * d. melakukan pengkajian atas usulan suatu wilayah untuk dijadikan KEK;
+> * e. memberikan rekomendasi pembentukan KEK;
+> * f. mengkaji dan merekomendasikan langkah pengembangan di wilayah yang potensinya belum berkembang;
+> * g. menyelesaikan permasalahan strategis dalam pelaksanaan, pengelolaan, dan pengembangan KEK; dan
+> * h. memantau dan mengevaluasi keberlangsungan KEK serta merekomendasikan langkah tindak lanjut hasil evaluasi kepada Presiden, termasuk mengusulkan pencabutan status KEK.
+
+12. Ketentuan Pasal 19 diubah sehingga berbunyi sebagai berikut:
+
+> Pasal 19
+>
+> (1) Dewan Kawasan dapat dibentuk sesuai kebutuhan di tingkat provinsi yang sebagian wilayahnya ditetapkan sebagai KEK.
+>
+> (2) Dalam hal suatu KEK wilayahnya mencakup lebih dari 1 (satu) provinsi dapat dibentuk 1 (satu) Dewan Kawasan dengan melibatkan provinsi yang bersangkutan.
+>
+> (3) Dewan Kawasan sebagaimana dimaksud pada ayat (1) dan ayat (2) diusulkan oleh Dewan Nasional kepada Presiden untuk ditetapkan dengan Keputusan Presiden.
+>
+> (4) Dewan Kawasan sebagaimana dimaksud pada ayat (1) dan ayat (2) bertanggung jawab kepada Dewan Nasional.
+>
+> (5) Untuk membantu pelaksanaan tugas Dewan Kawasan, dibentuk Sekretariat Dewan Kawasan.
+
+13. Ketentuan Pasal 20 dihapus.
+
+14. Ketentuan Pasal 21 diubah sehingga berbunyi sebagai berikut:
+
+> Pasal 21
+>
+> Dewan Kawasan bertugas:
+> * a. melaksanakan strategi dan kebijakan umum yang telah ditetapkan oleh Dewan Nasional dalam pembentukan dan pengembangan KEK;
+> * b. membantu Dewan Nasional dalam mengawasi pelaksanaan tugas Administrator KEK;
+> * c. menetapkan langkah strategis penyelesaian permasalahan dalam pelaksanaan kegiatan KEK di wilayah kerjanya;
+> * d. menyampaikan laporan pengelolaan KEK kepada Dewan Nasional setiap akhir tahun; dan
+> * e. menyampaikan laporan insidental dalam hal terdapat permasalahan strategis kepada Dewan Nasional.
+
+15. Ketentuan Pasal 22 diubah sehingga berbunyi sebagai berikut:
+
+> Pasal 22
+>
+> (1) Dalam melaksanakan tugas sebagaimana dimaksud dalam Pasal 21, Dewan Kawasan dapat:
+> * a. meminta penjelasan Administrator KEK mengenai penyelenggaraan Perizinan Berusaha, perizinan lainnya, pelayanan, dan pengawasan di KEK;
+> * b. meminta masukan dan/atau bantuan kepada instansi Pemerintah Pusat atau para ahli sesuai dengan kebutuhan; dan/atau
+> * c. melakukan kerja sama dengan pihak lain sesuai dengan kebutuhan.
+>
+> (2) Ketentuan lebih lanjut mengenai Dewan Kawasan sebagaimana dimaksud pada ayat (1) diatur dengan Peraturan Pemerintah.
+
+16. Ketentuan Pasal 23 diubah sehingga berbunyi sebagai berikut:
+
+> Pasal 23
+>
+> (1) Administrator bertugas menyelenggarakan:
+> * a. Perizinan Berusaha dan perizinan lainnya yang diperlukan oleh Badan Usaha dan Pelaku Usaha;
+> * b. pelayanan non perizinan yang diperlukan oleh Badan Usaha dan Pelaku Usaha; dan
+> * c. pengawasan dan pengendalian operasionalisasi KEK.
+>
+> (2) Pelaksanaan tugas Administrator sebagaimana dimaksud pada ayat (1) sesuai dengan norma, standar, prosedur, dan kriteria yang ditetapkan oleh Pemerintah Pusat.
+>
+> (3) Dalam melaksanakan tugas sebagaimana dimaksud pada ayat (1) Administrator menyampaikan laporan kepada Dewan Nasional dengan tembusan kepada Dewan Kawasan.
+
+17. Ketentuan Pasal 24 diubah sehingga berbunyi sebagai berikut:
+
+> Pasal 24
+>
+> Dalam melaksanakan pengawasan dan pengendalian operasionalisasi KEK sebagaimana dimaksud dalam Pasal 23 ayat (1) huruf c, Administrator berwenang untuk mendapatkan laporan atau penjelasan dari Badan Usaha dan/atau Pelaku Usaha mengenai kegiatannya.
+
+18. Di antara Pasal 24 dan Pasal 25 disisipkan 3 (tiga) pasal yakni Pasal 24A, Pasal 24B, dan Pasal 24C sehingga berbunyi sebagai berikut:
+
+> Pasal 24A
+>
+> (1) Pelaksanaan tugas Administrator dilakukan sesuai dengan tata kelola pemerintahan dan asas-asas umum pemerintahan yang baik sesuai dengan ketentuan peraturan perundang-undangan.
+>
+> (2) Administrator dapat dijabat oleh aparatur sipil negara atau non aparatur sipil negara yang memiliki kompetensi, kualifikasi, dan persyaratan lain yang dipilih secara selektif sesuai dengan kriteria dan kualifikasi yang ditentukan oleh Dewan Nasional.
+>
+> Pasal 24B
+>
+> Ketentuan lebih lanjut mengenai Administrator sebagaimana dimaksud dalam Pasal 23, Pasal 24, dan Pasal 24A diatur dengan Peraturan Pemerintah.
+>
+> Pasal 24C
+>
+> (1) Administrator dapat menerapkan pola pengelolaan keuangan Badan Layanan Umum.
+>
+> (2) Penerapan pola pengelolaan keuangan Badan Layanan Umum sebagaimana dimaksud pada ayat (1) diatur dengan Peraturan Pemerintah.
+
+19. Ketentuan Pasal 25 diubah sehingga berbunyi sebagai berikut:
+
+> Pasal 25
+>
+> (1) Dewan Nasional, Sekretariat Jenderal Dewan Nasional, Dewan Kawasan, Sekretariat Dewan Kawasan, dan Administrator KEK memperoleh pembiayaan yang bersumber dari:
+> * a. Anggaran Pendapatan dan Belanja Negara;
+> * b. Anggaran Pendapatan dan Belanja Daerah; dan/atau
+> * c. sumber lain sesuai dengan ketentuan peraturan perundang-undangan.
+>
+> (2) Ketentuan lebih lanjut mengenai sumber pembiayaan sebagaimana dimaksud pada ayat (1) diatur dengan Peraturan Pemerintah.
+
+20. Ketentuan Pasal 26 diubah sehingga berbunyi sebagai berikut:
+
+> Pasal 26
+>
+> (1) Badan Usaha yang melakukan pembangunan dan pengelolaan KEK sebagaimana dimaksud dalam Pasal 10 huruf a, bertugas:
+> * a. membangun dan mengembangkan sarana dan prasarana di dalam KEK;
+> * b. menyelenggarakan pengelolaan pelayanan sarana dan prasarana kepada Pelaku Usaha; dan
+> * c. menyelenggarakan promosi.
+>
+> (2) Penyelenggaraan promosi sebagaimana dimaksud pada ayat (2) huruf c, dapat dilakukan secara terpadu dengan promosi yang dilaksanakan oleh kementerian/lembaga pemerintah non kementerian dan/atau Pemerintah Daerah terkait.
+
+21. Ketentuan Pasal 27 diubah sehingga berbunyi sebagai berikut:
+
+> Pasal 27
+>
+> (1) Di dalam KEK berlaku ketentuan larangan impor dan ekspor yang diatur berdasarkan ketentuan peraturan perundang-undangan.
+>
+> (2) Terhadap impor barang ke KEK belum diberlakukan ketentuan pembatasan.
+>
+> (3) Bagi barang yang membahayakan Kesehatan, Keselamatan, Keamanan dan Lingkungan (K3L) dapat dikenai pembatasan apabila barang dimaksud bukan merupakan bahan baku bagi kegiatan usaha dan institusi teknis terkait secara khusus memberlakukan ketentuan pembatasan di KEK.
+>
+> (4) Pelaksanaan ketentuan mengenai impor dan ekspor dilakukan melalui sistem elektronik yang terintegrasi secara nasional.
+>
+> (5) Pemerintah Pusat mengembangkan sistem elektronik yang terintegrasi secara nasional sebagaimana dimaksud pada ayat (4).
+
+22. Ketentuan Pasal 30 diubah sehingga berbunyi sebagai berikut:
+
+> Pasal 30
+>
+> (1) Wajib pajak yang melakukan kegiatan usaha di KEK diberikan fasilitas Pajak Penghasilan.
+>
+> (2) Selain fasilitas Pajak Penghasilan sebagaimana dimaksud pada ayat (1), dapat diberikan tambahan fasilitas Pajak Penghasilan sesuai dengan jenis kegiatan usaha di KEK.
+>
+> (3) Ketentuan lebih lanjut mengenai pemberian fasilitas Pajak Penghasilan sebagaimana dimaksud pada ayat (1) dan ayat (2) diatur dengan atau berdasarkan Peraturan Pemerintah.
+
+23. Ketentuan Pasal 31 dihapus.
+
+24. Ketentuan Pasal 32 diubah sehingga berbunyi sebagai berikut:
+
+> Pasal 32
+>
+> (1) Impor barang ke KEK diberikan fasilitas berupa:
+> * a. pembebasan atau penangguhan bea masuk;
+> * b. pembebasan cukai, sepanjang barang tersebut merupakan bahan baku atau bahan penolong produksi;
+> * c. tidak dipungut Pajak Pertambahan Nilai atau Pajak Pertambahan Nilai dan Pajak Penjualan atas Barang Mewah untuk barang kena pajak; dan
+> * d. tidak dipungut Pajak Penghasilan impor.
+>
+> (2) Penyerahan Barang Kena Pajak berwujud dari Tempat Lain Dalam Daerah Pabean, Kawasan Perdagangan Bebas dan Pelabuhan Bebas, dan Tempat Penimbunan Berikat ke KEK diberikan fasilitas tidak dipungut Pajak Pertambahan Nilai atau Pajak Pertambahan Nilai dan Pajak Penjualan atas Barang Mewah.
+>
+> (3) Pemanfaatan Barang Kena Pajak tidak berwujud serta Jasa Kena Pajak di KEK diberikan fasilitas tidak dipungut Pajak Pertambahan Nilai atau Pajak Pertambahan Nilai dan Pajak Penjualan atas Barang Mewah.
+>
+> (4) Penyerahan Barang Kena Pajak berwujud, Barang Kena Pajak tidak berwujud, dan Jasa Kena Pajak dari KEK ke Tempat Lain Dalam Daerah Pabean dikenai Pajak Pertambahan Nilai atau Pajak Pertambahan Nilai dan Pajak Penjualan atas Barang Mewah kecuali ditujukan ke kawasan atau pihak yang mendapatkan fasilitas Pajak Pertambahan Nilai atau Pajak Pertambahan Nilai dan Pajak Penjualan atas Barang Mewah.
+>
+> (5) Ketentuan mengenai kriteria dan rincian Barang Kena Pajak berwujud, Barang Kena Pajak tidak berwujud dan/atau Jasa Kena Pajak sebagaimana dimaksud pada ayat (1), ayat (2), dan ayat (3) diatur dengan atau berdasarkan Peraturan Pemerintah.
+
+25. Di antara Pasal 32 dan Pasal 33 disisipkan 1 (satu) pasal, yakni Pasal 32A sehingga berbunyi sebagai berikut:
+
+> Pasal 32A
+>
+> (1) Impor barang konsumsi ke KEK yang kegiatan utamanya bukan produksi dan pengolahan diberikan fasilitas:
+> * a. bagi barang konsumsi yang bukan Barang Kena Cukai dengan jumlah dan jenis tertentu sesuai dengan bidang usahanya diberikan fasilitas pembebasan bea masuk dan tidak dipungut pajak dalam rangka impor; dan
+> * b. bagi barang konsumsi yang berupa Barang Kena Cukai dikenakan cukai dan diberikan fasilitas pembebasan bea masuk dan tidak dipungut pajak dalam rangka impor.
+>
+> (2) Barang konsumsi asal impor yang dikeluarkan ke tempat lain dalam daerah pabean, dilunasi bea masuk, pajak dalam rangka impor, dan/atau cukai bagi Barang Kena Cukai.
+
+26. Di antara Pasal 33 dan Pasal 34 disisipkan 1 (satu) pasal, yakni Pasal 33A sehingga berbunyi sebagai berikut:
+
+> Pasal 33A
+>
+> (1) Administrator dapat ditetapkan untuk melakukan kegiatan pelayanan kepabeanan mandiri berdasarkan kriteria yang ditetapkan oleh menteri yang menyelenggarakan urusan pemerintahan di bidang keuangan.
+>
+> (2) Pengawasan dan pelayanan atas perpindahan barang di dalam KEK, dilakukan secara manual dan/atau menggunakan teknologi informasi yang terhubung dengan kementerian yang menyelenggarakan urusan pemerintahan di bidang keuangan.
+
+27. Ketentuan Pasal 35 diubah sehingga berbunyi sebagai berikut:
+
+> Pasal 35
+>
+> (1) Wajib pajak yang melakukan usaha di KEK diberikan insentif berupa pembebasan atau keringanan pajak daerah dan retribusi daerah sesuai dengan ketentuan peraturan perundang-undangan.
+>
+> (2) Insentif sebagaimana dimaksud pada ayat (1) dapat berupa pengurangan Bea Perolehan Hak atas Tanah dan Bangunan dan pengurangan Pajak Bumi dan Bangunan.
+>
+> (3) Selain insentif pajak daerah dan retribusi daerah sebagaimana dimaksud pada ayat (1), Pemerintah Daerah dapat memberikan fasilitas dan kemudahan lain.
+
+28. Ketentuan Pasal 36 diubah sehingga berbunyi sebagai berikut:
+
+> Pasal 36
+>
+> (1) Di KEK diberikan kemudahan, percepatan, dan prosedur khusus dalam memperoleh hak atas tanah, pemberian perpanjangan, dan/atau pembaharuannya.
+>
+> (2) Ketentuan sebagaimana dimaksud pada ayat (1) diatur dengan peraturan menteri yang menyelenggarakan urusan pemerintahan di bidang agraria/pertanahan setelah mendapat persetujuan dari Dewan Nasional.
+
+29. Ketentuan Pasal 38 diubah sehingga berbunyi sebagai berikut:
+
+> Pasal 38
+>
+> (1) Di KEK diberikan kemudahan dan keringanan di bidang Perizinan Berusaha, perizinan lainnya, kegiatan usaha, perindustrian, perdagangan, kepelabuhan, dan keimigrasian bagi orang asing, serta diberikan fasilitas keamanan.
+>
+> (2) Ketentuan mengenai kemudahan dan keringanan sebagaimana dimaksud pada ayat (1) diatur dengan atau berdasarkan Peraturan Pemerintah.
+
+30. Di antara Pasal 38 dan Pasal 39 disisipkan 1 (satu) pasal, yakni Pasal 38A sehingga berbunyi sebagai berikut:
+
+> Pasal 38A
+>
+> Penetapan KEK yang menyelenggarakan kegiatan usaha yang terkait dengan perindustrian sekaligus sebagai penetapan kawasan industri sebagaimana dimaksud dalam Undang-Undang yang mengatur mengenai Perindustrian.
+
+31. Ketentuan Pasal 40 diubah sehingga berbunyi sebagai berikut:
+
+> Pasal 40
+>
+> (1) Selain pemberian fasilitas dan kemudahan sebagaimana dimaksud dalam Pasal 30 sampai dengan Pasal 39, Badan Usaha dan Pelaku Usaha di KEK berdasarkan Undang-Undang ini, Pemerintah Pusat dapat memberikan fasilitas dan kemudahan lain.
+>
+> (2) Ketentuan mengenai bentuk fasilitas dan kemudahan lain sebagaimana dimaksud pada ayat (1) diatur dengan Peraturan Pemerintah.
+
+32. Ketentuan Pasal 41 diubah sehingga berbunyi sebagai berikut:
+
+> Pasal 41
+>
+> Pengesahan rencana penggunaan tenaga kerja asing yang mempunyai jabatan sebagai direksi atau komisaris diberikan sekali dan berlaku selama tenaga kerja asing yang bersangkutan menjadi direksi atau komisaris.
+
+33. Ketentuan Pasal 43 diubah sehingga berbunyi sebagai berikut:
+
+> Pasal 43
+>
+> (1) Dalam KEK dapat dibentuk Lembaga Kerja Sama Tripartit Khusus oleh gubernur.
+>
+> (2) Ketentuan lebih lanjut mengenai Lembaga Kerja Sama Tripartit Khusus sebagaimana dimaksud pada ayat (1) diatur dengan Peraturan Pemerintah.
+
+34. Ketentuan Pasal 44 dihapus.
+
+35. Ketentuan Pasal 45 dihapus.
+
+36. Ketentuan Pasal 47 diubah sehingga berbunyi sebagai berikut:
+
+> Pasal 47
+>
+> Pada perusahaan yang telah terbentuk serikat pekerja/serikat buruh dibuat perjanjian kerja bersama antara serikat pekerja/serikat buruh dan pengusaha.
+
+37. Ketentuan Pasal 48 diubah sehingga berbunyi sebagai berikut:
+
+> Pasal 48
+>
+> (1) Pada saat Undang-Undang ini mulai berlaku, sebagian atau seluruh Kawasan Perdagangan Bebas dan Pelabuhan Bebas, yaitu Batam, Bintan, dan Karimun, yang dibentuk berdasarkan Undang-Undang Nomor 36 Tahun 2000 tentang Penetapan Peraturan Pemerintah Pengganti Undang-Undang Nomor 1 Tahun 2000 tentang Kawasan Perdagangan Bebas dan Pelabuhan Bebas Menjadi Undang-Undang (Lembaran Negara Republik Indonesia Tahun 2000 Nomor 251, Tambahan Lembaran Negara Republik Indonesia Nomor 4053) sebagaimana telah diubah dengan Undang-Undang Nomor 44 Tahun 2007 tentang Penetapan Peraturan Pemerintah Pengganti Undang-Undang Nomor 1 Tahun 2007 tentang Perubahan atas Undang-Undang Nomor 36 Tahun 2000 tentang Penetapan Peraturan Pemerintah Pengganti Undang-Undang Nomor 1 Tahun 2000 tentang Kawasan Perdagangan Bebas dan Pelabuhan Bebas Menjadi Undang-Undang Menjadi Undang-Undang (Lembaran Negara Republik Indonesia Tahun 2007 Nomor 130, Tambahan Lembaran Negara Republik Indonesia Nomor 4775), sebelum atau sesudah jangka waktu yang ditetapkan berakhir, dapat ditetapkan menjadi KEK.
+>
+> (2) Penetapan sebagian atau seluruh Kawasan Perdagangan Bebas dan Pelabuhan Bebas Batam, Bintan, dan Karimun menjadi KEK sebagaimana dimaksud pada ayat (1) berdasarkan usulan Dewan Kawasan Perdagangan Bebas dan Pelabuhan Bebas Batam, Bintan, dan Karimun.
+>
+> (3) Dalam hal Kawasan Perdagangan Bebas dan Pelabuhan Bebas sebagaimana dimaksud pada ayat (1) tidak ditetapkan menjadi KEK, Kawasan Perdagangan Bebas dan Pelabuhan Bebas berakhir sesuai dengan jangka waktu yang telah ditetapkan.
+>
+> (4) Ketentuan mengenai pengusulan dan penetapan KEK sebagaimana dimaksud pada ayat (2) diatur dengan Peraturan Pemerintah.
+>
+> (5) Kawasan Perdagangan Bebas dan Pelabuhan Bebas yang tidak ditetapkan menjadi KEK sebagaimana dimaksud pada ayat (3) yang lokasinya terpisah dari permukiman penduduk, dapat diterapkan ketentuan lalu lintas barang dan/atau diberikan fasilitas dan kemudahan KEK.
+>
+> (6) Ketentuan mengenai pengusulan dan penetapan KEK sebagaimana dimaksud pada ayat (2) dan penerapan ketentuan lalu lintas barang dan/atau pemberian fasilitas dan kemudahan KEK sebagaimana dimaksud pada ayat (4) diatur dengan Peraturan Pemerintah.
+
+## Bagian Ketiga — Kawasan Perdagangan Bebas dan Pelabuhan Bebas
+
+### Paragraf 1 — Umum
+
+#### Pasal 151
+
+(1) Kawasan Perdagangan Bebas dan Pelabuhan Bebas sebagaimana dimaksud dalam Pasal 141 huruf b terdiri atas:
+* a. Kawasan Perdagangan Bebas dan Pelabuhan Bebas; dan
+* b. Kawasan Perdagangan Bebas dan Pelabuhan Bebas Sabang.
+
+(2) Kawasan Perdagangan Bebas dan Pelabuhan Bebas sebagaimana dimaksud pada ayat (1) huruf a terdiri atas:
+* a. Kawasan Perdagangan Bebas dan Pelabuhan Bebas Batam;
+* b. Kawasan Perdagangan Bebas dan Pelabuhan Bebas Bintan; dan
+* c. Kawasan Perdagangan Bebas dan Pelabuhan Bebas Karimun.
+
+### Paragraf 2 — Kawasan Perdagangan Bebas dan Pelabuhan Bebas
+
+#### Pasal 152
+
+Beberapa ketentuan dalam Undang-Undang Nomor 36 Tahun 2000 tentang Penetapan Peraturan Pemerintah Pengganti Undang-Undang Nomor 1 Tahun 2000 tentang Kawasan Perdagangan Bebas dan Pelabuhan Bebas menjadi UndangUndang (Lembaran Negara Republik Indonesia Tahun 2000 Nomor 251, Tambahan Lembaran Negara Republik Indonesia Nomor 4053) sebagaimana diubah dengan Undang UndangUndang Nomor 44 Tahun 2007 tentang Penetapan Peraturan Pemerintah Pengganti Undang-Undang Nomor 1 Tahun 2007 tentang Perubahan atas Undang-Undang Nomor 36 Tahun 2000 tentang Penetapan Peraturan Pemerintah Pengganti UndangUndang Nomor 1 Tahun 2000 tentang Kawasan Perdagangan Bebas dan Pelabuhan Bebas menjadi Undang-Undang (Lembaran Negara Republik Indonesia Tahun 2007 Nomor 130, Tambahan Lembaran Negara Republik Indonesia Nomor 4775) diubah:
+
+1. Ketentuan Pasal 6 diubah sehingga berbunyi sebagai berikut:
+
+> Pasal 6
+>
+> (1) Presiden menetapkan Dewan Kawasan Perdagangan Bebas dan Pelabuhan Bebas di daerah, yang selanjutnya disebut Dewan Kawasan.
+>
+> (2) Ketentuan lebih lanjut mengenai penetapan Dewan Kawasan sebagaimana dimaksud pada ayat (1) diatur dengan Peraturan Pemerintah.
+
+2. Ketentuan Pasal 7 diubah sehingga berbunyi sebagai berikut:
+
+> Pasal 7
+>
+> (1) Dewan Kawasan membentuk Badan Pengusahaan Kawasan Perdagangan Bebas dan Pelabuhan Bebas yang selanjutnya disebut Badan Pengusahaan.
+>
+> (2) Kepala dan Anggota Badan Pengusahaan ditetapkan oleh Dewan Kawasan.
+>
+> (3) Badan Pengusahaan bertanggung jawab kepada Dewan Kawasan.
+>
+> (4) Ketentuan lebih lanjut mengenai pembentukan Badan Pengusahaan dan, penetapan Kepala dan Anggota Badan Pengusahaan diatur dengan Peraturan Pemerintah.
+
+3. Ketentuan Pasal 10 diubah sehingga berbunyi sebagai berikut:
+
+> Pasal 10
+>
+> (1) Untuk memperlancar kegiatan Kawasan Perdagangan Bebas dan Pelabuhan Bebas, Badan Pengusahaan diberi wewenang mengeluarkan Perizinan Berusaha dan perizinan lainnya yang diperlukan bagi para pengusaha yang mendirikan dan menjalankan usaha di Kawasan Perdagangan Bebas dan Pelabuhan Bebas.
+>
+> (2) Ketentuan lebih lanjut mengenai pelaksanaan wewenang sebagaimana dimaksud pada ayat (1) diatur dengan Peraturan Pemerintah.
+
+4. Ketentuan Pasal 11 diubah sehingga berbunyi sebagai berikut:
+
+Pasal 11
+
+(1) Barang yang terkena ketentuan larangan, dilarang dimasukkan ke Kawasan Perdagangan Bebas dan Pelabuhan Bebas.
+
+(2) Pemasukan dan pengeluaran barang ke dan dari Kawasan Perdagangan Bebas dan Pelabuhan Bebas hanya dapat dilakukan oleh pengusaha yang telah memenuhi Perizinan Berusaha dari Badan Pengusahaan.
+
+(3) Pengusaha sebagaimana dimaksud pada ayat (2) hanya dapat memasukkan barang ke Kawasan Perdagangan Bebas dan Pelabuhan Bebas yang berhubungan dengan kegiatan usahanya.
+
+(4) Pemasukan dan pengeluaran barang ke dan dari Kawasan Perdagangan Bebas dan Pelabuhan Bebas melalui pelabuhan dan bandar udara yang ditunjuk dan berada di bawah pengawasan pabean diberikan pembebasan bea masuk, pembebasan pajak pertambahan nilai, dan pembebasan pajak penjualan atas barang mewah.
+
+(5) Fasilitas sebagaimana dimaksud pada ayat (4) termasuk juga pembebasan cukai sesuai dengan ketentuan perundang-undangan di bidang cukai.
+
+(6) Pemasukan dan pengeluaran barang ke dan dari Kawasan Perdagangan Bebas dan Pelabuhan Bebas ke Daerah Pabean diberlakukan tata laksana kepabeanan di bidang impor dan ekspor dan ketentuan di bidang cukai.
+
+(7) Pemasukan barang konsumsi dari luar Daerah Pabean untuk kebutuhan penduduk di Kawasan Perdagangan Bebas dan Pelabuhan Bebas diberikan pembebasan bea masuk, pajak pertambahan nilai, dan pajak penjualan atas barang mewah.
+
+(8) Jumlah dan jenis barang yang diberikan fasilitas sebagaimana dimaksud pada ayat (7) ditetapkan oleh Badan Pengusahaan.
+
+### Paragraf 3 — Kawasan Perdagangan Bebas dan Pelabuhan Bebas Sabang
+
+#### Pasal 153
+
+Ketentuan Pasal 9 Undang-Undang Nomor 37 Tahun 2000 tentang Penetapan Peraturan Pemerintah Pengganti UndangUndang Nomor 2 Tahun 2000 tentang Kawasan Perdagangan Bebas dan Pelabuhan Bebas Sabang Menjadi Undang-Undang (Lembaran Negara Republik Indonesia Tahun 2000 Nomor 252, Tambahan Lembaran Negara Republik Indonesia Nomor 4054) diubah sehingga berbunyi sebagai berikut:
+
+> Pasal 9
+>
+> (1) Barang-barang yang terkena ketentuan larangan, dilarang dimasukkan ke Kawasan Sabang.
+>
+> (2) Pemasukan dan pengeluaran barang ke dan dari Kawasan Sabang hanya dapat dilakukan oleh pengusaha yang telah mendapat Perizinan Berusaha dari Badan Pengusahaan Kawasan Sabang.
+>
+> (3) Pengusaha sebagaimana dimaksud pada ayat (2) hanya dapat memasukan barang ke Kawasan Sabang yang berhubungan dengan kegiatan usahanya.
+>
+> (4) Pemasukan dan pengeluaran barang ke dan dari Kawasan Sabang melalui pelabuhan dan bandar Udara yang ditunjuk dan berada di bawah pengawasan pabean diberikan pembebasan bea masuk, pembebasan pajak pertambahan nilai, dan pembebasan pajak penjualan atas barang mewah.
+>
+> (5) Fasilitas sebagaimana dimaksud pada ayat (4) termasuk juga pembebasan cukai sesuai dengan ketentuan perundang-undangan di bidang cukai.
+>
+> (6) Pemasukan dan pengeluaran barang ke dan dari Kawasan Sabang ke Daerah Pabean diberlakukan tata laksana kepabeanan di bidang impor dan ekspor dan ketentuan di bidang cukai.
+>
+> (7) Pemasukan barang konsumsi dari luar Daerah Pabean untuk kebutuhan penduduk di Kawasan Sabang diberikan pembebasan bea masuk, pajak pertambahan nilai, dan pajak penjualan atas barang mewah.
+>
+> (8) Jumlah dan jenis barang yang diberikan fasilitas sebagaimana dimaksud pada ayat (7) ditetapkan oleh Badan Pengusahaan Kawasan Sabang.
+
+# BAB X — INVESTASI PEMERINTAH PUSAT DAN KEMUDAHAN PROYEK STRATEGIS NASIONAL
+
+## Bagian Kesatu — Investasi Pemerintah Pusat
+
+### Paragraf 1 — Umum
+
+#### Pasal 154
+
+> (1) Investasi Pemerintah Pusat sebagaimana dimaksud dalam Pasal 4 huruf a dilakukan dalam rangka meningkatkan investasi dan penguatan perekonomian untuk mendukung kebijakan strategis penciptaan kerja.
+>
+> (2) Maksud dan tujuan investasi Pemerintah Pusat sebagaimana dimaksud pada ayat (1) meliputi:
+> * a. memperoleh manfaat ekonomi, manfaat sosial, dan/atau manfaat lainnya yang ditetapkan sebelumnya;
+> * b. memberikan sumbangan bagi perkembangan perekonomian nasional pada umumnya dan penerimaan negara pada khususnya;
+> * c. memperoleh keuntungan; dan/atau
+> * d. menyelenggarakan kemanfaatan umum termasuk namun tidak terbatas pada penciptaan lapangan kerja.
+>
+> (3) Investasi Pemerintah Pusat sebagaimana dimaksud pada ayat (1) dilaksanakan oleh:
+> * a. Menteri Keuangan selaku Bendahara Umum Negara sesuai dengan ketentuan peraturan perundangundangan yang mengatur mengenai investasi Pemerintah Pusat; dan/atau
+> * b. lembaga yang diberikan kewenangan khusus (sui generis) dalam rangka pengelolaan investasi, yang selanjutnya disebut Lembaga.
+>
+> (4) Menteri Keuangan selaku Bendahara Umum Negara dan Lembaga dalam melaksanakan investasi sebagaimana dimaksud pada ayat (3) berwenang untuk:
+> * a. melakukan penempatan dana dalam bentuk instrumen keuangan;
+> * b. melakukan kegiatan pengelolaan aset;
+> * c. melakukan kerja sama dengan pihak lain termasuk entitas dana perwalian (trust fund);
+> * d. menentukan calon mitra investasi;
+> * e. memberikan dan menerima pinjaman; dan/atau
+> * f. menatausahakan aset yang dimilikinya.
+
+#### Pasal 155
+
+(1) Dalam melaksanakan investasi sebagaimana dimaksud dalam Pasal 154 ayat (3) huruf a, Menteri Keuangan dapat menetapkan dan/atau menunjuk badan layanan umum, badan usaha milik negara, dan/atau badan hukum lainnya.
+
+(2) Menteri Keuangan membentuk Rekening Investasi Bendahara Umum Negara untuk menampung dana investasi Pemerintah Pusat.
+
+(3) Dana yang ditampung dalam Rekening Investasi Bendahara Umum Negara sebagaimana dimaksud pada ayat (2) dapat digunakan kembali secara langsung untuk mendapatkan manfaat ekonomi, manfaat sosial, dan/atau manfaat lainnya.
+
+(4) Tata kelola investasi Pemerintah Pusat oleh Menteri Keuangan selaku Bendahara Umum Negara sepanjang tidak diatur secara khusus berdasarkan Undang-Undang ini dilaksanakan sesuai dengan ketentuan peraturan perundang-undangan.
+
+#### Pasal 156
+
+(1) Dalam melaksanakan investasi sebagaimana dimaksud dalam Pasal 154 ayat (3) huruf b, Pemerintah Pusat membentuk Lembaga.
+
+(2) Lembaga sebagaimana dimaksud pada ayat (1) merupakan badan hukum Indonesia yang sepenuhnya dimiliki oleh Pemerintah Indonesia.
+
+(3) Lembaga sebagaimana dimaksud pada ayat (1) bertanggung jawab kepada Presiden.
+
+#### Pasal 157
+
+(1) Investasi Pemerintah Pusat yang dilakukan oleh Lembaga sebagaimana dimaksud dalam Pasal 154 ayat (3) huruf b dapat bersumber dari aset negara, aset badan usaha milik negara, dan/atau sumber lain yang sah.
+
+(2) Aset negara dan aset badan usaha milik negara yang dijadikan investasi Pemerintah Pusat pada Lembaga sebagaimana dimaksud pada ayat (1) dipindahtangankan menjadi aset Lembaga yang selanjutnya menjadi milik dan tanggung jawab Lembaga.
+
+(3) Aset negara dan aset badan usaha milik negara yang dijadikan investasi Pemerintah Pusat pada Lembaga, dengan persetujuan Lembaga dapat dipindahtangankan secara langsung kepada perusahaan patungan yang dibentuk oleh Lembaga.
+
+(4) Pemindahtanganan aset sebagaimana dimaksud pada ayat (2) dan ayat (3) dilakukan dengan cara jual beli, dijadikan penyertaan modal, atau cara lain sesuai dengan ketentuan peraturan perundang-undangan.
+
+(5) Aset negara yang dipindahtangankan menjadi aset Lembaga sebagaimana dimaksud pada ayat (2) atau menjadi aset perusahaan patungan yang dibentuk oleh Lembaga sebagaimana dimaksud pada ayat (3) tidak dalam sengketa dan tidak terdapat kepemilikan atas hak istimewa pihak manapun.
+
+(6) Aset badan usaha milik negara yang dipindahtangankan menjadi aset Lembaga sebagaimana dimaksud pada ayat (2) atau menjadi aset perusahaan patungan yang dibentuk oleh Lembaga sebagaimana dimaksud pada ayat (3) tidak dalam sengketa, tidak sedang dilakukan sita pidana atau perdata, dan tidak terdapat kepemilikan atas hak istimewa pihak manapun kecuali disepakati oleh pemilik hak.
+
+(7) Ketentuan mengenai pemindahtanganan aset badan usaha milik negara kepada Lembaga sebagaimana dimaksud pada ayat (2) atau kepada perusahaan patungan yang dibentuk oleh Lembaga sebagaimana dimaksud pada ayat (3) ditetapkan dalam Rapat Umum Pemegang Saham (RUPS) untuk Perusahaan Perseroan (Persero) atau ditetapkan oleh menteri yang menyelenggarakan urusan pemerintahan di bidang badan usaha milik negara untuk Perusahaan Umum (Perum).
+
+(8) Ketentuan lebih lanjut mengenai pemindahtanganan aset negara kepada Lembaga sebagaimana dimaksud pada ayat (2) atau kepada perusahaan patungan yang dibentuk oleh Lembaga sebagaimana dimaksud pada ayat (3) diatur dalam Peraturan Pemerintah.
+
+#### Pasal 158
+
+(1) Modal Lembaga sebagaimana dimaksud dalam Pasal 154 ayat (3) huruf b berasal dari penyertaan modal negara dan/atau sumber lainnya.
+
+(2) Setiap perubahan penyertaan modal negara pada Lembaga, baik berupa pengurangan maupun penambahan modal yang berasal dari sumber sebagaimana dimaksud pada ayat (1) ditetapkan dengan Peraturan Pemerintah.
+
+(3) Lembaga dapat melaksanakan investasi, baik secara langsung maupun tidak langsung, melakukan kerjasama dengan pihak ketiga, atau melalui pembentukan entitas khusus yang berbentuk badan hukum Indonesia atau badan hukum asing.
+
+(4) Keuntungan atau kerugian yang dialami Lembaga dalam melaksanakan investasi sebagaimana dimaksud pada ayat (3), merupakan keuntungan atau kerugian Lembaga.
+
+(5) Dalam hal Lembaga mengalami keuntungan sebagaimana dimaksud pada ayat (4), sebagian keuntungan ditetapkan sebagai laba bagian Pemerintah Pusat untuk disetorkan ke kas negara, setelah dilakukan pencadangan untuk menutup/menanggung risiko kerugian dalam berinvestasi dan/atau melakukan akumulasi modal.
+
+(6) Penyertaan modal sebagaimana dimaksud pada ayat (1) dan ayat (2) yang menjadi kekayaan Lembaga dicatat dalam Laporan Keuangan Pemerintah Pusat.
+
+(7) Ketentuan lebih lanjut mengenai pencadangan untuk menutup/menanggung risiko kerugian dalam berinvestasi dan/atau melakukan akumulasi modal sebagaimana dimaksud pada ayat (5) diatur dengan atau berdasarkan Peraturan Pemerintah.
+
+#### Pasal 159
+
+(1) Untuk meningkatkan nilai aset, Lembaga dapat melakukan pengelolaan aset melalui kerja sama dengan pihak ketiga.
+
+(2) Kerja sama dengan pihak ketiga sebagaimana dimaksud pada ayat (1) dilaksanakan oleh Lembaga melalui:
+* a. kuasa kelola;
+* b. pembentukan perusahaan patungan; dan/atau
+* c. bentuk kerja sama lainnya.
+
+(3) Dalam hal kerja sama dilakukan melalui pembentukan perusahaan patungan sebagaimana dimaksud pada ayat (2) huruf b, aset Lembaga dapat dipindahtangankan untuk dijadikan penyertaan modal dalam perusahaan patungan.
+
+(4) Penyertaan modal sebagaimana dimaksud pada ayat (3) dilakukan sesuai dengan ketentuan peraturan perundangundangan.
+
+(5) Aset yang dijadikan penyertaan modal sebagimana dimaksud pada ayat (3) tidak boleh dalam keadaan:
+* a. sengketa;
+* b. disita, baik sita pidana maupun sita perdata;
+* c. terdapat kepemilikan atas hak istimewa pihak manapun, kecuali disepakati oleh pemilik hak; dan/atau
+* d. sedang dalam pengikatan sebagai jaminan utang, kecuali disepakati oleh kreditur.
+
+(6) Ketentuan lebih lanjut mengenai tata cara pengelolaan aset Lembaga diatur dengan atau berdasarkan Peraturan Pemerintah.
+
+#### Pasal 160
+
+(1) Aset Lembaga dapat berasal dari:
+* a. penyertaan modal sebagaimana dimaksud dalam Pasal 158 ayat (1);
+* b. hasil pengembangan usaha dan pengembangan aset Lembaga;
+* c. pemindahtanganan aset negara atau aset badan usaha milik negara;
+* d. hibah; dan/atau
+* e. sumber lain yang sah.
+
+(2) Aset Lembaga dapat dijaminkan dalam rangka penarikan pinjaman.
+
+(3) Pihak manapun dilarang melakukan penyitaan aset Lembaga, kecuali atas aset yang telah dijaminkan dalam rangka pinjaman.
+
+(4) Pengelolaan aset Lembaga sepenuhnya dilakukan oleh organ Lembaga berdasarkan prinsip tata kelola yang baik, akuntabel, dan transparan.
+
+#### Pasal 161
+
+Pemeriksaan pengelolaan dan tanggung jawab keuangan Lembaga dilakukan oleh akuntan publik yang terdaftar pada Badan Pemeriksa Keuangan dan Otoritas Jasa Keuangan.
+
+#### Pasal 162
+
+(1) Organ dan pegawai Lembaga bukan merupakan penyelengara negara, kecuali yang berasal dari pejabat negara yang bersifat ex-officio.
+
+(2) Lembaga menetapkan sistem kepegawaian, sistem penggajian, penghargaan, program pensiun dan tunjangan hari tua, serta penghasilan lainnya bagi pegawai Lembaga.
+
+(3) Lembaga tidak dapat dipailitkan kecuali dapat dibuktikan dalam kondisi insolven.
+
+#### Pasal 163
+
+Menteri Keuangan, pejabat Kementerian Keuangan, dan organ dan pegawai Lembaga, tidak dapat dimintakan pertanggungjawaban hukum atas kerugian investasi jika dapat membuktikan:
+* a. kerugian tersebut bukan karena kesalahan atau kelalaiannya;
+* b. telah melakukan pengurusan dengan itikad baik dan kehatihatian sesuai dengan maksud dan tujuan investasi dan tata kelola;
+* c. tidak memiliki benturan kepentingan baik langsung maupun tidak langsung atas tindakan pengelolaan investasi; dan
+* d. tidak memperoleh keuntungan pribadi secara tidak sah.
+
+#### Pasal 164
+
+(1) Ketentuan lebih lanjut mengenai tata kelola Lembaga diatur dengan atau berdasarkan Peraturan Pemerintah.
+
+(2) Sepanjang diatur dalam Undang-Undang ini, ketentuan peraturan perundang-undangan yang mengatur mengenai pengelolaan keuangan negara, kekayaan negara, dan/atau badan usaha milik negara tidak berlaku bagi Lembaga.
+Paragraf 2 Lembaga Pengelola Investasi
+
+#### Pasal 165
+
+(1) Dalam rangka pengelolaan investasi sebagaimana dimaksud dalam Pasal 154 ayat (3) huruf b, untuk pertama kali berdasarkan Undang-Undang ini dibentuk Lembaga Pengelola Investasi.
+
+(2) Pembentukan Lembaga Pengelola Investasi dimaksudkan untuk meningkatkan dan mengoptimalisasi nilai aset secara jangka panjang, dalam rangka mendukung pembangunan secara berkelanjutan.
+
+(3) Organ Lembaga Pengelola Investasi terdiri atas:
+* a. Dewan Pengawas; dan
+* b. Dewan Direktur.
+
+#### Pasal 166
+
+(1) Dewan Pengawas sebagaimana dimaksud dalam Pasal 165 ayat (3) huruf a terdiri atas:
+* a. Menteri Keuangan sebagai ketua merangkap anggota;
+* b. Menteri yang menyelenggarakan urusan pemerintahan di bidang badan usaha milik negara sebagai anggota; dan
+* c. 3 (tiga) orang yang berasal dari unsur profesional sebagai anggota.
+
+(2) Anggota Dewan Pengawas sebagaimana dimaksud pada ayat (1) diangkat dan diberhentikan oleh Presiden.
+
+(3) Untuk memilih anggota Dewan Pengawas dari unsur profesional sebagaimana dimaksud pada ayat (1) huruf c, Presiden membentuk panitia seleksi.
+
+(4) Panitia seleksi melakukan:
+* a. pengumuman penerimaan dan pendaftaran calon;
+* b. proses seleksi; dan
+* c. penyampaian nama calon kepada Presiden.
+
+(5) Penyampaian nama calon kepada Presiden dilakukan dalam jangka waktu paling lama 3 (tiga) bulan sejak pembentukan panitia seleksi.
+
+(6) Presiden menyampaikan nama calon untuk dikonsultasikan kepada Dewan Perwakilan Rakyat Republik Indonesia dalam jangka waktu paling lama 10 (sepuluh) hari kerja terhitung sejak diterimanya daftar nama calon dari panitia seleksi.
+
+(7) Dewan Perwakilan Rakyat Republik Indonesia menyelenggarakan sesi konsultasi dengan Presiden paling lama 10 (sepuluh) hari kerja terhitung sejak diterimanya daftar nama calon dari Presiden.
+
+(8) Presiden menetapkan dan mengangkat anggota Dewan Pengawas dari unsur profesional dalam jangka waktu paling lama 14 (empat belas) hari kerja terhitung sejak konsultasi sebagaimana dimaksud pada ayat (7) selesai dilaksanakan.
+
+(9) Dalam hal sesi konsultasi tidak terlaksana sesuai jangka waktu yang ditentukan sebagaimana dimaksud pada ayat (7), Presiden menetapkan dan mengangkat anggota Dewan Pengawas dari unsur profesional dalam jangka waktu paling lama 14 (empat belas) hari kerja sebagaimana dimaksud pada ayat (8).
+
+(10) Ketentuan lebih lanjut mengenai seleksi anggota Dewan Pengawas dari unsur profesional diatur dengan Peraturan Pemerintah.
+
+(11) Sesama anggota Dewan Pengawas dilarang saling memiliki hubungan keluarga sampai derajat kedua atau besan dengan sesama anggota Dewan Pengawas dan/atau dengan anggota Dewan Direktur.
+
+(12) Anggota Dewan Pengawas dari unsur profesional diangkat untuk masa jabatan 5 (lima) tahun dan hanya dapat diangkat kembali untuk 1 (satu) kali masa jabatan berikutnya.
+
+(13) Dalam rangka pengangkatan anggota Dewan Pengawas dari unsur profesional untuk pertama kali, Presiden menetapkan masa jabatan 3 (tiga) anggota Dewan Pengawas sebagai berikut:
+* a. 1 (satu) anggota diangkat untuk masa jabatan 5 (lima) tahun;
+* b. 1 (satu) anggota diangkat untuk masa jabatan 4 (empat) tahun; dan
+* c. 1 (satu) anggota diangkat untuk masa jabatan 3 (tiga) tahun.
+
+(14) Dewan Pengawas sebagaimana dimaksud pada ayat (1) bertugas melakukan pengawasan atas penyelenggaraan Lembaga Pengelola Investasi oleh Dewan Direktur.
+
+(15) Dalam melaksanakan tugas sebagaimana dimaksud pada ayat (14) Dewan Pengawas berwenang:
+* a. menyetujui rencana kerja dan anggaran tahunan beserta indikator kinerja utama (key performance indicator) yang diusulkan Dewan Direktur;
+* b. melakukan evaluasi pencapaian indikator kinerja utama (key performance indicator);
+* c. menerima dan mengevaluasi laporan pertanggungjawaban dari Dewan Direktur;
+* d. menyampaikan laporan pertanggungjawaban Dewan Pengawas dan Dewan Direktur kepada Presiden;
+* e. menetapkan dan mengangkat anggota Dewan Penasihat;
+* f. mengangkat dan memberhentikan Dewan Direktur;
+* g. menetapkan remunerasi Dewan Pengawas dan Dewan Direktur;
+* h. mengusulkan peningkatan dan/atau pengurangan modal Lembaga kepada Presiden;
+* i. menyetujui laporan keuangan tahunan Lembaga;
+* j. memberhentikan sementara satu atau lebih anggota Dewan Direktur dan menunjuk pengganti sementara untuk Dewan Direktur; dan
+* k. menyetujui penunjukan auditor Lembaga.
+
+(16) Untuk membantu Dewan Pengawas dalam melaksanakan tugas dan wewenangnya, Dewan Pengawas dapat membentuk komite.
+
+#### Pasal 167
+
+(1) Dewan Direktur sebagaimana dimaksud dalam Pasal 165 ayat (3) huruf b berjumlah 5 (lima) orang dari unsur profesional.
+
+(2) Anggota Dewan Direktur sebagaimana dimaksud pada ayat (1) diangkat dan diberhentikan oleh Dewan Pengawas.
+
+(3) Sesama anggota Dewan Direktur dilarang saling memiliki hubungan keluarga sampai derajat kedua atau besan dengan sesama anggota Dewan Direktur dan/atau dengan anggota Dewan Pengawas.
+
+(4) Anggota Dewan Direktur diangkat untuk masa jabatan 5 (lima) tahun dan hanya dapat diangkat kembali untuk 1 (satu) kali masa jabatan berikutnya.
+
+(5) Dalam rangka pengangkatan anggota Dewan Direktur untuk pertama kali, Dewan Pengawas menetapkan masa jabatan 5 (lima) anggota Dewan Direktur sebagai berikut:
+* a. 2 (dua) anggota diangkat untuk masa jabatan 5 (lima) tahun;
+* b. 2 (dua) anggota diangkat untuk masa jabatan 4 (empat) tahun; dan
+* c. 1 (satu) anggota diangkat untuk masa jabatan 3 (tiga) tahun.
+
+(6) Dewan Direktur sebagaimana dimaksud pada ayat (1) bertugas untuk menyelenggarakan pengurusan operasional Lembaga Pengelola Investasi.
+
+(7) Dalam menjalankan tugas sebagaimana dimaksud pada ayat (6), Dewan Direktur berwenang:
+* a. merumuskan dan menetapkan kebijakan lembaga;
+* b. melaksanakan kebijakan dan pengurusan operasional lembaga;
+* c. menyusun dan mengusulkan remunerasi Dewan Pengawas dan Dewan Direktur kepada Dewan Pengawas;
+* d. menyusun dan mengusulkan rencana kerja dan anggaran tahunan beserta indikator kinerja utama (key performance indicator) kepada Dewan Pengawas;
+* e. menyusun struktur organisasi lembaga dan menyelenggarakan manajemen kepegawaian termasuk pengangkatan, pemberhentian, sistem penggajian, remunerasi penghargaan, program pensiun dan tunjangan hari tua, serta penghasilan lainnya bagi pegawai Lembaga Pengelola Investasi; dan
+* f. mewakili Lembaga Pengelola Investasi di dalam dan di luar pengadilan.
+
+(8) Dewan Direktur dapat mendelegasikan tugas dan/atau wewenang pelaksanaan operasional Lembaga Pengelola Investasi kepada pegawai Lembaga Pengelola Investasi dan/atau pihak lain yang khusus ditunjuk untuk itu.
+
+(9) Pembidangan masing-masing anggota Dewan Direktur ditetapkan oleh Dewan Direktur.
+
+#### Pasal 168
+
+Untuk dapat diangkat sebagai anggota Dewan Pengawas dari unsur profesional dan anggota Dewan Direktur, calon anggota Dewan Pengawas dari unsur profesional dan calon anggota Dewan Direktur harus memenuhi persyaratan:
+* a. warga negara Indonesia;
+* b. mampu melakukan perbuatan hukum;
+* c. sehat jasmani dan rohani;
+* d. berusia paling tinggi 65 (enam puluh lima) tahun, pada saat pengangkatan pertama;
+* e. bukan pengurus dan/atau anggota partai politik;
+* f. memiliki pengalaman dan/atau keahlian di bidang investasi, ekonomi, keuangan, perbankan, hukum, dan/atau organisasi perusahaan;
+* g. tidak pernah dipidana penjara karena melakukan tindak pidana kejahatan;
+* h. tidak pernah dinyatakan pailit atau tidak pernah menjadi pengurus perusahaan yang menyebabkan perusahaan tersebut pailit; dan
+* i. tidak dinyatakan sebagai orang perseorangan yang tercela di bidang investasi dan bidang lainnya berdasarkan peraturan perundang-undangan.
+
+#### Pasal 169
+
+(1) Dalam hal diperlukan, Lembaga Pengelola Investasi dapat membentuk Dewan Penasihat untuk memberikan saran dan bimbingan kepada Lembaga Pengelola Investasi dalam hal terkait investasi.
+
+(2) Anggota Dewan Penasihat sebagaimana dimaksud pada ayat (1) diangkat dan diberhentikan oleh Dewan Pengawas.
+
+#### Pasal 170
+
+(1) Modal awal Lembaga Pengelola Investasi dapat berupa:
+* a. dana tunai;
+* b. barang milik negara;
+* c. piutang negara pada badan usaha milik negara atau perseroan terbatas; dan/atau
+* d. saham milik negara pada badan usaha milik negara atau perseroan terbatas.
+
+(2) Modal awal Lembaga Pengelola Investasi ditetapkan paling sedikit Rp15.000.000.000.000,00 (lima belas triliun rupiah) berupa dana tunai.
+
+(3) Dalam hal modal Lembaga Pengelola Investasi berkurang secara signifikan, Pemerintah dapat menambah kembali modal Lembaga Pengelola Investasi.
+
+(4) Penyertaan modal awal sebagaimana dimaksud pada ayat (2) ditetapkan dengan Peraturan Pemerintah.
+
+#### Pasal 171
+
+(1) Lembaga Pengelola Investasi yang dibentuk dengan undangundang ini hanya dapat dibubarkan dengan undangundang.
+
+(2) Pembinaan Lembaga Pengelola Investasi dilaksanakan oleh Menteri Keuangan.
+
+(3) Ketentuan lebih lanjut mengenai Lembaga Pengelola Investasi diatur dengan Peraturan Pemerintah.
+
+#### Pasal 172
+
+(1) Lembaga Pengelola Investasi dapat melakukan transaksi baik langsung maupun tidak langsung dengan entitas yang dimilikinya.
+
+(2) Perlakuan perpajakan atas transaksi yang melibatkan Lembaga Pengelola Investasi dan/atau entitas yang dimilikinya, termasuk transaksi sebagaimana dimaksud pada ayat (1), diatur dengan atau berdasarkan Peraturan Pemerintah.
+
+## Bagian Kedua — Kemudahan Proyek Strategis Nasional
+
+#### Pasal 173
+
+(1) Pemerintah Pusat atau Pemerintah Daerah sesuai kewenangannya berdasarkan norma, standar, prosedur, dan kriteria yang ditetapkan oleh Pemerintah Pusat bertanggung jawab dalam menyediakan lahan dan Perizinan Berusaha bagi proyek strategis nasional dari Pemerintah Pusat, Pemerintah Daerah, Badan Usaha Milik Negara, atau Badan Usaha Milik Daerah.
+
+(2) Dalam hal pengadaan tanah belum dapat dilaksanakan oleh Pemerintah Pusat atau Pemerintah Daerah sesuai kewenangannya berdasarkan norma, standar, prosedur, dan kriteria, pengadaan tanah untuk proyek strategis nasional dapat dilakukan oleh badan usaha.
+
+(3) Pengadaan tanah untuk proyek strategis nasional sebagaimana dimaksud pada ayat (1) dan ayat (2) dilaksanakan dengan mempertimbangkan prinsip kemampuan keuangan negara dan kesinambungan fiskal.
+
+(4) Dalam hal pengadaan tanah sebagaimana dimaksud pada ayat (2) dilakukan oleh badan usaha, mekanisme pengadaan tanah dilaksanakan sesuai dengan ketentuan peraturan perundang-undangan mengenai pengadaan tanah untuk kepentingan umum.
+
+(5) Ketentuan lebih lanjut mengenai pengadaan tanah dan Perizinan Berusaha bagi proyek strategis nasional diatur dengan Peraturan Pemerintah.
+
+# BAB XI — PELAKSANAAN ADMINISTRASI PEMERINTAHAN UNTUK MENDUKUNG CIPTA KERJA
+
+## Bagian Kesatu — Umum
+
+#### Pasal 174
+
+Dengan berlakunya Undang-Undang ini, kewenangan menteri, kepala lembaga, atau Pemerintah Daerah yang telah ditetapkan dalam Undang-Undang untuk menjalankan atau membentuk peraturan perundang-undangan harus dimaknai sebagai pelaksanaan kewenangan Presiden.
+
+## Bagian Kedua — Administrasi Pemerintahan
+
+#### Pasal 175
+
+Beberapa ketentuan dalam Undang-Undang Nomor 30 Tahun 2014 tentang Administrasi Pemerintahan (Lembaran Negara Republik Indonesia Tahun 2014 Nomor 292, Tambahan Lembaran Negara Republik Indonesia Nomor 5601) diubah:
+
+1. Di antara Pasal 1 angka 19 dan Pasal 1 angka 20 disisipkan 1 (satu) angka baru, yakni angka 19a sehingga berbunyi:
+
+> Pasal 1
+>
+> Dalam Undang-Undang ini yang dimaksud dengan:
+>
+> 1. Administrasi Pemerintahan adalah tata laksana dalam pengambilan keputusan dan/atau tindakan oleh badan dan/atau pejabat pemerintahan.
+>
+> 2. Fungsi Pemerintahan adalah fungsi dalam melaksanakan Administrasi Pemerintahan yang meliputi fungsi pengaturan, pelayanan, pembangunan, pemberdayaan, dan pelindungan.
+>
+> 3. Badan dan/atau Pejabat Pemerintahan adalah unsur yang melaksanakan Fungsi Pemerintahan, baik di lingkungan pemerintah maupun penyelenggara negara lainnya.
+>
+> 4. Atasan Pejabat adalah atasan pejabat langsung yang mempunyai kedudukan dalam organisasi atau strata pemerintahan yang lebih tinggi.
+>
+> 5. Wewenang adalah hak yang dimiliki oleh Badan dan/atau Pejabat Pemerintahan atau penyelenggara negara lainnya untuk mengambil keputusan dan/atau tindakan dalam penyelenggaraan pemerintahan.
+>
+> 6. Kewenangan Pemerintahan yang selanjutnya disebut Kewenangan adalah kekuasaan Badan dan/atau Pejabat Pemerintahan atau penyelenggara negara lainnya untuk bertindak dalam ranah hukum publik.
+>
+> 7. Keputusan Administrasi Pemerintahan yang juga disebut Keputusan Tata Usaha Negara atau Keputusan Administrasi Negara yang selanjutnya disebut Keputusan adalah ketetapan tertulis yang dikeluarkan oleh Badan dan/atau Pejabat Pemerintahan dalam penyelenggaraan pemerintahan.
+>
+> 8. Tindakan Administrasi Pemerintahan yang selanjutnya disebut Tindakan adalah perbuatan Pejabat Pemerintahan atau penyelenggara negara lainnya untuk melakukan dan/atau tidak melakukan perbuatan konkret dalam rangka penyelenggaraan pemerintahan.
+>
+> 9. Diskresi adalah Keputusan dan/atau Tindakan yang ditetapkan dan/atau dilakukan oleh Pejabat Pemerintahan untuk mengatasi persoalan konkret yang dihadapi dalam penyelenggaraan pemerintahan dalam hal peraturan perundang-undangan yang memberikan pilihan, tidak mengatur, tidak lengkap atau tidak jelas, dan/atau adanya stagnasi pemerintahan.
+>
+> 10. Bantuan Kedinasan adalah kerja sama antara Badan dan/atau Pejabat Pemerintahan guna kelancaran pelayanan Administrasi Pemerintahan di suatu instansi pemerintahan yang membutuhkan.
+>
+> 11. Keputusan Berbentuk Elektronis adalah Keputusan yang dibuat atau disampaikan dengan menggunakan atau memanfaatkan media elektronik.
+>
+> 12. Legalisasi adalah pernyataan Badan dan/atau Pejabat Pemerintahan mengenai keabsahan suatu Salinan surat atau dokumen Administrasi Pemerintahan yang dinyatakan sesuai dengan aslinya.
+>
+> 13. Sengketa Kewenangan adalah klaim penggunaan Wewenang yang dilakukan oleh 2 (dua) Pejabat Pemerintahan atau lebih yang disebabkan oleh tumpang tindih atau tidak jelasnya Pejabat Pemerintahan yang berwenang menangani suatu urusan pemerintahan.
+>
+> 14. Konflik Kepentingan adalah kondisi Pejabat Pemerintahan yang memiliki kepentingan pribadi untuk menguntungkan diri sendiri dan/atau orang lain dalam penggunaan Wewenang sehingga dapat mempengaruhi netralitas dan kualitas Keputusan dan/atau Tindakan yang dibuat dan/atau dilakukannya.
+>
+> 15. Warga Masyarakat adalah seseorang atau badan hukum perdata yang terkait dengan Keputusan dan/atau Tindakan.
+>
+> 16. Upaya Administratif adalah proses penyelesaian sengketa yang dilakukan dalam lingkungan Administrasi Pemerintahan sebagai akibat dikeluarkannya Keputusan dan/atau Tindakan yang merugikan.
+>
+> 17. Asas-asas Umum Pemerintahan yang Baik yang selanjutnya disingkat AUPB adalah prinsip yang digunakan sebagai acuan penggunaan Wewenang bagi Pejabat Pemerintahan dalam mengeluarkan Keputusan dan/atau Tindakan dalam penyelenggaraan pemerintahan.
+>
+> 18. Pengadilan adalah Pengadilan Tata Usaha Negara.
+>
+> 19. Izin adalah Keputusan Pejabat Pemerintahan yang berwenang sebagai wujud persetujuan atas permohonan Warga Masyarakat sesuai dengan ketentuan peraturan perundang-undangan.
+>
+> * 19a. Standar adalah Keputusan Pejabat Pemerintahan yang berwenang atau Lembaga yang diakui oleh Pemerintah Pusat sebagai wujud persetujuan atas pernyataan untuk pemenuhan seluruh persyaratan yang ditetapkan sesuai dengan ketentuan peraturan perundang-undangan.
+>
+> 20. Konsesi adalah Keputusan Pejabat Pemerintahan yang berwenang sebagai wujud persetujuan dari kesepakatan Badan dan/atau Pejabat Pemerintahan dengan selain Badan dan/atau Pejabat Pemerintahan dalam pengelolaan fasilitas umum dan/atau sumber daya alam dan pengelolaan lainnya sesuai dengan ketentuan peraturan perundang-undangan.
+>
+> 21. Dispensasi adalah Keputusan Pejabat Pemerintahan yang berwenang sebagai wujud persetujuan atas permohonan Warga Masyarakat yang merupakan pengecualian terhadap suatu larangan atau perintah sesuai dengan ketentuan peraturan perundangundangan.
+>
+> 22. Atribusi adalah pemberian Kewenangan kepada Badan dan/atau Pejabat Pemerintahan oleh Undang-Undang Dasar Negara Republik Indonesia Tahun 1945 atau Undang-Undang.
+>
+> 23. Delegasi adalah pelimpahan Kewenangan dari Badan dan/atau Pejabat Pemerintahan yang lebih tinggi kepada Badan dan/atau Pejabat Pemerintahan yang lebih rendah dengan tanggung jawab dan tanggung gugat beralih sepenuhnya kepada penerima delegasi.
+>
+> 24. Mandat adalah pelimpahan Kewenangan dari Badan dan/atau Pejabat Pemerintahan yang lebih tinggi kepada Badan dan/atau Pejabat Pemerintahan yang lebih rendah dengan tanggung jawab dan tanggung gugat tetap berada pada pemberi mandat.
+>
+> 25. Menteri adalah menteri yang menyelenggarakan urusan pemerintahan di bidang pendayagunaan aparatur negara.
+
+2. Ketentuan Pasal 24 diubah sehingga berbunyi sebagai berikut:
+
+> Pasal 24
+>
+> Pejabat Pemerintahan yang menggunakan Diskresi harus memenuhi syarat:
+> * a. sesuai dengan tujuan Diskresi sebagaimana dimaksud dalam Pasal 22 ayat (2);
+> * b. sesuai dengan AUPB;
+> * c. berdasarkan alasan-alasan yang objektif;
+> * d. tidak menimbulkan Konflik Kepentingan; dan
+> * e. dilakukan dengan iktikad baik.
+
+3. Ketentuan Pasal 38 diubah sehingga berbunyi sebagai berikut:
+
+> Pasal 38
+>
+> (1) Pejabat dan/atau Badan Pemerintahan dapat membuat Keputusan Berbentuk Elektronis.
+>
+> (2) Keputusan Berbentuk Elektronis wajib dibuat atau disampaikan terhadap Keputusan yang diproses oleh sistem elektronik yang ditetapkan Pemerintah Pusat.
+>
+> (3) Keputusan Berbentuk Elektronis berkekuatan hukum sama dengan Keputusan yang tertulis dan berlaku sejak diterimanya Keputusan tersebut oleh pihak yang bersangkutan.
+>
+> (4) Dalam hal keputusan dibuat dalam bentuk elektronis, maka tidak dibuat keputusan dalam bentuk tertulis.
+
+4. Bagian kelima diubah sehingga berbunyi sebagai berikut:
+
+> Bagian Kelima
+>
+> Izin, Standar, Dispensasi, dan Konsesi
+>
+> > Pasal 39
+> >
+> > (1) Pejabat Pemerintahan yang berwenang dapat menerbitkan Izin, Standar, Dispensasi, dan/atau Konsesi dengan berpedoman pada AUPB dan berdasarkan ketentuan peraturan perundangundangan.
+> >
+> > (2) Keputusan Badan dan/atau Pejabat Pemerintahan berbentuk Izin apabila:
+> > * a. diterbitkan persetujuan sebelum kegiatan dilaksanakan; dan
+> > * b. kegiatan yang akan dilaksanakan merupakan kegiatan yang memerlukan perhatian khusus dan/atau memenuhi ketentuan peraturan perundang-undangan.
+> >
+> > (3) Keputusan Badan dan/atau Pejabat Pemerintahan berbentuk Standar apabila:
+> > * a. Persetujuan diterbitkan sebelum kegiatan dilaksanakan; dan
+> > * b. kegiatan yang akan dilaksanakan merupakan kegiatan telah yang terstandardisasi.
+> >
+> > (4) Keputusan Badan dan/atau Pejabat Pemerintahan berbentuk Dispensasi apabila:
+> > * a. persetujuan diterbitkan sebelum kegiatan dilaksanakan; dan
+> > * b. kegiatan yang akan dilaksanakan merupakan kegiatan pengecualian terhadap suatu larangan atau perintah.
+> >
+> > (5) Keputusan Badan dan/atau Pejabat Pemerintahan berbentuk Konsesi apabila:
+> > * a. persetujuan diterbitkan sebelum kegiatan dilaksanakan;
+> > * b. persetujuan diperoleh berdasarkan kesepakatan Badan dan/atau Pejabat Pemerintahan dengan pihak Badan Usaha Milik Negara, Badan Usaha Milik Daerah, dan/atau swasta; dan
+> > * c. kegiatan yang akan dilaksanakan merupakan kegiatan yang memerlukan perhatian khusus.
+> >
+> > (6) Izin, Dispensasi, atau Konsesi yang diajukan oleh pemohon wajib diberikan persetujuan atau penolakan oleh Badan dan/atau Pejabat Pemerintahan paling lama 10 (sepuluh) hari kerja sejak diterimanya permohonan, kecuali ditentukan lain dalam ketentuan peraturan perundangundangan.
+> >
+> > (7) Standar berlaku sejak pemohon menyatakan komitmen pemenuhan elemen standar.
+> >
+> > (8) Izin, Dispensasi, atau Konsesi tidak boleh menyebabkan kerugian negara.
+
+5. Di antara Pasal 39 dan Pasal 40 disisipkan 1 (satu) pasal yakni 39A yang berbunyi sebagai berikut:
+
+> Pasal 39A
+>
+> (1) Badan dan/atau Pejabat Pemerintahan wajib melakukan pembinaan dan pengawasan atas pelaksanaan Izin, Standar, Dispensasi, dan/atau Konsesi.
+>
+> (2) Pembinaan dan Pengawasan terhadap Izin, Standar, Dispensasi, dan/atau Konsesi sebagaimana dimaksud pada ayat (1) dapat dikerjasamakan dengan atau dilakukan oleh profesi yang memiliki sertifikat keahlian sesuai bidang pengawasan.
+>
+> (3) Ketentuan mengenai jenis, bentuk, dan mekanisme pembinaan dan pengawasan atas Izin, Standar, Dispensasi, dan/atau Konsesi yang dapat dilakukan oleh profesi sebagaimana dimaksud pada ayat (2) diatur dengan Peraturan Presiden.
+
+6. Ketentuan Pasal 53 diubah sehingga berbunyi sebagai berikut:
+
+> Pasal 53
+>
+> (1) Batas waktu kewajiban untuk menetapkan dan/atau melakukan Keputusan dan/atau Tindakan sesuai dengan ketentuan peraturan perundang-undangan.
+>
+> (2) Jika ketentuan peraturan perundang-undangan tidak menentukan batas waktu kewajiban sebagaimana dimaksud pada ayat (1), Badan dan/atau Pejabat Pemerintahan wajib menetapkan dan/atau melakukan Keputusan dan/atau Tindakan dalam waktu paling lama 5 (lima) hari kerja setelah permohonan diterima secara lengkap oleh Badan dan/atau Pejabat Pemerintahan.
+>
+> (3) Dalam hal permohonan diproses melalui sistem elektronik dan seluruh persyaratan dalam sistem elektronik telah terpenuhi, sistem elektronik menetapkan Keputusan dan/atau Tindakan sebagai Keputusan atau Tindakan Badan atau Pejabat Pemerintahan yang berwenang.
+>
+> (4) Apabila dalam batas waktu sebagaimana dimaksud pada ayat (2), Badan dan/atau Pejabat Pemerintahan tidak menetapkan dan/atau melakukan Keputusan dan/atau Tindakan, permohonan dianggap dikabulkan secara hukum.
+>
+> (5) Ketentuan lebih lanjut mengenai bentuk penetapan Keputusan dan/atau Tindakan yang dianggap dikabulkan secara hukum sebagaimana dimaksud pada ayat (3) diatur dengan Peraturan Presiden.
+
+## Bagian Ketiga — Pemerintahan Daerah
+
+#### Pasal 176
+
+Beberapa ketentuan dalam Undang Nomor 23 Tahun 2014 tentang Pemerintahan Daerah (Lembaran Negara Republik Indonesia Tahun 2014 Nomor 244, Tambahan Lembaran Negara Republik Indonesia Nomor 5587) sebagaimana diubah terakhir dengan Undang-Undang Nomor 9 Tahun 2015 tentang Perubahan Kedua atas Undang-Undang Nomor 23 Tahun 2014 tentang Pemerintahan Daerah (Lembaran Negara Republik Indonesia Tahun 2015 Nomor 58, Tambahan Lembaran Negara Republik Indonesia Nomor 5679) diubah:
+
+1. Ketentuan Pasal 16 diubah sehingga berbunyi sebagai berikut:
+
+> Pasal 16
+>
+> (1) Pemerintah Pusat dalam menyelenggarakan urusan pemerintahan konkuren sebagaimana dimaksud dalam Pasal 9 ayat (3) berwenang untuk:
+> * a. menetapkan norma, standar, prosedur, dan kriteria dalam rangka penyelenggaraan Urusan Pemerintahan; dan
+> * b. melaksanakan pembinaan dan pengawasan terhadap penyelenggaraan Urusan Pemerintahan yang menjadi kewenangan Daerah.
+>
+> (2) Penetapan norma, standar, prosedur, dan kriteria sebagaimana dimaksud pada ayat (1) huruf a mengacu atau mengadopsi praktik yang baik (good practices).
+>
+> (3) Norma, standar, prosedur, dan kriteria sebagaimana dimaksud pada ayat (1) huruf a dalam bentuk ketentuan peraturan perundang-undangan yang ditetapkan oleh Pemerintah Pusat sebagai aturan pelaksanaan dalam penyelenggaraan urusan pemerintahan konkuren yang menjadi kewenangan Pemerintah Pusat dan yang menjadi kewenangan Pemerintah Daerah.
+>
+> (4) Pemerintah Pusat dapat mendelegasikan peraturan pelaksanaan norma, standar, prosedur, dan kriteria sebagaimana dimaksud pada ayat (3) kepada Kepala Daerah yang ditetapkan dengan Peraturan Kepala Daerah.
+>
+> (5) Kewenangan Pemerintah Pusat sebagaimana dimaksud pada ayat (1) huruf b dibantu oleh kementerian dan lembaga pemerintah nonkementerian.
+>
+> (6) Pelaksanaan kewenangan yang dilakukan oleh lembaga pemerintah nonkementerian sebagaimana dimaksud pada ayat (5) harus dikoordinasikan dengan kementerian terkait.
+>
+> (7) Penetapan norma, standar, prosedur, dan kriteria sebagaimana dimaksud pada ayat (1) huruf a dilakukan paling lama 2 (dua) tahun terhitung sejak peraturan pemerintah mengenai pelaksanaan urusan pemerintahan konkuren diundangkan.
+
+2. Ketentuan Pasal 250 diubah sehingga berbunyi sebagai berikut:
+
+> Pasal 250
+>
+> Perda dan Perkada sebagaimana dimaksud dalam Pasal 249 ayat (1) dan ayat (3) dilarang bertentangan dengan ketentuan peraturan perundang-undangan yang lebih tinggi, asas pembentukan peraturan perundang-undangan yang baik, asas materi muatan peraturan perundang-undangan, dan putusan pengadilan.
+
+3. Ketentuan Pasal 251 diubah sehingga berbunyi sebagai berikut:
+
+> Pasal 251
+>
+> (1) Perda Provinsi dan peraturan gubernur dan/atau Perda Kabupaten/Kota dan peraturan bupati/wali kota, dilarang bertentangan dengan ketentuan peraturan perundang-undangan yang lebih tinggi, asas pembentukan peraturan perundang-undangan yang baik, asas materi muatan peraturan perundangundangan, dan putusan pengadilan.
+>
+> (2) Agar tidak bertentangan dengan bertentangan dengan ketentuan peraturan perundang-undangan yang lebih tinggi, asas pembentukan peraturan perundangundangan yang baik, asas materi muatan peraturan perundang-undangan, dan putusan pengadilan, sebagaimana dimaksud pada ayat (1), Penyusunan Perda Provinsi dan peraturan gubernur dan/atau Perda Kabupaten/Kota dan peraturan bupati/wali kota, melibatkan ahli dan/atau instansi vertikal di daerah yang menyelenggarakan urusan pemerintahan di bidang perundang-undangan.
+
+4. Ketentuan Pasal 252 diubah sehingga berbunyi sebagai berikut:
+
+> Pasal 252
+>
+> (1) Penyelenggara Pemerintahan Daerah provinsi atau kabupaten/kota yang masih memberlakukan Perda yang dicabut sebagaimana dimaksud dalam Pasal 251 ayat (2), dikenai sanksi.
+>
+> (2) Sanksi sebagaimana dimaksud pada ayat (1) berupa:
+> * a. sanksi administratif; dan/atau
+> * b. sanksi penundaan evaluasi rancangan Perda.
+>
+> (3) Sanksi administratif sebagaimana dimaksud pada ayat (2) huruf a dikenai kepada kepala Daerah dan anggota DPRD berupa tidak dibayarkan hak keuangan selama 3 (tiga) bulan yang diatur dengan ketentuan peraturan perundang-undangan.
+>
+> (4) Dalam hal penyelenggara Pemerintahan Daerah provinsi atau kabupaten/kota masih memberlakukan Perda mengenai pajak daerah dan/atau retribusi daerah yang telah dicabut oleh Presiden, dikenai sanksi penundaan atau pemotongan DAU dan/atau DBH bagi Daerah bersangkutan.
+
+5. Ketentuan Pasal 260 diubah sehingga berbunyi sebagai berikut:
+
+> Pasal 260
+>
+> (1) Daerah sesuai dengan kewenangannya menyusun rencana pembangunan daerah sebagai satu kesatuan dalam sistem perencanaan pembangunan nasional di segala bidang kehidupan yang berlandaskan pada riset dan inovasi nasional yang berpedoman pada nilai-nilai Pancasila.
+>
+> (2) Rencana pembangunan Daerah sebagaimana dimaksud pada ayat (1) dikoordinasikan, disinergikan, dan diharmonisasikan oleh Perangkat Daerah yang membidangi perencanaan pembangunan Daerah.
+
+6. Di antara Pasal 292 dan Pasal 293 disisipkan 1 (satu) Pasal yakni Pasal 292A sehingga berbunyi sebagai berikut:
+
+> Pasal 292A
+>
+> (1) Dalam hal penyederhanaan perizinan dan pelaksanaan Perizinan Berusaha oleh Pemerintah Daerah sebagaimana dimaksud dalam Undang-Undang ini menyebabkan berkurangnya pendapatan asli daerah yang mengakibatkan terganggunya pelayanan oleh pemerintah daerah, Pemerintah Pusat memberikan dukungan dan anggaran dalam rangka pelayanan pemerintah daerah tersebut.
+>
+> (2) Pemberian anggaran sebagaimana dimaksud pada ayat (1) diatur dengan Peraturan Pemerintah.
+
+7. Ketentuan Pasal 300 diubah sehingga berbunyi sebagai berikut:
+
+> Pasal 300
+>
+> (1) Daerah dapat melakukan pinjaman yang bersumber dari Pemerintah Pusat, Daerah lain, lembaga keuangan bank, lembaga keuangan bukan bank, dan masyarakat.
+>
+> (2) Kepala Daerah dapat menerbitkan Obligasi Daerah dan/atau Sukuk Daerah untuk membiayai infrastruktur dan/atau investasi berupa kegiatan penyediaan pelayanan publik yang menjadi urusan Pemerintah Daerah setelah memperoleh pertimbangan dari Menteri dan persetujuan dari menteri yang menyelenggarakan urusan pemerintahan bidang keuangan.
+
+8. Ketentuan Pasal 349 diubah sehingga berbunyi sebagai berikut:
+
+> Pasal 349
+>
+> (1) Daerah dapat melakukan penyederhanaan jenis dan prosedur pelayanan publik untuk meningkatkan mutu pelayanan dan daya saing Daerah dan sesuai dengan norma, standar, prosedur, dan kriteria, serta kebijakan Pemerintah Pusat.
+>
+> (2) Penyederhanaan sebagaimana dimaksud pada ayat (1) ditetapkan dengan Peraturan Daerah.
+>
+> (3) Pemerintah Daerah dapat memanfaatkan teknologi informasi dan komunikasi dalam penyelenggaraan pelayanan publik.
+
+9. Ketentuan Pasal 350 diubah sehingga berbunyi sebagai berikut:
+
+> Pasal 350
+>
+> (1) Kepala daerah wajib memberikan pelayanan Perizinan Berusaha sesuai dengan ketentuan peraturan perundang-undangan dan norma, standar, prosedur, dan kriteria.
+>
+> (2) Dalam memberikan pelayanan Perizinan Berusaha sebagaimana dimaksud pada ayat (1), Daerah membentuk unit pelayanan terpadu satu pintu.
+>
+> (3) Pembentukan unit pelayanan terpadu satu pintu sebagaimana dimaksud pada ayat (2) berpedoman pada ketentuan peraturan perundang-undangan.
+>
+> (4) Pelayanan Perizinan Berusaha sebagaimana dimaksud pada ayat (1) wajib menggunakan sistem perizinan elektronik yang dikelola oleh Pemerintah Pusat.
+>
+> (5) Kepala daerah dapat mengembangkan sistem pendukung pelaksanaan sistem Perizinan Berusaha terintegrasi secara elektronik sebagaimana dimaksud pada ayat (4) sesuai standar yang ditetapkan Pemerintah Pusat.
+>
+> (6) Kepala daerah yang tidak memberikan pelayanan Perizinan Berusaha sebagaimana dimaksud pada ayat (1) dan penggunaan sistem Perizinan Berusaha terintegrasi secara elektronik sebagaimana dimaksud pada ayat (5) dikenai sanksi administratif.
+>
+> (7) Sanksi administratif sebagaimana dimaksud pada ayat (6) berupa teguran tertulis kepada gubernur oleh Menteri dan kepada bupati/wali kota oleh gubernur sebagai wakil Pemerintah Pusat untuk pelanggaran yang bersifat administrasi.
+>
+> (8) Teguran tertulis sebagaimana dimaksud pada ayat (7) dapat diberikan oleh menteri atau kepala lembaga yang membina dan mengawasi Perizinan Berusaha sektor setelah berkoordinasi dengan Menteri.
+>
+> (9) Dalam hal teguran tertulis sebagaimana dimaksud pada ayat (7) dan ayat (8) telah disampaikan 2 (dua) kali berturut-turut dan tetap tidak dilaksanakan oleh kepala daerah:
+> * a. menteri atau kepala lembaga yang membina dan mengawasi Perizinan Berusaha sektor mengambil alih pemberian Perizinan Berusaha yang menjadi kewenangan gubernur; atau
+> * b. gubernur sebagai wakil Pemerintah Pusat mengambil alih pemberian Perizinan Berusaha yang menjadi kewenangan bupati/wali kota.
+>
+> (10) Pengambilalihan pemberian Perizinan Berusaha oleh menteri atau kepala lembaga yang membina dan mengawasi Perizinan Berusaha sektor sebagaimana dimaksud pada ayat (9) setelah berkoordinasi dengan Menteri.
+
+10. Di antara Pasal 402 dan 403 ditambahkan 1 (satu) pasal yakni Pasal 402A yang berbunyi sebagai berikut:
+
+> Pasal 402A
+>
+> Pembagian urusan pemerintahan konkuren antara Pemerintah Pusat dan Daerah Provinsi serta Daerah Kabupaten/Kota sebagaimana tercantum dalam Lampiran Undang Nomor 23 Tahun 2014 tentang Pemerintahan Daerah sebagaimana diubah terakhir dengan UndangUndang Nomor 9 Tahun 2015 tentang Perubahan Kedua atas Undang-Undang Nomor 23 Tahun 2014 tentang Pemerintahan Daerah, harus dibaca dan dimaknai sesuai dengan ketentuan yang diatur dalam Undang-Undang tentang Cipta Kerja.
+
+# BAB XII — PENGAWASAN DAN PEMBINAAN
+
+#### Pasal 177
+
+(1) Pemerintah Pusat berkewajiban melakukan pengawasan dan pembinaan terhadap setiap pelaksanaan Perizinan Berusaha yang dilakukan oleh pemegang Perizinan Berusaha.
+
+(2) Pelaksanaan pengawasan dan pembinaan sebagaimana dimaksud pada ayat (1) dilakukan oleh Aparatur Sipil Negara sesuai dengan kewenangannya.
+
+(3) Aparatur Sipil Negara dalam melaksanakan tugas pengawasan dan pembinaan sebagaimana dimaksud pada ayat (2), dapat bekerjasama dengan profesi bersertifikat sesuai dengan bidang pengawasan dan pembinaan yang dilakukan.
+
+(4) Dalam hal Aparatur Sipil Negara dan profesi bersertifikat dalam melaksanakan tugasnya menemukan pelanggaran terhadap ketentuan yang tertuang dalam setiap Perizinan Berusaha yang dilakukan oleh pemilik Perizinan Berusaha sebagaimana dimaksud pada ayat (1), Aparatur Sipil Negara sesuai dengan kewenangannya dapat mengenai sanksi administratif kepada pemilik Perizinan Berusaha.
+
+(5) Sanksi administratif sebagaimana dimaksud pada ayat (4) dapat berupa:
+* a. peringatan;
+* b. penghentian sementara kegiatan berusaha;
+* c. pengenaan denda administratif;
+* d. pengenaan daya paksa polisional;
+* e. pencabutan Lisensi/Sertifikasi/Persetujuan; dan/atau
+* f. pencabutan Perizinan Berusaha.
+
+(6) Kewenangan Pemerintah Pusat dalam melaksanakan pengawasan dan pembinaan sebagaimana dimaksud pada ayat (1) dan pengenaan sanksi administratif sebagaimana dimaksud pada ayat (4) dapat dilimpahkan kepada Pemerintah Daerah sesuai dengan ketentuan peraturan perundang-undangan.
+
+(7) Ketentuan lebih lanjut mengenai sanksi administratif lainnya dan tata cara pengenaan sanksi administratif sebagaimana dimaksud pada ayat (4) diatur dengan Peraturan Pemerintah.
+
+#### Pasal 178
+
+Setiap pemilik Perizinan Berusaha yang dalam melaksanakan kegiatan/usahanya menimbulkan dampak kerusakan pada lingkungan hidup, selain dikenai sanksi administratif sebagaimana dimaksud dalam Pasal 167 ayat (5), pemilik Perizinan Berusaha wajib memulihkan kerusakan lingkungan akibat dari kegiatan/usahanya.
+
+#### Pasal 179
+
+(1) Pemerintah Pusat berkewajiban melakukan pengawasan terhadap Aparatur Sipil Negara dan/atau profesi bersertifikat yang melaksanakan tugas dan tanggungjawab pengawasan dan pembinaan.
+
+(2) Aparatur Sipil Negara dan/atau profesi bersertifikat sebagaimana dimaksud pada ayat (1) yang tidak melaksanakan tugas dan fungsi pengawasan dan pembinaan terhadap pelaksanaan Perizinan Berusaha, dikenai sanksi sesuai ketentuan peraturan perundang-undangan.
+
+(3) Kewenangan pelaksanaan pengawasan sebagaimana dimaksud pada ayat (1) dapat dilimpahkan kepada Pemerintah Daerah sesuai dengan ketentuan peraturan perundang-undangan.
+
+(4) Ketentuan lebih lanjut mengenai tata cara pelaksanaan pengawasan oleh Pemerintah Pusat sebagaimana dimaksud pada ayat (1) diatur dengan Peraturan Pemerintah.
+
+# BAB XIII — KETENTUAN LAIN-LAIN
+
+#### Pasal 180
+
+(1) Hak, izin, atau konsesi atas tanah dan/atau kawasan yang dengan sengaja tidak diusahakan atau ditelantarkan dalam jangka waktu paling lama 2 (dua) tahun sejak diberikan, dicabut dan dikembalikan kepada negara.
+
+(2) Dalam pelaksanaan pengembalian kepada negara sebagaimana dimaksud pada ayat (1), Pemerintah Pusat dapat menetapkan hak, izin, atau konsesi tersebut sebagai aset Bank Tanah.
+
+(3) Ketentuan lebih lanjut pencabutan hak, izin, atau konsesi dan penetapannya sebagai aset Bank Tanah diatur dengan Peraturan Pemerintah.
+
+#### Pasal 181
+
+(1) Pada saat berlakunya Undang-Undang ini, setiap peraturan perundang-undangan di bawah Undang-Undang yang berlaku dan bertentangan dengan ketentuan UndangUndang ini atau bertentangan dengan peraturan perundangundangan yang lebih tinggi, atau bertentangan dengan putusan pengadilan harus dilakukan harmonisasi dan sinkronisasi yang dikoordinasikan oleh kementerian yang menyelenggarakan urusan di bidang hukum.
+
+(2) Dalam hal harmonisasi dan sinkronisasi yang berkaitan dengan peraturan daerah dan/atau peraturan kepala daerah, dilaksanakan oleh kementerian yang menyelenggarakan urusan di bidang hukum bersama dengan kementerian yang menyelenggarakan urusan di bidang dalam negeri.
+
+(3) Ketentuan lebih lanjut mengenai harmonisasi dan sinkronisasi sebagaimana dimaksud pada ayat (1) dan ayat (2) diatur dengan Peraturan Pemerintah.
+
+#### Pasal 182
+
+Dalam rangka penetapan Peraturan Pemerintah, Pemerintah Pusat dapat berkonsultasi dengan:
+* a. Pimpinan Dewan Perwakilan Rakyat dan alat kelengkapan DPR yang menangani bidang legislasi; dan/atau
+* b. Pimpinan Dewan Perwakilan Daerah dan alat kelengkapan DPD yang menangani bidang legislasi.
+
+#### Pasal 183
+
+Pemerintah Pusat harus melaporkan pelaksanaan UndangUndang ini kepada:
+* a. Dewan Perwakilan Rakyat melalui alat kelengkapan yang menangani bidang legislasi; dan/atau
+* b. Dewan Perwakilan Daerah melalui alat kelengkapan yang menangani bidang legislasi, paling lama 1 (satu) tahun terhitung sejak Undang-Undang ini berlaku.
+
+# BAB XIV — KETENTUAN PERALIHAN
+
+#### Pasal 184
+
+Pada saat Undang-Undang ini mulai berlaku:
+* a. Perizinan Berusaha atau izin sektor yang sudah terbit masih tetap berlaku sampai dengan berakhirnya Perizinan Berusaha.
+* b. Perizinan Berusaha dan/atau izin sektor yang sudah terbit sebelum berlakunya Undang-Undang ini dapat berlaku sesuai dengan Undang-Undang ini.
+* c. Perizinan Berusaha yang sedang dalam proses permohonan disesuaikan dengan ketentuan dalam Undang-Undang ini.
+
+# BAB XV — KETENTUAN PENUTUP
+
+#### Pasal 185
+
+Pada saat Undang-Undang ini mulai berlaku:
+* a. Peraturan Pemerintah dan Peraturan Presiden sebagai pelaksanaan Undang-Undang ini wajib ditetapkan paling lama 3 (tiga) bulan;
+* b. Peraturan Pemerintah yang mengatur norma, standar, prosedur, dan kriteria Perizinan Berusaha wajib ditetapkan paling lama 3 (tiga) bulan; dan
+* c. Peraturan Pelaksanaan dari Undang-Undang yang telah mengalami perubahan berdasarkan Undang-Undang dinyatakan tetap berlaku sepanjang tidak bertentangan dengan Undang-Undang ini dan wajib disesuaikan paling lama 3 (tiga) bulan.
+
+#### Pasal 186
+
+Undang-Undang ini mulai berlaku pada tanggal diundangkan.
+
+---
+
+Agar setiap orang mengetahuinya, memerintahkan pengundangan Undang-Undang ini dengan penempatannya dalam Lembaran Negara Republik Indonesia.
+
+Disahkan di Jakarta
+
+Pada tanggal
+
+PRESIDEN REPUBLIK INDONESIA,
+
+JOKO WIDODO
+
+---
+
+Diundangkan di Jakarta
+
+Pada tanggal
+
+MENTERI HUKUM DAN HAK ASASI MANUSIA
+
+REPUBLIK INDONESIA
+
+YASONNA H. LAOLY
+
+---
+
 
 <!-- UUD 1945 -->
 
